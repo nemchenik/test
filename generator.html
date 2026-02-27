@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Генератор дома по параметрам — ДомПроект</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="index.html">ДомПроект</a>
+      <nav class="top-nav">
+        <a href="index.html#catalog">Каталог</a>
+        <a href="generator.html">Генератор</a>
+        <a href="index.html#services">Услуги</a>
+      </nav>
+      <a class="btn btn-secondary" href="index.html">На главную</a>
+    </div>
+  </header>
+
+  <main class="container generator-page">
+    <section class="section-card">
+      <h1>Пример генерации дома по параметрам</h1>
+      <p class="section-subtitle">Демо-версия: выбираете параметры — получаете пример планировки, визуализацию и моментальный расчёт стоимости.</p>
+
+      <div class="generator-grid">
+        <label>Площадь (м²)
+          <input type="number" id="genArea" min="60" max="280" value="160" step="1">
+        </label>
+        <label>Этажность
+          <select id="genFloors">
+            <option value="1">1 этаж</option>
+            <option value="2" selected>2 этажа</option>
+          </select>
+        </label>
+        <label>Спальни
+          <select id="genBedrooms">
+            <option value="2">2 спальни</option>
+            <option value="3" selected>3 спальни</option>
+            <option value="4">4 спальни</option>
+            <option value="5">5 спален</option>
+          </select>
+        </label>
+        <label>Стиль
+          <select id="genStyle">
+            <option value="Современный" selected>Современный</option>
+            <option value="Скандинавский">Скандинавский</option>
+            <option value="Шале">Шале</option>
+          </select>
+        </label>
+      </div>
+    </section>
+
+    <section class="generator-preview">
+      <article class="section-card">
+        <h2 id="genTitle">Сгенерированный проект</h2>
+        <p id="genMeta" class="project-meta"></p>
+        <div class="gallery" id="genVisuals"></div>
+      </article>
+
+      <article class="section-card">
+        <h2>Планировки (пример)</h2>
+        <div class="plans" id="genPlans"></div>
+      </article>
+    </section>
+
+    <aside class="section-card generator-calc">
+      <h2>Моментальный расчёт</h2>
+      <p class="section-subtitle">Расчёт ориентировочный для демонстрации работы генератора.</p>
+
+      <label>Базовая ставка (₽/м²)
+        <input type="number" id="genRate" min="25000" step="1000" value="65000">
+      </label>
+
+      <label class="check-row"><input type="checkbox" id="genGarage"><span>Гараж</span><small>+8%</small></label>
+      <label class="check-row"><input type="checkbox" id="genTerrace" checked><span>Терраса</span><small>+6%</small></label>
+      <label class="check-row"><input type="checkbox" id="genPremium"><span>Премиум фасад</span><small>+9%</small></label>
+
+      <div class="total-box">
+        <p>База: <strong id="genBase">—</strong></p>
+        <p>Опции: <strong id="genExtras">—</strong></p>
+        <p class="calc-total" id="genTotal">—</p>
+      </div>
+    </aside>
+  </main>
+
+  <script src="projects.js"></script>
+  <script src="generator.js"></script>
+</body>
+</html>

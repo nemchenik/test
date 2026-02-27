@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Проект дома — ДомПроект</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="index.html">ДомПроект</a>
+      <nav class="top-nav">
+        <a href="index.html#catalog">Каталог</a>
+        <a href="generator.html">Генератор</a>
+        <a href="index.html#services">Услуги</a>
+        <a href="index.html#about">О компании</a>
+      </nav>
+      <a class="btn btn-secondary" href="index.html">На главную</a>
+    </div>
+  </header>
+
+  <header class="page-header">
+    <div class="container">
+      <a href="index.html" class="back-link">← Вернуться к каталогу</a>
+      <h1 id="projectTitle">Проект дома</h1>
+      <p id="projectMeta" class="project-meta"></p>
+      <p id="projectDescription" class="project-description"></p>
+      <ul class="specs-list" id="specs"></ul>
+    </div>
+  </header>
+
+  <main class="container project-layout">
+    <section>
+      <div class="section-card">
+        <h2>Визуализации проекта</h2>
+        <div class="gallery" id="gallery"></div>
+      </div>
+
+      <div class="section-card">
+        <h2>Планировки</h2>
+        <div class="plans" id="plans"></div>
+      </div>
+
+      <div class="section-card">
+        <h2>Примеры планировок</h2>
+        <p class="section-subtitle">Дополнительные планировочные решения для сравнения сценариев проживания.</p>
+        <div class="plans" id="planExamples"></div>
+      </div>
+
+      <div class="section-card">
+        <h2>Другие визуализации дома</h2>
+        <p class="section-subtitle">Варианты фасада, террасы и вечерней подсветки проекта.</p>
+        <div class="gallery" id="additionalVisuals"></div>
+      </div>
+
+      <div class="section-card">
+        <h2>Комплектации загородных домов</h2>
+        <p class="section-subtitle">Подробно показываем, что входит в каждый уровень готовности дома.</p>
+        <div class="package-grid" id="packages"></div>
+      </div>
+    </section>
+
+    <aside>
+      <div class="section-card sticky">
+        <h2>Стоимость строительства</h2>
+        <p class="price" id="basePrice"></p>
+        <p class="price-note">Базовая цена за проект в комплектации «Тёплый контур».</p>
+
+        <h3>Калькулятор стоимости</h3>
+
+        <label>Площадь (м²)
+          <input type="number" id="actual_space" min="30" max="2000" step="1" value="150">
+        </label>
+
+        <label>Базовая ставка (₽/м²)
+          <input type="number" id="base_rate" min="1000" step="100" value="60000">
+        </label>
+
+        <div class="options-group">
+          <h4>Базовая комплектация</h4>
+          <div id="controlsBox"></div>
+        </div>
+
+        <div class="options-group">
+          <h4>Тёплый контур</h4>
+          <div id="controlsWarm"></div>
+        </div>
+
+        <div class="options-group">
+          <h4>Под ключ и благоустройство</h4>
+          <div id="addons"></div>
+        </div>
+
+        <div class="total-box">
+          <p>Итоговая стоимость</p>
+          <p class="calc-total" id="totalPretty">—</p>
+          <div id="breakdown" class="calc-breakdown"></div>
+        </div>
+      </div>
+    </aside>
+  </main>
+
+
+  <section class="services container" id="services-project">
+    <h2>Наши услуги</h2>
+    <p class="section-subtitle">Помогаем не только выбрать проект, но и полностью реализовать строительство.</p>
+    <div class="services-grid">
+      <article class="service-card">
+        <h3>Проектирование и адаптация</h3>
+        <p>Подгоняем планировку и конструктив под ваш участок и пожелания семьи.</p>
+      </article>
+      <article class="service-card">
+        <h3>Строительство коробки</h3>
+        <p>Фундамент, стены, кровля и утепление по фиксированной смете и графику.</p>
+      </article>
+      <article class="service-card">
+        <h3>Инженерные сети</h3>
+        <p>Отопление, водоснабжение, канализация, электрика и вентиляция под ключ.</p>
+      </article>
+      <article class="service-card">
+        <h3>Отделка и благоустройство</h3>
+        <p>Чистовая отделка, террасы, дорожки, освещение и ландшафт участка.</p>
+      </article>
+    </div>
+  </section>
+  <script src="projects.js"></script>
+  <script src="project-page.js"></script>
+  <script src="calculator.js"></script>
+</body>
+</html>
