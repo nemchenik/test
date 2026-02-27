@@ -62,6 +62,7 @@ const packageTemplates = [
 const planExamplesFallback = [
   {
     title: 'Пример: планировка с мастер-блоком',
+<<<<<<< codex/create-modern-project-catalog-website-1uoxxz
     image: 'https://source.unsplash.com/1200x800/?floor-plan,architect'
   },
   {
@@ -71,6 +72,17 @@ const planExamplesFallback = [
   {
     title: 'Пример: семейная зона 2 этажа',
     image: 'https://source.unsplash.com/1200x800/?house-plan,drawing'
+=======
+    image: 'https://images.unsplash.com/photo-1600607687646-0f9f7d4f4f16?auto=format&fit=crop&w=1200&q=80'
+  },
+  {
+    title: 'Пример: дневная зона + кабинет',
+    image: 'https://images.unsplash.com/photo-1600210491369-e753d80a41f3?auto=format&fit=crop&w=1200&q=80'
+  },
+  {
+    title: 'Пример: семейная зона 2 этажа',
+    image: 'https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80'
+>>>>>>> main
   }
 ];
 
@@ -113,7 +125,11 @@ gallery.innerHTML = project.visualizations
 const plans = document.getElementById('plans');
 plans.innerHTML = project.plans
   .map((plan) => `
+<<<<<<< codex/create-modern-project-catalog-website-1uoxxz
     <figure class="plan-item plan-drawing">
+=======
+    <figure class="plan-item">
+>>>>>>> main
       <img src="${plan.image}" alt="${project.name} — ${plan.title}">
       <figcaption>${plan.title}</figcaption>
     </figure>
@@ -124,7 +140,11 @@ const planExamples = document.getElementById('planExamples');
 const examples = project.planExamples || planExamplesFallback;
 planExamples.innerHTML = examples
   .map((plan) => `
+<<<<<<< codex/create-modern-project-catalog-website-1uoxxz
     <figure class="plan-item alt-plan plan-drawing">
+=======
+    <figure class="plan-item alt-plan">
+>>>>>>> main
       <img src="${plan.image}" alt="${project.name} — ${plan.title}">
       <figcaption>${plan.title}</figcaption>
     </figure>
