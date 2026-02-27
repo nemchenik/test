@@ -54,6 +54,26 @@ const projects = [
     description: 'Просторный загородный дом для постоянного проживания: отдельная мастер-зона, кабинет и большая терраса.',
     previewImage: 'https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80',
     visualizations: [
+<<<<<<< codex/create-modern-project-catalog-website-1uoxxz
+      'https://source.unsplash.com/1200x800/?country-house,facade',
+      'https://source.unsplash.com/1200x800/?suburban-house,exterior',
+      'https://source.unsplash.com/1200x800/?modern-cottage,house'
+    ],
+    plans: [
+      { title: 'План 1 этажа: гостиная 48 м², кухня-столовая, кабинет', image: 'https://source.unsplash.com/1200x800/?floor-plan,architectural-drawing' },
+      { title: 'План 2 этажа: 4 спальни, гардеробные, 2 санузла', image: 'https://source.unsplash.com/1200x800/?blueprint,house-plan' }
+    ],
+    specs: ['Площадь 203 м²', '4 спальни + кабинет', '3 санузла', 'Терраса 34 м²'],
+    planExamples: [
+      { title: 'Вариант А: кухня-гостиная + кабинет на 1 этаже', image: 'https://source.unsplash.com/1200x800/?floor-plan,home' },
+      { title: 'Вариант B: мастер-спальня с гардеробной', image: 'https://source.unsplash.com/1200x800/?architecture-plan,drawing' },
+      { title: 'Вариант C: детские спальни и семейный холл', image: 'https://source.unsplash.com/1200x800/?construction-blueprint,plan' }
+    ],
+    additionalVisuals: [
+      { title: 'Фасад с панорамным остеклением', image: 'https://source.unsplash.com/1200x800/?country-house,day' },
+      { title: 'Терраса и зона отдыха', image: 'https://source.unsplash.com/1200x800/?country-house,terrace' },
+      { title: 'Вечерняя подсветка дома', image: 'https://source.unsplash.com/1200x800/?country-house,night' }
+=======
       'https://images.unsplash.com/photo-1600585154205-2721f4f6f3dd?auto=format&fit=crop&w=1200&q=80',
       'https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?auto=format&fit=crop&w=1200&q=80',
       'https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80'
@@ -72,6 +92,7 @@ const projects = [
       { title: 'Фасад с панорамным остеклением', image: 'https://images.unsplash.com/photo-1600585154205-2721f4f6f3dd?auto=format&fit=crop&w=1200&q=80' },
       { title: 'Терраса и зона отдыха', image: 'https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?auto=format&fit=crop&w=1200&q=80' },
       { title: 'Вечерняя подсветка дома', image: 'https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80' }
+>>>>>>> main
     ]
   },
   {
