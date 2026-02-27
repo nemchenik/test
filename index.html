@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ДомПроект — каталог загородных домов</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="index.html">ДомПроект</a>
+      <nav class="top-nav">
+        <a href="#catalog">Каталог</a>
+        <a href="generator.html">Генератор</a>
+        <a href="#services">Услуги</a>
+        <a href="#about">О компании</a>
+      </nav>
+      <a class="btn btn-secondary" href="generator.html">Сгенерировать дом</a>
+    </div>
+  </header>
+
+  <section class="hero" id="about">
+    <div class="container hero-grid">
+      <div>
+        <p class="eyebrow">Современные проекты загородных домов</p>
+        <h1>Выберите дом мечты <span>по параметрам за 1 минуту</span></h1>
+        <p class="hero-subtitle">Каталог с актуальными ценами, визуализациями, планировками и удобным калькулятором стоимости строительства.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#catalog">Смотреть каталог</a>
+          <a class="btn btn-ghost" href="#services">Наши услуги</a>
+        </div>
+        <div class="hero-stats">
+          <span class="stat-chip">120+ реализованных домов</span>
+          <span class="stat-chip">Фиксированная смета</span>
+          <span class="stat-chip">Гарантия до 10 лет</span>
+        </div>
+      </div>
+      <div class="hero-image">
+        <img src="https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1400&q=80" alt="Современный загородный дом">
+      </div>
+    </div>
+  </section>
+
+  <main>
+    <section class="filters container" id="catalog">
+      <h2>Фильтр проектов</h2>
+      <div class="filter-grid">
+        <label>
+          Площадь (м²)
+          <select id="areaFilter">
+            <option value="all">Любая</option>
+            <option value="small">до 120</option>
+            <option value="medium">120–180</option>
+            <option value="large">180+</option>
+          </select>
+        </label>
+
+        <label>
+          Этажность
+          <select id="floorsFilter">
+            <option value="all">Любая</option>
+            <option value="1">1 этаж</option>
+            <option value="2">2 этажа</option>
+          </select>
+        </label>
+
+        <label>
+          Спальни
+          <select id="bedroomsFilter">
+            <option value="all">Любое количество</option>
+            <option value="2">2+</option>
+            <option value="3">3+</option>
+            <option value="4">4+</option>
+          </select>
+        </label>
+
+        <label>
+          Бюджет
+          <select id="budgetFilter">
+            <option value="all">Любой</option>
+            <option value="low">до 8 млн ₽</option>
+            <option value="mid">8–12 млн ₽</option>
+            <option value="high">12+ млн ₽</option>
+          </select>
+        </label>
+      </div>
+    </section>
+
+    <section class="container">
+      <div class="cards-grid" id="projectsGrid"></div>
+      <p class="empty-state" id="emptyState" hidden>По выбранным фильтрам ничего не найдено. Попробуйте изменить параметры.</p>
+    </section>
+
+    <section class="services container" id="services">
+      <h2>Услуги</h2>
+      <p class="section-subtitle">Выполняем полный цикл работ — от проекта до готового дома с благоустроенным участком.</p>
+      <div class="services-grid" id="servicesGrid"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div>
+        <p class="logo">ДомПроект</p>
+        <p>© 2026 ДомПроект. Каталог проектов загородных домов.</p>
+      </div>
+      <div>
+        <p><strong>Контакты</strong></p>
+        <p>+7 (999) 123-45-67</p>
+        <p>sales@domproekt.ru</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="projects.js"></script>
+  <script src="catalog.js"></script>
+</body>
+</html>
