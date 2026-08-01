@@ -16,12 +16,21 @@ def clean(value: str | None) -> str:
 
 def normalize_material(heading: str) -> str:
     low = heading.lower()
+    if "монолит" in low and "газобет" in low:
+        return "монолитный каркас / газобетон"
+    if "газобет" in low and "брус" in low:
+        return "газобетон / брус"
     rules = [
         ("монолит", "монолитный каркас"),
         ("керамзитобет", "керамзитобетон"),
+        ("ячеист", "ячеистый бетон"),
+        ("пенобет", "пенобетон"),
+        ("арболит", "арболит"),
         ("газобет", "газобетон"),
         ("керамическ", "керамический блок"),
+        ("поризованн", "керамический блок"),
         ("кирпич", "кирпич"),
+        ("камн", "камень"),
         ("деревянн", "дерево"),
         ("бревн", "бревно"),
         ("брус", "брус"),
@@ -49,6 +58,15 @@ def normalize_style(value: str) -> str:
         ("классическ", "классический"),
         ("средиземномор", "средиземноморский"),
         ("минимал", "минимализм"),
+        ("русская усадьба", "русская усадьба"),
+        ("норвеж", "норвежский"),
+        ("средневек", "средневековый"),
+        ("итальян", "итальянский"),
+        ("модерн", "модерн"),
+        ("лофт", "лофт"),
+        ("чеш", "чешский"),
+        ("прованс", "прованс"),
+        ("русск", "русский"),
     ]
     for token, result in mapping:
         if token in low:
@@ -65,7 +83,7 @@ def precise_metadata(record):
     if not match:
         match = re.search(r"([\d.,]+)\s*м²", heading, re.I)
     if match:
-        area = match.group(1).replace(".", ",")
+        area = match.group(1).replace(".", ",").strip(" ,.;")
 
     dimensions = ""
     match = re.search(
@@ -74,7 +92,13 @@ def precise_metadata(record):
         re.I,
     )
     if match:
-        dimensions = match.group(1).replace(".", ",").replace("x", "×").replace("х", "×")
+        dimensions = (
+            match.group(1)
+            .replace(".", ",")
+            .replace("x", "×")
+            .replace("х", "×")
+            .strip(" ,.;")
+        )
 
     floors = ""
     if "одноэтаж" in low:
@@ -107,6 +131,7 @@ def precise_metadata(record):
         if match:
             style = normalize_style(match.group(1))
 
+    # Features are deliberately omitted unless they are explicit in the H1.
     feature = ""
     explicit_features = [
         (r"\bс\s+террас", "терраса"),
