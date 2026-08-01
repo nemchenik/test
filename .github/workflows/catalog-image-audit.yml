@@ -4,8 +4,7 @@ on:
   pull_request:
     branches: [main]
     paths:
-      - "pinterest/audit_generate_v3.py"
-      - "pinterest/projects_candidates.txt"
+      - "pinterest/batch28_generate.py"
       - "pinterest/audit_trigger.txt"
       - ".github/workflows/catalog-image-audit.yml"
 
@@ -15,7 +14,7 @@ permissions:
 jobs:
   audit:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - name: Checkout PR branch
         uses: actions/checkout@v4
@@ -30,11 +29,12 @@ jobs:
       - name: Install dependencies
         run: python -m pip install --upgrade requests beautifulsoup4 pillow
 
-      - name: Audit exact project pages and render vertical cards
+      - name: Discover and audit 200 additional house projects
         env:
           HEAD_BRANCH: ${{ github.head_ref }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
-        run: python pinterest/audit_generate_v3.py
+          ASSET_BRANCH: catalog-plans-pinterest-assets
+        run: python pinterest/batch28_generate.py
 
       - name: Commit verified cards to the PR branch
         env:
@@ -42,16 +42,16 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add pinterest/generated_batch_27
+          git add pinterest/generated_batch_28_no_button
           if ! git diff --cached --quiet; then
-            git commit -m "Generate verified Catalog Plans Pinterest cards [skip ci]"
+            git commit -m "Generate verified Catalog Plans cards without CTA block [skip ci]"
             git push origin HEAD:${HEAD_BRANCH}
           fi
 
       - name: Upload audit, contact sheet and corrected CSV
         uses: actions/upload-artifact@v4
         with:
-          name: catalog-plans-verified-pinterest-cards
-          path: pinterest/audit_output/
+          name: catalog-plans-house-cards-batch-28-no-button
+          path: pinterest/audit_output_batch28/
           if-no-files-found: error
           retention-days: 7
