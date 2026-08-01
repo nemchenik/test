@@ -4,7 +4,7 @@ on:
   pull_request:
     branches: [main]
     paths:
-      - "pinterest/audit_generate_v2.py"
+      - "pinterest/audit_generate_v3.py"
       - "pinterest/projects_candidates.txt"
       - "pinterest/audit_trigger.txt"
       - ".github/workflows/catalog-image-audit.yml"
@@ -33,7 +33,7 @@ jobs:
       - name: Audit exact project pages and render vertical cards
         env:
           HEAD_BRANCH: ${{ github.head_ref }}
-        run: python pinterest/audit_generate_v2.py
+        run: python pinterest/audit_generate_v3.py
 
       - name: Commit verified cards to the PR branch
         env:
