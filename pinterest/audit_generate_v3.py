@@ -73,6 +73,63 @@ def draw_lines(draw, xy, values, f, color, gap):
 def floor_text(v): return {"1":"1 этаж","2":"2 этажа","3":"3 этажа","4":"4 этажа"}.get(v, "")
 
 
+def normalize_exact_metadata(r):
+    title = clean(r.page_title)
+    h1 = clean(r.h1)
+    combined = title + " " + h1
+
+    area_match = re.search(r"([\d.,]+)\s*м²", h1, re.I) or re.search(r"([\d.]+)\s*м²", title, re.I)
+    if area_match:
+        r.area = area_match.group(1).replace(".", ",")
+
+    dims_match = re.search(r"м²,\s*(\d+(?:[.,]\d+)?\s*[xх×]\s*\d+(?:[.,]\d+)?)", h1, re.I)
+    if dims_match:
+        r.dimensions = clean(dims_match.group(1)).replace("x", "×").replace("х", "×")
+
+    low = combined.lower()
+    if "одноэтаж" in low:
+        r.floors = "1"
+    elif "двухэтаж" in low:
+        r.floors = "2"
+    elif "трёхэтаж" in low or "трехэтаж" in low:
+        r.floors = "3"
+    elif "четырёхэтаж" in low or "четырехэтаж" in low:
+        r.floors = "4"
+
+    material_match = re.search(r"дома из (.+?)\s+[\d.]+\s*м²", title, re.I)
+    material_map = {
+        "газобетона": "газобетон",
+        "кирпича": "кирпич",
+        "монолитного каркаса": "монолитный каркас",
+        "дерева": "дерево",
+        "деревянного каркаса": "деревянный каркас",
+        "керамзитобетона": "керамзитобетон",
+        "монолита": "монолит",
+    }
+    if material_match:
+        source_material = clean(material_match.group(1)).lower()
+        r.material = material_map.get(source_material, source_material)
+
+    style_map = {
+        "в стиле хай-тек": "хай-тек",
+        "в европейском стиле": "европейский",
+        "в стиле шале": "шале",
+        "в стиле райта": "стиль Райта",
+        "в современном стиле": "современный",
+        "в скандинавском стиле": "скандинавский",
+        "в американском стиле": "американский",
+        "в английском стиле": "английский",
+        "в средневековом стиле": "средневековый",
+        "в стиле барнхаус": "барнхаус",
+    }
+    ending = h1.rsplit(",", 1)[-1].strip().lower() if "," in h1 else ""
+    r.style = style_map.get(ending, "")
+
+    # Не выводим особенности, если они не указаны в заголовке конкретной карточки проекта.
+    r.feature = ""
+    return r
+
+
 PANELS = [
     ("Откройте планировку и проверьте размеры", "Смотреть планировку", "plans"),
     ("Сравните фасады, этажи и характеристики", "Открыть проект", "compare"),
@@ -204,6 +261,7 @@ def main():
         records.append(r);seen.add(r.image_url)
         if len(records)==200:break
     if len(records)<200:raise RuntimeError(f"Only {len(records)} exact unique house images")
+    records = [normalize_exact_metadata(r) for r in records]
     for d in (SRC,CARDS,SAMPLES):
         for p in d.glob("*.jpg"):p.unlink()
     def dl(r):
