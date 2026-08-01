@@ -33,6 +33,7 @@ jobs:
       - name: Audit exact project pages and render vertical cards
         env:
           HEAD_BRANCH: ${{ github.head_ref }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: python pinterest/audit_generate_v3.py
 
       - name: Commit verified cards to the PR branch
