@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "pinterest/batch28_generate.py"
+      - "pinterest/batch28_generate_fixed.py"
       - "pinterest/audit_trigger.txt"
       - ".github/workflows/catalog-image-audit.yml"
 
@@ -34,7 +35,7 @@ jobs:
           HEAD_BRANCH: ${{ github.head_ref }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
           ASSET_BRANCH: catalog-plans-pinterest-assets
-        run: python pinterest/batch28_generate.py
+        run: python pinterest/batch28_generate_fixed.py
 
       - name: Commit verified cards to the PR branch
         env:
@@ -44,7 +45,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add pinterest/generated_batch_28_no_button
           if ! git diff --cached --quiet; then
-            git commit -m "Generate verified Catalog Plans cards without CTA block [skip ci]"
+            git commit -m "Regenerate batch 28 with precise project metadata [skip ci]"
             git push origin HEAD:${HEAD_BRANCH}
           fi
 
