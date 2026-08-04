@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "pinterest/batch36_house_plan_facade_video_bootstrap.py"
+      - "pinterest/batch36_house_plan_facade_video_v2.py"
       - "pinterest/batch36_video_trigger.txt"
       - ".github/workflows/catalog-batch36-house-plan-facade-video.yml"
 
@@ -45,7 +46,7 @@ jobs:
         env:
           ASSET_CHECKOUT: ${{ github.workspace }}/asset_repo
           ASSET_BRANCH: catalog-plans-pinterest-assets
-        run: python pinterest/batch36_house_plan_facade_video_bootstrap.py
+        run: python pinterest/batch36_house_plan_facade_video_v2.py
 
       - name: Publish MP4 files to asset branch
         working-directory: asset_repo
@@ -64,7 +65,7 @@ jobs:
         env:
           ASSET_CHECKOUT: ${{ github.workspace }}/asset_repo
           ASSET_BRANCH: catalog-plans-pinterest-assets
-        run: python pinterest/batch36_house_plan_facade_video_bootstrap.py --verify-public
+        run: python pinterest/batch36_house_plan_facade_video_v2.py --verify-public
 
       - name: Upload verified CSV only
         uses: actions/upload-artifact@v4
