@@ -4,7 +4,7 @@ on:
   pull_request:
     branches: [main]
     paths:
-      - "pinterest/batch31_static_generate.py"
+      - "pinterest/batch31_static_repair_v2.py"
       - "pinterest/batch31_static_trigger.txt"
       - ".github/workflows/catalog-batch31-static.yml"
 
@@ -27,12 +27,13 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: python -m pip install --upgrade requests pillow
+        run: python -m pip install --upgrade requests beautifulsoup4 pillow
 
       - name: Render 200 verified static cards
         env:
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
           ASSET_BRANCH: catalog-plans-pinterest-assets
-        run: python pinterest/batch31_static_generate.py
+        run: python pinterest/batch31_static_repair_v2.py
 
       - name: Commit generated cards to the PR branch
         env:
@@ -40,9 +41,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add pinterest/generated_batch_31_static
+          git add pinterest/generated_batch_31_static_fixed
           if ! git diff --cached --quiet; then
-            git commit -m "Generate 200 static Pinterest cards for batch 31 [skip ci]"
+            git commit -m "Generate 200 reliable static Pinterest cards for batch 31 [skip ci]"
             git push origin HEAD:${HEAD_BRANCH}
           fi
 
@@ -50,6 +51,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: catalog-plans-batch31-static-fixed
-          path: pinterest/batch31_static_output/
+          path: pinterest/batch31_static_fixed_output/
           if-no-files-found: error
           retention-days: 7
