@@ -1,2 +1,3 @@
 Generate static repair for batch 31 after Thum.io cache-miss failure.
 Retry with verified static renderer v2.
+Retry with corrected source-image downloader v3.
