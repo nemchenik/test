@@ -4,6 +4,7 @@ on:
   pull_request:
     branches: [main]
     paths:
+      - "pinterest/batch31_static_repair_v3.py"
       - "pinterest/batch31_static_repair_v2.py"
       - "pinterest/batch31_static_trigger.txt"
       - ".github/workflows/catalog-batch31-static.yml"
@@ -33,7 +34,7 @@ jobs:
         env:
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
           ASSET_BRANCH: catalog-plans-pinterest-assets
-        run: python pinterest/batch31_static_repair_v2.py
+        run: python pinterest/batch31_static_repair_v3.py
 
       - name: Commit generated cards to the PR branch
         env:
