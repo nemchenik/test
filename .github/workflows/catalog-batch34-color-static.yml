@@ -1,0 +1,138 @@
+name: Catalog Plans batch 34 color static
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - "pinterest/batch34_color_static.py"
+      - "pinterest/batch34_color_static_trigger.txt"
+      - ".github/workflows/catalog-batch34-color-static.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade requests beautifulsoup4 pillow
+
+      - name: Generate 200 static color cards
+        env:
+          ASSET_BRANCH: catalog-plans-pinterest-assets
+        run: python pinterest/batch34_color_static.py
+
+      - name: Publish static JPG files to asset branch
+        env:
+          ASSET_BRANCH: catalog-plans-pinterest-assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin "${ASSET_BRANCH}:${ASSET_BRANCH}"
+          rm -rf /tmp/catalog-assets
+          git worktree add /tmp/catalog-assets "${ASSET_BRANCH}"
+          rm -rf /tmp/catalog-assets/pinterest/generated_batch_34_color_static
+          mkdir -p /tmp/catalog-assets/pinterest/generated_batch_34_color_static
+          cp pinterest/generated_batch_34_color_static/*.jpg /tmp/catalog-assets/pinterest/generated_batch_34_color_static/
+          cd /tmp/catalog-assets
+          git add pinterest/generated_batch_34_color_static
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish Catalog Plans batch 34 static color cards"
+            git push origin "HEAD:${ASSET_BRANCH}"
+          fi
+
+      - name: Verify all 200 public Media URLs
+        env:
+          ASSET_BRANCH: catalog-plans-pinterest-assets
+        run: |
+          python - <<'PY'
+          import csv
+          import hashlib
+          import io
+          import json
+          import time
+          from pathlib import Path
+
+          import requests
+          from PIL import Image
+
+          csv_path = Path("pinterest/batch34_color_static_output/catalog_plans_pinterest_house_cards_batch_34_COLOR_STATIC_200.csv")
+          local_dir = Path("pinterest/generated_batch_34_color_static")
+          with csv_path.open("r", encoding="utf-8-sig", newline="") as file:
+              rows = list(csv.DictReader(file))
+
+          assert len(rows) == 200
+          failures = []
+          verified = []
+          session = requests.Session()
+          session.headers.update({"User-Agent": "Mozilla/5.0 CatalogPlansPinterestVerifier/1.0"})
+
+          for index, row in enumerate(rows, start=1):
+              url = row["Media URL"]
+              filename = url.rsplit("/", 1)[-1]
+              local_path = local_dir / filename
+              expected = hashlib.sha256(local_path.read_bytes()).hexdigest()
+              last_error = ""
+              for attempt in range(8):
+                  try:
+                      response = session.get(url, timeout=35, headers={"Cache-Control": "no-cache"})
+                      if response.status_code != 200:
+                          raise RuntimeError(f"HTTP {response.status_code}")
+                      if "image" not in response.headers.get("content-type", "").lower():
+                          raise RuntimeError(f"content-type={response.headers.get('content-type')}")
+                      image = Image.open(io.BytesIO(response.content))
+                      image.load()
+                      if image.size != (1000, 1500):
+                          raise RuntimeError(f"size={image.size}")
+                      actual = hashlib.sha256(response.content).hexdigest()
+                      if actual != expected:
+                          raise RuntimeError("sha256 mismatch")
+                      verified.append({"url": url, "sha256": actual, "size": "1000x1500"})
+                      last_error = ""
+                      break
+                  except Exception as exc:
+                      last_error = str(exc)
+                      time.sleep(2 + attempt * 2)
+              if last_error:
+                  failures.append({"url": url, "error": last_error})
+              if index % 25 == 0:
+                  print(f"verified {index}/200", flush=True)
+
+          report = {
+              "total": len(rows),
+              "verified": len(verified),
+              "failures": failures,
+              "all_urls_http_200": not failures,
+              "all_images_1000x1500": not failures,
+              "all_remote_sha256_match_local": not failures,
+          }
+          Path("pinterest/batch34_color_static_output/public_url_verification.json").write_text(
+              json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8"
+          )
+          if failures:
+              raise SystemExit(json.dumps(failures[:10], ensure_ascii=False))
+          print("SUCCESS: all 200 public Media URLs verified", flush=True)
+          PY
+
+      - name: Upload verified CSV
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalog-plans-batch34-color-static-verified
+          path: |
+            pinterest/batch34_color_static_output/catalog_plans_pinterest_house_cards_batch_34_COLOR_STATIC_200.csv
+            pinterest/batch34_color_static_output/public_url_verification.json
+          if-no-files-found: error
+          retention-days: 7
