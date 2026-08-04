@@ -45,10 +45,24 @@ jobs:
           git add pinterest/generated_batch_31_static_fixed
           if ! git diff --cached --quiet; then
             git commit -m "Generate 200 reliable static Pinterest cards for batch 31 [skip ci]"
-            git push origin HEAD:${HEAD_BRANCH}
+            pushed=false
+            for attempt in 1 2 3 4; do
+              git fetch origin "${HEAD_BRANCH}"
+              git rebase "origin/${HEAD_BRANCH}"
+              if git push origin "HEAD:${HEAD_BRANCH}"; then
+                pushed=true
+                break
+              fi
+              sleep $((attempt * 5))
+            done
+            if [ "$pushed" != "true" ]; then
+              echo "Failed to publish generated cards after retries" >&2
+              exit 1
+            fi
           fi
 
       - name: Upload CSV, audit and contact sheet
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: catalog-plans-batch31-static-fixed
