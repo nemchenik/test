@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "pinterest/batch35_video_generate.py"
+      - "pinterest/batch35_video_generate_v2.py"
       - "pinterest/batch35_video_trigger.txt"
       - ".github/workflows/catalog-batch35-video.yml"
 
@@ -45,7 +46,7 @@ jobs:
         env:
           ASSET_CHECKOUT: ${{ github.workspace }}/asset_repo
           ASSET_BRANCH: catalog-plans-pinterest-assets
-        run: python pinterest/batch35_video_generate.py
+        run: python pinterest/batch35_video_generate_v2.py
 
       - name: Publish MP4 files to asset branch
         working-directory: asset_repo
@@ -55,6 +56,8 @@ jobs:
           git add pinterest/generated_batch_35_video
           if ! git diff --cached --quiet; then
             git commit -m "Publish Catalog Plans batch 35 video pins"
+            git fetch origin catalog-plans-pinterest-assets
+            git rebase origin/catalog-plans-pinterest-assets
             git push origin HEAD:catalog-plans-pinterest-assets
           fi
 
@@ -62,7 +65,7 @@ jobs:
         env:
           ASSET_CHECKOUT: ${{ github.workspace }}/asset_repo
           ASSET_BRANCH: catalog-plans-pinterest-assets
-        run: python pinterest/batch35_video_generate.py --verify-public
+        run: python pinterest/batch35_video_generate_v2.py --verify-public
 
       - name: Upload verified CSV only
         uses: actions/upload-artifact@v4
