@@ -1,0 +1,1208 @@
+{
+  "total": 200,
+  "verified": 200,
+  "all_public_urls_http_200": true,
+  "all_sha256_match": true,
+  "files": [
+    {
+      "project": "10-08",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-08.mp4",
+      "sha256": "092a52390aa9a6e2c7491fb3046f7b518850384e9348baaafd07b45edd70e1bd",
+      "bytes": 534642
+    },
+    {
+      "project": "10-09",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-09.mp4",
+      "sha256": "160dd5f9478efcd7ecd7457140ec2d29270e1e69e38871c628579956a0542687",
+      "bytes": 447678
+    },
+    {
+      "project": "10-10",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-10.mp4",
+      "sha256": "071ee6bc950815aaf8976f75376785cb469f99f54d7e382df549b4bd5763be02",
+      "bytes": 498757
+    },
+    {
+      "project": "10-11",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-11.mp4",
+      "sha256": "faf51c631f1d64c4a80881c5d16de022f86e4553d02d53340bdb7ca0d2754344",
+      "bytes": 574840
+    },
+    {
+      "project": "10-15",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-15.mp4",
+      "sha256": "9e3b672d36a7c64de1edf48900b261086cdf11159b21385c1ddb3a27db1149b2",
+      "bytes": 457546
+    },
+    {
+      "project": "10-18",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-18.mp4",
+      "sha256": "0f9905e0fb28baf4748e0226509a0ef57069a034684ca3d79c5447b6fe019598",
+      "bytes": 478388
+    },
+    {
+      "project": "10-19",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-19.mp4",
+      "sha256": "25558b6ded21cd54dd5ba40f078e5d8050f53bdd89d3f55b138d6f568d1e8c78",
+      "bytes": 407906
+    },
+    {
+      "project": "10-21",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-21.mp4",
+      "sha256": "8894de2775b7a54c7578d50a3bdc3a0d56f423a3027b1c52418e903d6de69a4f",
+      "bytes": 443161
+    },
+    {
+      "project": "10-22",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-22.mp4",
+      "sha256": "a405931c481bbb9d15cfc632ec31ffbd08c2c050029d7bbd8c24db3208bdbbf5",
+      "bytes": 447323
+    },
+    {
+      "project": "10-23",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-23.mp4",
+      "sha256": "ee98e8136a61233b58c7c660bcdbac0746b67274fcad5a7946e79dd926d66f1a",
+      "bytes": 457782
+    },
+    {
+      "project": "10-25",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-25.mp4",
+      "sha256": "f5169dd50f9a173178b7949445de44475f2064a1fe400a97bcc28ba1c46cd5e9",
+      "bytes": 433012
+    },
+    {
+      "project": "10-26",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-26.mp4",
+      "sha256": "c112eeecc671668df7509d686f0d587e3a20d4e565b7fe49823a35d1ebc1f2da",
+      "bytes": 427684
+    },
+    {
+      "project": "10-27",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-27.mp4",
+      "sha256": "20ca27c80ade8624e9d99d6413dc0d0ffa88f737926270db895f23011a791938",
+      "bytes": 447390
+    },
+    {
+      "project": "10-28",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-28.mp4",
+      "sha256": "c713cfd4abb954ea6fd43489d5e043f12ee11dc4b3fdb7739c5c8c42d5c78a3c",
+      "bytes": 535686
+    },
+    {
+      "project": "10-29",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-29.mp4",
+      "sha256": "4f732b093a250f8ca33ea97a54ee38cbbcf865d46e9ea576959c37d17bdf3ecd",
+      "bytes": 435493
+    },
+    {
+      "project": "10-30",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-30.mp4",
+      "sha256": "6549db220d2e07ae14855d135f831447be849b334d743623f84aaafcea90446a",
+      "bytes": 442679
+    },
+    {
+      "project": "10-33",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-33.mp4",
+      "sha256": "b8f7dffa6bbaa47ea670d09e4817e3144376e54d6b28bd41c719a8987dab5b80",
+      "bytes": 593145
+    },
+    {
+      "project": "10-34",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-34.mp4",
+      "sha256": "f1ecb5f63e7f0ea5579bc896490a5ed9747a0813a7812186f5f3ad19b471e64c",
+      "bytes": 502178
+    },
+    {
+      "project": "10-36",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-36.mp4",
+      "sha256": "00b2b09ec8301ed47497bc057e75ac449d4a08def5263a1cdbf5c026d737ed7f",
+      "bytes": 447149
+    },
+    {
+      "project": "10-37",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-37.mp4",
+      "sha256": "aba349362a1d82c514e803557c79f8f15eb94731fe0c30f0119d703413bbcb3a",
+      "bytes": 482744
+    },
+    {
+      "project": "10-38",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-38.mp4",
+      "sha256": "5f68f942b9238c19f97d7d9dd667a8001f1ad4fd787972ae04e19db37ba8335b",
+      "bytes": 489426
+    },
+    {
+      "project": "10-40",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-40.mp4",
+      "sha256": "9619717e0f25d48950ad5d90e18de48bdf1f498a300b529b309f3cf0f4c3ef64",
+      "bytes": 438034
+    },
+    {
+      "project": "10-41",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-41.mp4",
+      "sha256": "f62e636145d85c181a5323c4750c4f0dc1be2808b7318792e48e1c0684fccc95",
+      "bytes": 509787
+    },
+    {
+      "project": "10-42",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-42.mp4",
+      "sha256": "27eae3525a0a663da330a2504bc8f936e85f2ff2f63b8caab5f37f776b0b52eb",
+      "bytes": 457223
+    },
+    {
+      "project": "10-44",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-44.mp4",
+      "sha256": "4d50142c89b2db1dd6bf72af7c650c116d3e03b9e15040baae14d6dd467bd7ae",
+      "bytes": 448677
+    },
+    {
+      "project": "10-45",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-45.mp4",
+      "sha256": "c7dffff020f3f59deb3f03df8948dc94fdd77f584241de60be3ebd5980d209f4",
+      "bytes": 430537
+    },
+    {
+      "project": "10-46",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-46.mp4",
+      "sha256": "dee8a0cf7c616487fa8bd7cf486339ba1fe520d3481c1e282cd94ef998bf5417",
+      "bytes": 567029
+    },
+    {
+      "project": "10-48",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-48.mp4",
+      "sha256": "b3cea108038619046351ef896c37f5bd3770f5aabce0e9b517f205aea75bcec9",
+      "bytes": 524350
+    },
+    {
+      "project": "10-49",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-49.mp4",
+      "sha256": "aea41170621635541164c101b3ea3dca6137b81108f8ef2d13f25c20e277b6cc",
+      "bytes": 494953
+    },
+    {
+      "project": "10-50",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-50.mp4",
+      "sha256": "24ff845441340a563315e422b58a6877311e3b361950dbb8a3837898bb3c371e",
+      "bytes": 654421
+    },
+    {
+      "project": "10-51",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-51.mp4",
+      "sha256": "d272e3f96129a571e839cd6274c1aa8e871e15f7e55adae10363cd3722fe00f0",
+      "bytes": 487532
+    },
+    {
+      "project": "10-52",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-52.mp4",
+      "sha256": "967c97ab24b8302144eb60c2eb9b0c4de29b2317c3eb38d87fdc127916a5ab08",
+      "bytes": 466980
+    },
+    {
+      "project": "10-53",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-53.mp4",
+      "sha256": "56a17e5ee3aec16be4612261f5bab2fc6682e1247cecf1310623cbfdbe2dc21c",
+      "bytes": 498054
+    },
+    {
+      "project": "10-58",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-58.mp4",
+      "sha256": "5a3038304bc77ce2139c55466efd8cd807f85dee589f76c11f46938b20a2a1fb",
+      "bytes": 638086
+    },
+    {
+      "project": "10-59",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-59.mp4",
+      "sha256": "b1517869d50eddd64c8893180db4b3b5b4268477f4f8cc4a5c8499c5df85362d",
+      "bytes": 410938
+    },
+    {
+      "project": "10-63",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-63.mp4",
+      "sha256": "1531e23c0cb02806edf2fcec9631474a63e792219913f5d8369ceabaa4e5ab02",
+      "bytes": 413677
+    },
+    {
+      "project": "10-66",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-66.mp4",
+      "sha256": "66d97b7b553b80d69ee7c56e586012a3f7b15b89a59017630ae8758adc600f21",
+      "bytes": 434566
+    },
+    {
+      "project": "10-67",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-67.mp4",
+      "sha256": "f4042e063f953e37bf9295ec6612280591eb04230df883bb29e73f6c424eb31c",
+      "bytes": 601105
+    },
+    {
+      "project": "10-69",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-69.mp4",
+      "sha256": "fdebca6b62ee7b47c29d19376be9bfab92c49bab0390b1c07eaa2ccf7f3ba729",
+      "bytes": 563674
+    },
+    {
+      "project": "10-76",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-76.mp4",
+      "sha256": "0d768ee5a360d359d77c6e236a6d67200ca0be35a03328f1393e4092b5e514fc",
+      "bytes": 494057
+    },
+    {
+      "project": "10-77",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-77.mp4",
+      "sha256": "350aa39155787310c85923d1c421f002210e20d5c2ca009af082b9d3a9cae4a2",
+      "bytes": 512917
+    },
+    {
+      "project": "10-80",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-80.mp4",
+      "sha256": "c995e9f46fef8dc2ed3116c316aeec9c762673d57c812babdb479d3ccc0c9e93",
+      "bytes": 638177
+    },
+    {
+      "project": "10-82",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-82.mp4",
+      "sha256": "287b9ac5889fad1b1782659685071618be987253952dd8d57f6621b6c496564f",
+      "bytes": 663639
+    },
+    {
+      "project": "10-85",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-85.mp4",
+      "sha256": "6ed791b8d2d864a737221e109b5437fdd39181105f40f48f7b749d54ce998e6b",
+      "bytes": 528562
+    },
+    {
+      "project": "10-90",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-90.mp4",
+      "sha256": "476ca8c4b2125864863f2c721315f3bc7cc6a4109fea9f26d8d35cfa2509d907",
+      "bytes": 529483
+    },
+    {
+      "project": "10-98",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/10-98.mp4",
+      "sha256": "fc85738478f6ba45ec2b38b1c887d2a1f16f22c45d537aa0727849e5bb39692e",
+      "bytes": 452754
+    },
+    {
+      "project": "11-01",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-01.mp4",
+      "sha256": "35af56de617880d05ed5fbf619e50aaca6879b828a672186872158b5e48c09e6",
+      "bytes": 456180
+    },
+    {
+      "project": "11-03",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-03.mp4",
+      "sha256": "39846188a1b6e884f737073e6ca2acd9aec601e51b5ac188adc586b0101b53f7",
+      "bytes": 459299
+    },
+    {
+      "project": "11-03A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-03A.mp4",
+      "sha256": "441a50b64317ec89f197f4017cb700e46b2b7ff0200b0e9196d8c49a6e3b13ce",
+      "bytes": 476556
+    },
+    {
+      "project": "11-03B",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-03B.mp4",
+      "sha256": "3ebcf1da86fd7c26d3ca40114df9395efbd5a5f7c9be2da178f262b39d8f6de6",
+      "bytes": 369663
+    },
+    {
+      "project": "11-08",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-08.mp4",
+      "sha256": "8a88a846930ac9d85ed45f876f8dc652e7442397e1ecfb2571db04688cceae2b",
+      "bytes": 431177
+    },
+    {
+      "project": "11-10",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-10.mp4",
+      "sha256": "abab54cad38fbf4fa046dd76f0dad9fe33512268aef9af74f14c4f885b5ca8b1",
+      "bytes": 450822
+    },
+    {
+      "project": "11-12",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-12.mp4",
+      "sha256": "7edf8e0ebeef3c2aa48c03f4c1730ad27cc48d68e24c57d2ae38eb28df58b358",
+      "bytes": 458293
+    },
+    {
+      "project": "11-13",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-13.mp4",
+      "sha256": "5989218fa581e3d42ad3f61447f8f587d7f3379eeab62de83e55332af62ad978",
+      "bytes": 476485
+    },
+    {
+      "project": "11-15",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-15.mp4",
+      "sha256": "2376e83b7b833165a874eb8ff18de3eccb989ce77923bf842fc66e661a03c6ba",
+      "bytes": 448962
+    },
+    {
+      "project": "11-16",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-16.mp4",
+      "sha256": "b91a48d875ac205f46deaaa31b933ba2cf5864a061356053014e3225d0221d0e",
+      "bytes": 375692
+    },
+    {
+      "project": "11-19",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-19.mp4",
+      "sha256": "8fc56cbc10379ff2a337ee177de955cd472888521386c904d071f74b5d808a72",
+      "bytes": 455076
+    },
+    {
+      "project": "11-21",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-21.mp4",
+      "sha256": "5fcfa0640987ee815a761d2aaa9ad5cda0e1fbd641c34bac1450fc4113db1b35",
+      "bytes": 408889
+    },
+    {
+      "project": "11-24",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-24.mp4",
+      "sha256": "801196df77542dd20ca4162f66ab66ec2849aa1688e6c14265a1a372ddec15fb",
+      "bytes": 463000
+    },
+    {
+      "project": "11-25",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-25.mp4",
+      "sha256": "1337c60c5deca35a5d5d7bb41fc4f54fc4b06deacdd95b7005cbff623e281f2b",
+      "bytes": 440259
+    },
+    {
+      "project": "11-30",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-30.mp4",
+      "sha256": "4b854d523ca170662b7bc2f90221d5fe317ab2a079b30a68e7f912043cdfb97d",
+      "bytes": 469218
+    },
+    {
+      "project": "11-31",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-31.mp4",
+      "sha256": "feb255af4c6acc41d8420cd32c52d8447d78dda845f896927451f9fe85500814",
+      "bytes": 473516
+    },
+    {
+      "project": "11-32",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-32.mp4",
+      "sha256": "b481e8d0137a37974c78b171de2238c1da16e0cde2cba7abefbd51b2c4dcac49",
+      "bytes": 512160
+    },
+    {
+      "project": "11-34",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-34.mp4",
+      "sha256": "91f6e9ac25e388f4e82a1c5ad2585997b25ac995adda7af4b5d0bf3c4feff9ff",
+      "bytes": 462644
+    },
+    {
+      "project": "11-35",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-35.mp4",
+      "sha256": "2770912dc160915b0566a0f9f3c9e6336976d54c33d72152b61c4a3aa751b029",
+      "bytes": 403661
+    },
+    {
+      "project": "11-36",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-36.mp4",
+      "sha256": "6143b015f1c571d443d9c9c74d213e8e1e0739499cc587d6e3503dfe34389850",
+      "bytes": 382370
+    },
+    {
+      "project": "11-37",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-37.mp4",
+      "sha256": "c528936fde060b14a60ec0cfec209adb36b79864d18216b499bdc2797956e1d3",
+      "bytes": 443410
+    },
+    {
+      "project": "11-38",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-38.mp4",
+      "sha256": "1d828d37175c6d72a48bc15c3eff1e7dc2ea581e1d09571271777af709aac14f",
+      "bytes": 437306
+    },
+    {
+      "project": "11-41",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-41.mp4",
+      "sha256": "72f22fd41da3589391a93692fc74658b48c365ddbf0e86b5482746413442c2d3",
+      "bytes": 591571
+    },
+    {
+      "project": "11-52",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-52.mp4",
+      "sha256": "ea6bcebee01d1d21eaec5d4993bbc6a7f831964f00ffc3ab6282bcad0ccec6d5",
+      "bytes": 568627
+    },
+    {
+      "project": "11-55",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-55.mp4",
+      "sha256": "b4e1426d2534e67db1a1bc0d5a36b4b5d7cc1316d6ebd713203c02b93e3449b7",
+      "bytes": 522469
+    },
+    {
+      "project": "11-72",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-72.mp4",
+      "sha256": "22cc44058dfa27b0c8dda94cb263bf1066fe549e99a17a1f083a30fe33ec056c",
+      "bytes": 473467
+    },
+    {
+      "project": "11-76",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-76.mp4",
+      "sha256": "5d3bb2746b88d37de53e24c4ac91438d88102667ae7375f469a91004c134a6b4",
+      "bytes": 518618
+    },
+    {
+      "project": "11-80",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-80.mp4",
+      "sha256": "aced07bd2b087da71341b398bf793cf88c2097654b8eda5a746b4d344150880d",
+      "bytes": 460801
+    },
+    {
+      "project": "11-81",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-81.mp4",
+      "sha256": "f2cb5febc900926b3934d77c0cde686111e0a03dae775a70d7c796d1b10a0592",
+      "bytes": 490468
+    },
+    {
+      "project": "11-87",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-87.mp4",
+      "sha256": "0eb87c848764fc01639d521dc02829ed9520194b0bc8f2e849a37d6ada7a6c30",
+      "bytes": 421345
+    },
+    {
+      "project": "11-88",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-88.mp4",
+      "sha256": "a0d820953604b644e9ff4b7ca5663e86209056eb0319fd4866e1cb414e8fe7d5",
+      "bytes": 471328
+    },
+    {
+      "project": "11-89",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-89.mp4",
+      "sha256": "e8581b6dfa0dee226e6582f288fdb53200aa8ebcfd0d6a9366edf81545dffafb",
+      "bytes": 526357
+    },
+    {
+      "project": "11-90",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-90.mp4",
+      "sha256": "1a853317130349f116f8a78e18549701d2f36eb771c2b79e2618a2bb8a2f5b52",
+      "bytes": 533181
+    },
+    {
+      "project": "11-91",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-91.mp4",
+      "sha256": "65664f685f3b2755bcd7b17277158c24da4cfa8beb3c38698da796bc302dd741",
+      "bytes": 550068
+    },
+    {
+      "project": "11-92",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-92.mp4",
+      "sha256": "fb6818f7de306ccee6e96fe9ea6bb51fa5e24cd5c8eef418f2f349b7b8e81be9",
+      "bytes": 508985
+    },
+    {
+      "project": "11-99",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/11-99.mp4",
+      "sha256": "c705786bd0c5fa073f640354c1f270363f90cdaab3ad2ab34855f677beb0b1cc",
+      "bytes": 461170
+    },
+    {
+      "project": "12-01",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-01.mp4",
+      "sha256": "3dbbdf66735dace20727ab86c8cfd4b4f3a477ee08bcfc1d37f65f6d054ed0b0",
+      "bytes": 420543
+    },
+    {
+      "project": "12-02",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-02.mp4",
+      "sha256": "2fdafb8bc15cb3b27b24381f3c31c9372446c648f78d3fcabec1655b05e35f94",
+      "bytes": 438064
+    },
+    {
+      "project": "12-03",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-03.mp4",
+      "sha256": "f86bc3f98121013a81a811c2498ffa0229cd99756438ddfa8f85b3f537214b86",
+      "bytes": 412600
+    },
+    {
+      "project": "12-07",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-07.mp4",
+      "sha256": "eefc032589841d4c605ac57c29300f0a553b367bf199774089748b0d6076c0c7",
+      "bytes": 445550
+    },
+    {
+      "project": "12-08",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-08.mp4",
+      "sha256": "c420e9efb93088ba37a4b44778d0213bc52045c6bac21cfd81f19b64473fddf4",
+      "bytes": 453698
+    },
+    {
+      "project": "12-09",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-09.mp4",
+      "sha256": "ae4b088cba17d3042451fdd5fef421171a179184c5a60c25a06bcbb6a700740f",
+      "bytes": 411724
+    },
+    {
+      "project": "12-10",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-10.mp4",
+      "sha256": "787102c50fca9628666adef9e0a986c26d898c64653499c3b2f2735465c5ec3f",
+      "bytes": 408897
+    },
+    {
+      "project": "12-11",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-11.mp4",
+      "sha256": "f3da020cfa2cecf2d58c8195e163b275e64e502e7033328bf7d071b8ee8b28d5",
+      "bytes": 413847
+    },
+    {
+      "project": "12-12",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-12.mp4",
+      "sha256": "b660d8fa6679947470db7117a5a4f10a03303c7afc0bca8c59940a2fdedf8a25",
+      "bytes": 407423
+    },
+    {
+      "project": "12-13",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-13.mp4",
+      "sha256": "04aca216e7b8a9a64dfab6a0d5e1205c3723f41f60d18cf613bac7b1d01549ac",
+      "bytes": 436762
+    },
+    {
+      "project": "12-16",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-16.mp4",
+      "sha256": "f8159e06e1d1066d9a3b9c6ddbe6ebf10775dd94ab4277d91bfceab2f73ad4ad",
+      "bytes": 456307
+    },
+    {
+      "project": "12-17",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-17.mp4",
+      "sha256": "2aded8592656467cefb9328ed824fef0e4993ffb233df2e8254e34b3df65aaa6",
+      "bytes": 440673
+    },
+    {
+      "project": "12-18",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-18.mp4",
+      "sha256": "f21687dd79010c9e7fa20baae76067ab7c67c3fc8afb3f62d4e8097062a97fa5",
+      "bytes": 421858
+    },
+    {
+      "project": "12-22",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-22.mp4",
+      "sha256": "bddf91501a468383afe82604a552e8848e01ac7bd1c2d549c6e2f4c99e36468e",
+      "bytes": 438167
+    },
+    {
+      "project": "12-23",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-23.mp4",
+      "sha256": "fd8970635be35b746a3131b45b603a4b7319bd635111bcfa09a54f959899e5c1",
+      "bytes": 462127
+    },
+    {
+      "project": "12-24",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-24.mp4",
+      "sha256": "a0293504930ad89d1696b3139ba94772211879f39ed6f071263d24b26e23d0b3",
+      "bytes": 451340
+    },
+    {
+      "project": "12-26",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-26.mp4",
+      "sha256": "49667fde5a6f58f6be8cf9b0e565c7a0d748353ec25b24512f671a2df6b57962",
+      "bytes": 447110
+    },
+    {
+      "project": "12-27",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-27.mp4",
+      "sha256": "4ad18793c0ec12a090928f743a30fc8fdcbc4af14a5023b4f609b1b6936062d6",
+      "bytes": 457719
+    },
+    {
+      "project": "12-28",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-28.mp4",
+      "sha256": "5bdc7565d857cedeb7b603a51ada989e44b679cc1fc6a323eb73cdc8f745ad80",
+      "bytes": 470178
+    },
+    {
+      "project": "12-29",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-29.mp4",
+      "sha256": "b9b63654c8438a30b1c965d0f3c6fc1fe60b8d3ffc665734030b293809457505",
+      "bytes": 459869
+    },
+    {
+      "project": "12-30",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-30.mp4",
+      "sha256": "69bdda0bc69cf1502bb149d33434d8cdd0e7a39f2232c2e752c22f2103a5f363",
+      "bytes": 457065
+    },
+    {
+      "project": "12-31",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-31.mp4",
+      "sha256": "430162ce3499d225ceb382dbccae86fd056b9f8d954fcc0da09c23dcce964f62",
+      "bytes": 474185
+    },
+    {
+      "project": "12-33",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-33.mp4",
+      "sha256": "af0c095063705ac82f62e325b8432cacdd3e364cb49c8a1560081c72ed2cf694",
+      "bytes": 427390
+    },
+    {
+      "project": "12-34",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-34.mp4",
+      "sha256": "22d59da5b3f504f666068c75cc71a788e5025c3ea711686a52b14c972eb9dabb",
+      "bytes": 441996
+    },
+    {
+      "project": "12-35",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-35.mp4",
+      "sha256": "46dcc672b62ae062cf550967ca70cfcc89d2787889fc6df1eeff4b80d30e989e",
+      "bytes": 445297
+    },
+    {
+      "project": "12-38",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-38.mp4",
+      "sha256": "7d3c5179cd9c45fc4758e2b8bad9cce21ecba03f58a3b7e1532578927b4e0c74",
+      "bytes": 431275
+    },
+    {
+      "project": "12-39",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-39.mp4",
+      "sha256": "79538b491cd103a4c76ccee904a9926a59af2d3a3649ef04569cfb47ee2a6a55",
+      "bytes": 446917
+    },
+    {
+      "project": "12-40",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-40.mp4",
+      "sha256": "0036d0b5ae7ac4d123d60de3799344363cbbc34b82c6e38f5048fdfc2d086516",
+      "bytes": 434470
+    },
+    {
+      "project": "12-42",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-42.mp4",
+      "sha256": "6c85bf3f3e84bf1877d5a0d63bef2365b2df20f0391b71a22ba975e3cb65e41d",
+      "bytes": 425374
+    },
+    {
+      "project": "12-44",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-44.mp4",
+      "sha256": "3e52fe00e5ba459cd63e6b1c2cf2172a3d8671066a6cad23bc9b35cd821dd6f6",
+      "bytes": 392169
+    },
+    {
+      "project": "12-45",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-45.mp4",
+      "sha256": "880b858b7579b71664b32acfe525819f2e030f0d5edd387506b71a0e66fa7c61",
+      "bytes": 410224
+    },
+    {
+      "project": "12-47",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-47.mp4",
+      "sha256": "ea8a2e02c66f7f6099b8caf191be742c36f5bc3d82f581846d57c5eaf67d9b2f",
+      "bytes": 426019
+    },
+    {
+      "project": "12-48",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-48.mp4",
+      "sha256": "416f5345938aadaa9e2cbc32dc387e8903b81a465f9f83fa111b9f8ca3c75b8d",
+      "bytes": 485302
+    },
+    {
+      "project": "12-49",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-49.mp4",
+      "sha256": "5ce5dd9d2627e5a4597ede405398b779b303acc8c09d1cdbfa26c2375970bf58",
+      "bytes": 451821
+    },
+    {
+      "project": "12-50",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-50.mp4",
+      "sha256": "3815a45f99d8f9ac7af258294b9e002c05519c00993c1a155284e0f6376b64b6",
+      "bytes": 457810
+    },
+    {
+      "project": "12-51",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-51.mp4",
+      "sha256": "bbb10b3c9dd59741cd65426ff8deb99ebe3a6a8ac5f99f5b256480f83667d4c8",
+      "bytes": 476047
+    },
+    {
+      "project": "12-52",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-52.mp4",
+      "sha256": "6bebed061729868d70fedcc0d7012079da0052306d4637b78000b028b756995b",
+      "bytes": 469184
+    },
+    {
+      "project": "12-53",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-53.mp4",
+      "sha256": "089d64f3e8f37fbb004af9ef65e32922efbfbf0975a2b23d5a3757b2aebeb33a",
+      "bytes": 478595
+    },
+    {
+      "project": "12-54",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-54.mp4",
+      "sha256": "922b6677d3877853755792474059bae4d255bfb6da15a9dda8972c280ced27dc",
+      "bytes": 544737
+    },
+    {
+      "project": "12-57",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-57.mp4",
+      "sha256": "5f3c4760dc045a523dd9c3cb403a9777b78fc6fc4c7f55709713ac191b3ac2a3",
+      "bytes": 417314
+    },
+    {
+      "project": "12-58",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-58.mp4",
+      "sha256": "9b39cc109bd29a78ce66eb0c5ad6a30c4c68ae796de9a4667ec54ead423a3d69",
+      "bytes": 415548
+    },
+    {
+      "project": "12-59",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-59.mp4",
+      "sha256": "8c34e1530e718b08a7828bebed51ea2813da0b0bfaad7af0da315d90b8b30da3",
+      "bytes": 450240
+    },
+    {
+      "project": "12-60",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-60.mp4",
+      "sha256": "ac59b7499d975b27c66d694a006537e2ff893f167f035707058bc5824b9cc4c1",
+      "bytes": 425751
+    },
+    {
+      "project": "12-61",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/12-61.mp4",
+      "sha256": "76bf91e31c035e5c3ee1dac236f8dbb651ae050e076b3ebd21d4aabd0592206b",
+      "bytes": 437750
+    },
+    {
+      "project": "13-00",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-00.mp4",
+      "sha256": "9fc46aabc5733e3528470c1836b5a3e5504207c333046bd74ae9bf62cc0c7e8e",
+      "bytes": 441186
+    },
+    {
+      "project": "13-00A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-00A.mp4",
+      "sha256": "02cb04ceedb7bf708727e683b7a2934e97dd35b38002e080ade7cce379acdc95",
+      "bytes": 480106
+    },
+    {
+      "project": "13-02",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-02.mp4",
+      "sha256": "d36473c420afabc0d3c6e97a90c2226e1c21eeca00d5d13056a3493c5420bb6e",
+      "bytes": 493718
+    },
+    {
+      "project": "13-02X",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-02X.mp4",
+      "sha256": "ea4e6c815c35419de4e8ed6a98b6532b200ded8ad5819dbac93638fe751d704e",
+      "bytes": 422833
+    },
+    {
+      "project": "13-04",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-04.mp4",
+      "sha256": "55bfe10246f84f350736712a359f8c8f2aa1f24638c6053034129c7a13d10e28",
+      "bytes": 423728
+    },
+    {
+      "project": "13-05",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-05.mp4",
+      "sha256": "48fd86f717c7c69e4532ba4b6a28fb4e661a9414a2d3f2957eb2c961ce8d4098",
+      "bytes": 442761
+    },
+    {
+      "project": "13-09",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-09.mp4",
+      "sha256": "5d3e43f164f1005808930477545f5f5cffea5cb49df2ca3d6118c0c34f852952",
+      "bytes": 424965
+    },
+    {
+      "project": "13-10",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-10.mp4",
+      "sha256": "359405ff353ab5768bcaf6432be1da165fbbbe283fee5784b1c621d46e85b7c5",
+      "bytes": 431640
+    },
+    {
+      "project": "13-11",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-11.mp4",
+      "sha256": "27e69acb90bc9e4edabd3c554c99768bcdfefc7e431ea6fda0539f3e4564666d",
+      "bytes": 430379
+    },
+    {
+      "project": "13-12",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-12.mp4",
+      "sha256": "20d6a8ca27cdc1ed39c6a1e8ea17738f679feea0542397609dd5e7c59a908bce",
+      "bytes": 443084
+    },
+    {
+      "project": "13-13",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-13.mp4",
+      "sha256": "b5b97de3d7bab286c3bc59c454e9f87ea541fd3f0d68618b07b1386983357286",
+      "bytes": 485397
+    },
+    {
+      "project": "13-14",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-14.mp4",
+      "sha256": "6c26a8e413b458fa1d002a9d3f8aba0b2f8c4975d121671c863e7b8674689acc",
+      "bytes": 419215
+    },
+    {
+      "project": "13-15",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-15.mp4",
+      "sha256": "8fd90543bb7843eb5ffad058428eca812d09a803b1551d24232c340242300abd",
+      "bytes": 423579
+    },
+    {
+      "project": "13-16",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-16.mp4",
+      "sha256": "abfc271429f5ffa4ca41b19e895c8e7620a53704f197f1290e42552aaa8cc3fb",
+      "bytes": 396768
+    },
+    {
+      "project": "13-17",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-17.mp4",
+      "sha256": "08647cefd31aba77a809688ecfb620113387f521286d3f76de326e5736fbef5b",
+      "bytes": 394229
+    },
+    {
+      "project": "13-18",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-18.mp4",
+      "sha256": "91293c1ad8b36ac19caed2501eccae52797250e42737c68b7dfd071a4786b167",
+      "bytes": 436981
+    },
+    {
+      "project": "13-18A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-18A.mp4",
+      "sha256": "2132def38609269e69ad62b1bb9ad9bde08c8e9f52d805d571d89af367e9670e",
+      "bytes": 458220
+    },
+    {
+      "project": "13-18KL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-18KL.mp4",
+      "sha256": "8c8041fa439147f0d31c032b011896effe62ab87001aaadbeb76e120f295155d",
+      "bytes": 445339
+    },
+    {
+      "project": "13-20",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-20.mp4",
+      "sha256": "2517a64ca90c63cd5f518ae9a763af0acd9ea7aa63539e9bb8b004b96e1ccc4c",
+      "bytes": 354024
+    },
+    {
+      "project": "13-21",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-21.mp4",
+      "sha256": "9cb25a07aa2d27c5e4b068662c2f7dd3ac34454457f1872db1a147ef1c2241eb",
+      "bytes": 353234
+    },
+    {
+      "project": "13-23",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-23.mp4",
+      "sha256": "ee999aba2a4967b60fee1841318f29f693e477183e28817bd872a4a7ee52d06b",
+      "bytes": 367550
+    },
+    {
+      "project": "13-29",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-29.mp4",
+      "sha256": "0a68a40f1eef1d122e3dadf951bb9387cab8bd7f6cc3a19db19a8b7367ed84eb",
+      "bytes": 416563
+    },
+    {
+      "project": "13-30",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-30.mp4",
+      "sha256": "b748d4540863d3d707e57c666a4ad29d038724d83ee1497efc60fd45a93c6565",
+      "bytes": 462392
+    },
+    {
+      "project": "13-31",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-31.mp4",
+      "sha256": "2ee601a2e35b8b0b022e30f9ed6eb2b6b597f70e0c705559799308570526accd",
+      "bytes": 494834
+    },
+    {
+      "project": "13-32",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-32.mp4",
+      "sha256": "533e59c110cab069cde9bdfe5e2e636c29afc3ad39469c72da3da16ad066dee4",
+      "bytes": 427777
+    },
+    {
+      "project": "13-33",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-33.mp4",
+      "sha256": "7a3ea2dfc5ef7c2cc7fda2c9c0f497b01e29f1d7e331276a502c5b2d26005eb6",
+      "bytes": 401643
+    },
+    {
+      "project": "13-34",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-34.mp4",
+      "sha256": "d2bb81a2610198208e9ca1344f58933bdc66a7a17296f272de643b5ca1add13b",
+      "bytes": 438831
+    },
+    {
+      "project": "13-34A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-34A.mp4",
+      "sha256": "d7bb1777642862e2706edf20d73afabe442e44b3c9630dc4c944b5ff6998ce43",
+      "bytes": 389675
+    },
+    {
+      "project": "13-35",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-35.mp4",
+      "sha256": "aa0cc233855f3ab0078babb84bdba358e5fce26a02b9ee2d515a7f53b8d772fa",
+      "bytes": 434743
+    },
+    {
+      "project": "13-36",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-36.mp4",
+      "sha256": "92ba00c045b2149e6aab534c34b03f77a9ec75771920c7d1a376ea97d137da46",
+      "bytes": 422793
+    },
+    {
+      "project": "13-37",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-37.mp4",
+      "sha256": "954d2b8470d3c9a9b7a111259b24288420379be9b5f2a2321b0100c8bcfd221c",
+      "bytes": 428675
+    },
+    {
+      "project": "13-38",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-38.mp4",
+      "sha256": "e65c521cab165ec203547f1b126bb61ec47a86bbb7b0c4e1d15ef02073da89cf",
+      "bytes": 427013
+    },
+    {
+      "project": "13-39",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-39.mp4",
+      "sha256": "3cdd342f1c3a82cdefc1e60a4fa1ce24f799300b2a049026d7de76bcbdaee86a",
+      "bytes": 401043
+    },
+    {
+      "project": "13-40",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-40.mp4",
+      "sha256": "c7345e1d3f3caa4ecf9d50925ea65d64c32d7ab7da7fce1d8e76de3b2712b37e",
+      "bytes": 441866
+    },
+    {
+      "project": "13-41",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-41.mp4",
+      "sha256": "cbf9771348ae92d66d2989d463c505d5fabffa28bd6cc621434ed010b4530ec2",
+      "bytes": 449787
+    },
+    {
+      "project": "13-42",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-42.mp4",
+      "sha256": "2220196add50c499df8e7a7477fabbc61653a5c430c45c7966e3fb35070d2689",
+      "bytes": 454939
+    },
+    {
+      "project": "13-57",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-57.mp4",
+      "sha256": "8f1e8f459a1df1727f3f6cf1dcce814155032c5d71a7732afbefff84c1392bf8",
+      "bytes": 488842
+    },
+    {
+      "project": "13-58",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-58.mp4",
+      "sha256": "583e4adf2e1f43823e3b9582a9b0d5aabc2e2b67d00fd73202873b7678ebe004",
+      "bytes": 461285
+    },
+    {
+      "project": "13-59AG",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-59AG.mp4",
+      "sha256": "83c2e30ef3b82002b034978d080844749421a1c7c01ee3e766beb4f4db9179a0",
+      "bytes": 413245
+    },
+    {
+      "project": "13-59BCKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-59BCKL.mp4",
+      "sha256": "12cce99e0a0db06d8386715808d64be476a13beebf071889b8ae76ede7561026",
+      "bytes": 445831
+    },
+    {
+      "project": "13-59BK2L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-59BK2L.mp4",
+      "sha256": "7fe6a6f59abe2802bb1c803753af140c4c9f7d634c28816e6970479136c223c8",
+      "bytes": 382145
+    },
+    {
+      "project": "13-59D",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-59D.mp4",
+      "sha256": "b94155619c51279ef643c5ab37d156edd9e78ea951627d14ff75c9fff8300cc6",
+      "bytes": 410408
+    },
+    {
+      "project": "13-59E",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-59E.mp4",
+      "sha256": "86a49224ec68b5ed5fd688314f10d6090ebf091e2ba895163bc886d01e067e5b",
+      "bytes": 427625
+    },
+    {
+      "project": "13-59FBDGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-59FBDGL.mp4",
+      "sha256": "7e92d077f3441c8d64c3a56bd4f1c5eeefab6343c2efbd9cc6eb4563813e1b1b",
+      "bytes": 428285
+    },
+    {
+      "project": "13-59FBK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-59FBK1L.mp4",
+      "sha256": "4cd024bd1daf815c8a86c11ebe09a40ce1e94c1d002a31b757399947397530b4",
+      "bytes": 397707
+    },
+    {
+      "project": "13-59FCK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-59FCK1L.mp4",
+      "sha256": "1a38670741e3fe9e2fe30642869ea39cb51e6992769de5fea499ac2a152c2abe",
+      "bytes": 436699
+    },
+    {
+      "project": "13-59FDGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-59FDGL.mp4",
+      "sha256": "174caab69f2822397410c2cc0722801f8c6277e03a477729efaf644509d24a47",
+      "bytes": 513743
+    },
+    {
+      "project": "13-59FEK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-59FEK1L.mp4",
+      "sha256": "5f988e26e04c58d684c79605e90b0046f5c1d8cf21a2b0f10d157ba5d5925202",
+      "bytes": 467175
+    },
+    {
+      "project": "13-59FK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-59FK1L.mp4",
+      "sha256": "e2a13e4df62581ccdaffb35716523c75dad68e0e32fc2e335567e81d21dc9b2f",
+      "bytes": 455400
+    },
+    {
+      "project": "13-59FMG",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-59FMG.mp4",
+      "sha256": "6f1a39af56cbf7388e12c21bf91b89f1621e2cad7b6ec9a3371d3b35bb9d7689",
+      "bytes": 441217
+    },
+    {
+      "project": "13-59GN",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-59GN.mp4",
+      "sha256": "053f253fb8abfe6a4639fdd880512549ac9bac650f9214f35bd49b62b88fc59d",
+      "bytes": 366575
+    },
+    {
+      "project": "13-59K1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-59K1L.mp4",
+      "sha256": "77565fc41514576f882eb4f624c0eb6b1b86b774da598598bc8bc52ff1c84b28",
+      "bytes": 422221
+    },
+    {
+      "project": "13-59N",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-59N.mp4",
+      "sha256": "1e308fe9fcd5426a8cce8341391dd65b956ffd3102c4deb5e9b626917e9aa548",
+      "bytes": 415417
+    },
+    {
+      "project": "13-60",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-60.mp4",
+      "sha256": "2a8a86f19581366d67c808072a658177e149839ef8c62cba0c93bf7424d3fd63",
+      "bytes": 414250
+    },
+    {
+      "project": "13-62",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-62.mp4",
+      "sha256": "d9479c103e659a5bafaa4057aaf3ce5c9765374004604e1cea839aff04f7785b",
+      "bytes": 413384
+    },
+    {
+      "project": "13-63",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-63.mp4",
+      "sha256": "834819c6495aeb8cfcfc802ff10d8d7f9f0d227d5593120b012cab57bae57621",
+      "bytes": 436949
+    },
+    {
+      "project": "13-64",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/13-64.mp4",
+      "sha256": "59d08df57f4eb648856040f3390de3f744086c711c0a4c7b08634e388cc351c2",
+      "bytes": 431511
+    },
+    {
+      "project": "48-78K2",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/48-78K2.mp4",
+      "sha256": "5899535b970bdb7c192edf624d1bb607080d73c9e819eb1d1053f854279fd9ec",
+      "bytes": 393276
+    },
+    {
+      "project": "48-79G",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/48-79G.mp4",
+      "sha256": "a0b0283b4f5f896b828ab57438296ed49f083e01a9b9d578143392b3de145252",
+      "bytes": 447081
+    },
+    {
+      "project": "58-70JAB",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/58-70JAB.mp4",
+      "sha256": "d54cbaf68bb79cce70e712ad0588aa33c5123a1d85f1dbd79f990d8a5ebcef01",
+      "bytes": 340046
+    },
+    {
+      "project": "59-92Q",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/59-92Q.mp4",
+      "sha256": "33b024c66bb831b4f1c7175f83bab4e6c3f50728e419112b56232fae1763a099",
+      "bytes": 384207
+    },
+    {
+      "project": "62-07AH",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/62-07AH.mp4",
+      "sha256": "c2dd02b1356a57320f23ee003cc6dbf18c07bdffb6a81871fa9369f95d41d954",
+      "bytes": 350202
+    },
+    {
+      "project": "62-71BANBA",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/62-71BANBA.mp4",
+      "sha256": "6e803ac428973813a9938a324c6c7548c03dc11c3f8b641dbe94fb28c702d79f",
+      "bytes": 338596
+    },
+    {
+      "project": "64-45MKB",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/64-45MKB.mp4",
+      "sha256": "be0170f9a42772d1fd01e01138ce9b02d2ebd2a62d379310df7cb1ba9284f981",
+      "bytes": 332218
+    },
+    {
+      "project": "68-49A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/68-49A.mp4",
+      "sha256": "3f07ab203509db73c341a821c642537de9d07d7a5fd7fbfef86e2a5b2c31a5a1",
+      "bytes": 381813
+    },
+    {
+      "project": "69-20F",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/69-20F.mp4",
+      "sha256": "5b56e9f9bf1f11bfce8618d1bc6aadc9de8922362578aa77e8ea08b0a131c779",
+      "bytes": 443763
+    },
+    {
+      "project": "69-25",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/69-25.mp4",
+      "sha256": "4d3915e3fb4047d785f2b8755b1822d01dc901bb7915b742038b4f540644d1da",
+      "bytes": 395684
+    },
+    {
+      "project": "69-26",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/69-26.mp4",
+      "sha256": "96cdcfe684da290adfee531e4531f86cceb82f62a7349c7eeda0442a5094037d",
+      "bytes": 421618
+    },
+    {
+      "project": "69-27",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/69-27.mp4",
+      "sha256": "794f0820b975a182a48db83f06a50ab710a923edd30be39817e43d41093833ed",
+      "bytes": 419383
+    },
+    {
+      "project": "69-28",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/69-28.mp4",
+      "sha256": "b3487ecfab6a4ff8b8253185f05a941a5f1c9fe6f58a6a324f34a4c5f04b5029",
+      "bytes": 423929
+    },
+    {
+      "project": "69-29",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/69-29.mp4",
+      "sha256": "bd53eadb7ddbbda0e04d3980827a66ba2bf165d92fd7adb2d6e0ef1d87bdb825",
+      "bytes": 401631
+    },
+    {
+      "project": "69-30",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/69-30.mp4",
+      "sha256": "38a6826357d90b6a8a014515aa4765a7659ecf2d9b969e9d4ddb399e11749ee7",
+      "bytes": 344514
+    },
+    {
+      "project": "69-37",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/69-37.mp4",
+      "sha256": "2be90e1b641e9f74cef055718094c4959c0a2a4f7e7b615916b2770409f73322",
+      "bytes": 359202
+    },
+    {
+      "project": "69-48",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_37_house_plan_facade_video/69-48.mp4",
+      "sha256": "83c493dc121a6bf376a4f2b111f4e86ad568072ee3e3010483f579614e89e3ba",
+      "bytes": 372833
+    }
+  ]
+}
