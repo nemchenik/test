@@ -35,7 +35,7 @@ def replace_once(source: str, old: str, new: str) -> str:
 source = embedded_batch36_source()
 
 # Use a cinematic sequence for this collection:
-# facade filmstrip -> house -> floor plans -> house.
+# main project visualization -> floor plans -> facades.
 source = replace_once(
     source,
     '''        "ffmpeg", "-hide_banner", "-loglevel", "error", "-y",
@@ -45,17 +45,16 @@ source = replace_once(
         "-loop", "1", "-t", str(STAGE_SECONDS), "-i", str(static_card),
 ''',
     '''        "ffmpeg", "-hide_banner", "-loglevel", "error", "-y",
-        "-i", str(facade_slide),
-        "-i", str(static_card),
-        "-i", str(plan_slide),
-        "-i", str(static_card),
+        "-loop", "1", "-t", str(STAGE_SECONDS), "-i", str(static_card),
+        "-loop", "1", "-t", str(STAGE_SECONDS), "-i", str(plan_slide),
+        "-loop", "1", "-t", str(STAGE_SECONDS), "-i", str(facade_slide),
 ''',
 )
 source = replace_once(
     source,
     '''        "-map", "[outv]", "-an",
 ''',
-    '''        "-map", "[outv]", "-t", "7.60", "-an",
+    '''        "-map", "[outv]", "-t", "7.40", "-an",
 ''',
 )
 
@@ -69,10 +68,10 @@ for old, new in {
     'CAMPAIGN = "generated_house_plan_facade_video_batch_36"':
         'CAMPAIGN = "generated_random_cinema_video_batch_40"',
     'START_PIN = 6512': 'START_PIN = 7312',
-    'STAGE_SECONDS = 2.0': 'STAGE_SECONDS = 2.3',
-    'EXPECTED_DURATION_MIN = 6.35': 'EXPECTED_DURATION_MIN = 7.40',
-    'EXPECTED_DURATION_MAX = 6.85': 'EXPECTED_DURATION_MAX = 7.80',
-    '"duration_seconds": "6.35-6.85"': '"duration_seconds": "7.40-7.80"',
+    'STAGE_SECONDS = 2.0': 'STAGE_SECONDS = 2.8',
+    'EXPECTED_DURATION_MIN = 6.35': 'EXPECTED_DURATION_MIN = 7.20',
+    'EXPECTED_DURATION_MAX = 6.85': 'EXPECTED_DURATION_MAX = 7.60',
+    '"duration_seconds": "6.35-6.85"': '"duration_seconds": "7.20-7.60"',
     'f"pinterest/generated_batch_36_house_plan_facade_video/{record.project}.mp4"':
         'f"pinterest/generated_batch_40_random_cinema_video/{record.project}.mp4"',
     '"local_validation_batch36.json"': '"local_validation_batch40.json"',
@@ -361,14 +360,12 @@ old_filter = '''def ffmpeg_filter() -> str:
 '''
 new_filter = '''def ffmpeg_filter() -> str:
     return (
-        f"[0:v]scale=720:1080,zoompan=z='1.015+0.006*sin(on/9)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={STAGE_FRAMES}:s=720x1080:fps={FPS},setsar=1[v0];"
-        f"[1:v]scale=720:1080,zoompan=z='min(zoom+0.00060,1.045)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={STAGE_FRAMES}:s=720x1080:fps={FPS},setsar=1[v1];"
-        f"[2:v]scale=720:1080,zoompan=z='if(eq(on,0),1.04,max(1.0,zoom-0.00058))':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={STAGE_FRAMES}:s=720x1080:fps={FPS},setsar=1[v2];"
-        f"[3:v]scale=720:1080,zoompan=z='min(zoom+0.00045,1.035)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={STAGE_FRAMES}:s=720x1080:fps={FPS},setsar=1[v3];"
-        "[v0][v1]xfade=transition=wipeup:duration=0.50:offset=1.80[x1];"
-        "[x1][v2]xfade=transition=radial:duration=0.50:offset=3.60[x2];"
-        "[x2][v3]xfade=transition=fadeblack:duration=0.50:offset=5.40,"
-        "fade=t=in:st=0:d=0.16,fade=t=out:st=7.20:d=0.40,scale=in_range=pc:out_range=tv,format=yuv420p[outv]"
+        f"[0:v]scale=720:1080,zoompan=z='min(zoom+0.00050,1.045)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={STAGE_FRAMES}:s=720x1080:fps={FPS},setsar=1[v0];"
+        f"[1:v]scale=720:1080,zoompan=z='if(eq(on,0),1.035,max(1.0,zoom-0.00042))':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={STAGE_FRAMES}:s=720x1080:fps={FPS},setsar=1[v1];"
+        f"[2:v]scale=720:1080,zoompan=z='1.012+0.005*sin(on/10)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={STAGE_FRAMES}:s=720x1080:fps={FPS},setsar=1[v2];"
+        "[v0][v1]xfade=transition=wipeup:duration=0.50:offset=2.30[x1];"
+        "[x1][v2]xfade=transition=fadeblack:duration=0.50:offset=4.60,"
+        "fade=t=in:st=0:d=0.16,fade=t=out:st=7.00:d=0.35,scale=in_range=pc:out_range=tv,format=yuv420p[outv]"
     )
 '''
 source = replace_once(source, old_filter, new_filter)
