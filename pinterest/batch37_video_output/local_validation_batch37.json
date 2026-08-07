@@ -13,10 +13,10 @@
       "height": 1080,
       "pix_fmt": "yuv420p",
       "duration": 6.65,
-      "size": 372833,
+      "size": 372544,
       "project": "69-48",
       "plans": [
-        "https://catalog-plans.ru/files/2026/08/03/ea55b92708aba650dc54b3fa7527ea9e.jpg"
+        "https://catalog-plans.ru/files/2026/08/06/827493cb8d654fdbb7d5d50caf2347d0.jpg"
       ],
       "facades": [
         "https://catalog-plans.ru/files/2026/08/03/942a929bf33b1b7d4df1d43ed71f4ebf.jpg",
@@ -24,7 +24,7 @@
         "https://catalog-plans.ru/files/2026/08/03/c9b9f0eb4d4015c1fc7a2fb4f54e0cc9.jpg",
         "https://catalog-plans.ru/files/2026/08/03/d37d737695862f2d15ab18c12c7100a6.jpg"
       ],
-      "sha256": "83c493dc121a6bf376a4f2b111f4e86ad568072ee3e3010483f579614e89e3ba"
+      "sha256": "e79d329d7c4f00854188feabc18760bdb7d94593c1f6598cd1d8f08b929d3fdf"
     },
     {
       "codec": "h264",
@@ -725,7 +725,7 @@
       "height": 1080,
       "pix_fmt": "yuv420p",
       "duration": 6.65,
-      "size": 482744,
+      "size": 498827,
       "project": "10-37",
       "plans": [
         "https://catalog-plans.ru/files/2014/11/20/441ee5cef530bf30572a7f6c25058f52.jpg",
@@ -737,7 +737,7 @@
         "https://catalog-plans.ru/files/2014/11/20/599dd4399dda72cf05fe9087b14233d4.jpg",
         "https://catalog-plans.ru/files/2014/11/20/2136d0b64e5057622ac996ec98c81979.jpg"
       ],
-      "sha256": "aba349362a1d82c514e803557c79f8f15eb94731fe0c30f0119d703413bbcb3a"
+      "sha256": "ec1ff9c47c29050af21efcd4ed67a7bf556e61badb290e353379aedaebf84e58"
     },
     {
       "codec": "h264",
