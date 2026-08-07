@@ -213,11 +213,33 @@ source = replace_once(
 )
 source = replace_once(
     source,
+    '''    response = old.get(record.page_url)
+    response.encoding = response.apparent_encoding or response.encoding
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    plan_urls = section_urls(soup, ".media-tile--plan", record.page_url)
+''',
+    '''    response = old.get(record.page_url)
+    response.encoding = response.apparent_encoding or response.encoding
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    og_image = soup.select_one('meta[property="og:image"]')
+    image_url = urllib.parse.urljoin(
+        record.page_url,
+        og_image.get("content", "") if og_image else record.image_url,
+    )
+    fetch_image(image_url)
+
+    plan_urls = section_urls(soup, ".media-tile--plan", record.page_url)
+''',
+)
+source = replace_once(
+    source,
     '''        feature=record.feature,
         plan_urls=plan_urls,
 ''',
     '''        feature=record.feature,
-        image_url=record.image_url,
+        image_url=image_url,
         plan_urls=plan_urls,
 ''',
 )
