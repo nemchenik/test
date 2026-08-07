@@ -144,6 +144,14 @@ def published_video_ids() -> set[str]:
 
 
 def project_ids() -> list[str]:
+    prepared = sorted(
+        path.stem for path in STATIC_DIR.glob("*.jpg")
+        if PROJECT_RE.fullmatch(path.stem)
+    )
+    if len(prepared) == 200 and len(set(prepared)) == 200:
+        print("reusing 200 previously selected random project IDs", flush=True)
+        return prepared
+
     seed_csv = OUT_DIR / "catalog_plans_pinterest_random_cinema_videos_batch_40_200.csv"
     if seed_csv.exists():
         with seed_csv.open("r", encoding="utf-8-sig", newline="") as file:
