@@ -548,4 +548,25 @@ source = replace_once(
 
 virtual_path = ROOT / "batch46_botanical_architecture_video_runtime.py"
 namespace = {"__name__": "__main__", "__file__": str(virtual_path)}
-exec(compile(source, str(virtual_path), "exec"), namespace)
+import ast as _ast
+
+
+class _MetadataContrastFix(_ast.NodeTransformer):
+    def visit_Call(self, node):
+        self.generic_visit(node)
+        if not isinstance(node.func, _ast.Attribute) or node.func.attr != "text":
+            return node
+        if not node.args or not isinstance(node.args[0], _ast.Tuple) or len(node.args[0].elts) < 2:
+            return node
+        y_value = node.args[0].elts[1]
+        if not isinstance(y_value, _ast.Constant) or y_value.value != 964:
+            return node
+        for keyword in node.keywords:
+            if keyword.arg == "fill":
+                keyword.value = _ast.Constant("#2D4633")
+        return node
+
+
+runtime_tree = _MetadataContrastFix().visit(_ast.parse(source))
+_ast.fix_missing_locations(runtime_tree)
+exec(compile(runtime_tree, str(virtual_path), "exec"), namespace)
