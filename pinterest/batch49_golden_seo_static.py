@@ -57,6 +57,8 @@ for old, new in replacements.items():
     if old not in runtime:
         raise RuntimeError(f"Не найден шаблон: {old}")
     runtime = runtime.replace(old, new)
+runtime = runtime.replace("videos generated", "images generated")
+runtime = runtime.replace("house→plans→facades videos", "static house cards")
 
 runtime_module = types.ModuleType("batch49_runtime")
 runtime_module.__file__ = str(HERE / "batch49_runtime.py")
