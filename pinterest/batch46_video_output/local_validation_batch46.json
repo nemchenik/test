@@ -32,7 +32,7 @@
       "height": 1080,
       "pix_fmt": "yuv420p",
       "duration": 7.4,
-      "size": 290836,
+      "size": 290837,
       "project": "48-21EAG",
       "plans": [
         "https://catalog-plans.ru/files/2020/03/30/ce67da281f0899c656a179746ce6fea6.jpg",
@@ -44,7 +44,7 @@
         "https://catalog-plans.ru/files/2022/02/18/b2ca36a717f3d9375fe600ada66c36ba.jpg",
         "https://catalog-plans.ru/files/2022/02/18/26649ffac542034ff20a4cc4d8b36829.jpg"
       ],
-      "sha256": "4886740e0b20596116a4213e8c68722cd020800dd85e961724c22193576dbea7"
+      "sha256": "e785045e9818550b4cfec3d9ec3daacfe5d54befcc918a6e77a2bc8f02fb7d4d"
     },
     {
       "codec": "h264",
@@ -1404,7 +1404,7 @@
       "height": 1080,
       "pix_fmt": "yuv420p",
       "duration": 7.4,
-      "size": 362972,
+      "size": 363109,
       "project": "49-04",
       "plans": [
         "https://catalog-plans.ru/files/2014/11/28/f6ca268961a890578dbd886fcef681a2.jpg",
@@ -1416,7 +1416,7 @@
         "https://catalog-plans.ru/files/2014/11/28/81da50823ca429a70f63b05af9f754dc.jpg",
         "https://catalog-plans.ru/files/2014/11/28/220eabae03ef722e3ca32b245f18045f.jpg"
       ],
-      "sha256": "cafe5608be3935ac3a19af893ea10674f044b1ec9e3ac220281798e393eb4e43"
+      "sha256": "f162e9b61f4a4d2f36b937943f5ee1152f84e7b2eabaa3368185306cde88de09"
     },
     {
       "codec": "h264",
@@ -2220,7 +2220,7 @@
       "height": 1080,
       "pix_fmt": "yuv420p",
       "duration": 7.4,
-      "size": 426802,
+      "size": 426917,
       "project": "53-13",
       "plans": [
         "https://catalog-plans.ru/files/2014/12/11/60b290066afa158f1a3f9a2acaff2392.jpg",
@@ -2232,7 +2232,7 @@
         "https://catalog-plans.ru/files/2014/12/11/70ceb45c00d8afc83066346119d75266.jpg",
         "https://catalog-plans.ru/files/2014/12/11/f089955f9808dcabf9b4dc105eeb194c.jpg"
       ],
-      "sha256": "0b6ea6bfaa6e39cf778069c393152a8ac7ec3cb9045fc322b4b833028fa38afd"
+      "sha256": "aa695b2af4b6c23f917913771f947a42d1d7b513c2f8d01e9fe5500704e9596a"
     },
     {
       "codec": "h264",
@@ -2260,7 +2260,7 @@
       "height": 1080,
       "pix_fmt": "yuv420p",
       "duration": 7.4,
-      "size": 328079,
+      "size": 328052,
       "project": "45-11CAL",
       "plans": [
         "https://catalog-plans.ru/files/2023/05/23/7fdd8a139493abf943044743b9c021ee.jpg",
@@ -2272,7 +2272,7 @@
         "https://catalog-plans.ru/files/2023/05/23/e693e50d99e4d877391af0dc7d68f74a.jpg",
         "https://catalog-plans.ru/files/2023/05/23/7c4fd802de0e45b29c6d70af30c5aaed.jpg"
       ],
-      "sha256": "36855849f1bb5daf235e4ef839033f8f8b9cd948bdc7abd1a14143f6bf7d1bd5"
+      "sha256": "b6cfa166cdbe39ee1d96ba63c4a9e8709b3f553ff7b45531572b7a04118f6530"
     },
     {
       "codec": "h264",
@@ -3010,7 +3010,7 @@
         "https://catalog-plans.ru/files/2024/03/05/28d41b298ea351ff9e4a2cbe9d52128c.jpg",
         "https://catalog-plans.ru/files/2024/03/05/77886d8a71f96c5cf3b6936a86dce2aa.jpg"
       ],
-      "sha256": "151964b4b3b3ec87532e72c7fa8ee67a0b6c43f54fd168bbb19b6792c3870950"
+      "sha256": "969fa99828582cbf001112d37278a53810286587d58b98798f2a36be70e7a462"
     },
     {
       "codec": "h264",
@@ -3290,7 +3290,7 @@
         "https://catalog-plans.ru/files/2026/06/08/35e66551c94e0c05bfee346cc5f2d161.jpg",
         "https://catalog-plans.ru/files/2026/06/08/b7aca8afb3b9b451552e162c8ba2ce4e.jpg"
       ],
-      "sha256": "1587cd50f11c322185bb896c2e1f00601cf930b7281019f63e985cf76380c594"
+      "sha256": "86841afad2540d2a28a38a656cccd163176bf1f60addfb60816ce8018100aac7"
     },
     {
       "codec": "h264",
