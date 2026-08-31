@@ -23,11 +23,17 @@ HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 FONT_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+FREE_FONT = "/usr/share/fonts/truetype/freefont/FreeSans.ttf"
+FREE_FONT_BOLD = "/usr/share/fonts/truetype/freefont/FreeSansBold.ttf"
 REPO = "nemchenik/test"
 
 
 def font(size: int, bold: bool = False) -> ImageFont.FreeTypeFont:
     return ImageFont.truetype(FONT_BOLD if bold else FONT, size)
+
+
+def free_font(size: int, bold: bool = False) -> ImageFont.FreeTypeFont:
+    return ImageFont.truetype(FREE_FONT_BOLD if bold else FREE_FONT, size)
 
 
 def fit_font(draw: ImageDraw.ImageDraw, text: str, width: int, start: int, minimum: int, bold: bool = False):
@@ -236,10 +242,78 @@ def render_premium(record, house: Image.Image, plans: list[Image.Image], floor_t
     return canvas
 
 
-RENDERERS = {"editorial": render_editorial, "blueprint": render_blueprint, "premium": render_premium}
+def render_plans_ocean(record, _house: Image.Image | None, plans: list[Image.Image], floor_text) -> Image.Image:
+    navy, teal, seafoam, cream, white = "#1A2332", "#2D8B8B", "#A8DADC", "#F1FAEE", "#FFFFFF"
+    canvas = Image.new("RGB", (1000, 1500), cream)
+    draw = ImageDraw.Draw(canvas)
+    draw.rectangle((0, 0, 1000, 205), fill=navy)
+    draw.rectangle((0, 197, 1000, 205), fill=teal)
+    draw.text((52, 34), "ОРИГИНАЛЬНАЯ ПЛАНИРОВКА ДОМА", font=font(19, True), fill=seafoam)
+    title = f"Проект № {record.project}"
+    draw.text((52, 76), title, font=fit_font(draw, title, 585, 44, 27, True), fill=cream)
+    draw.text((755, 80), f"{record.area} м²", font=fit_font(draw, f"{record.area} м²", 193, 33, 21, True), fill=cream)
+    draw.text((52, 232), "ПЛАНЫ ЭТАЖЕЙ", font=font(21, True), fill=navy)
+    boxes = [(52, 278, 486, 980), (514, 278, 948, 980)] if len(plans) > 1 else [(132, 278, 868, 980)]
+    paste_plan_pair(canvas, plans, boxes, seafoam, "ЭТАЖ {}", teal, white, 18)
+    draw.rounded_rectangle((52, 1018, 948, 1245), radius=25, fill=navy)
+    draw.text((82, 1048), "ПЛАНИРОВКА ПРОЕКТА ДОМА", font=font(17, True), fill=seafoam)
+    seo = (
+        f"Оригинальные планы проекта №{record.project} площадью {record.area} м². "
+        "Оцените расположение помещений и сравните этажи перед выбором дома."
+    )
+    draw_wrapped(draw, seo, (82, 1092), 830, font(22), cream, 9, 4)
+    for index, (label, value) in enumerate(facts(record, floor_text)):
+        left = 52 + index * 306
+        draw.rounded_rectangle((left, 1280, left + 284, 1418), radius=18, fill=white, outline=seafoam, width=3)
+        draw.text((left + 22, 1304), label, font=font(14, True), fill=teal)
+        draw.text((left + 22, 1347), value, font=fit_font(draw, value, 240, 23, 16, True), fill=navy)
+    draw.text((52, 1452), "catalog-plans.ru", font=font(19, True), fill=navy)
+    draw.text((700, 1455), "ПЛАНИРОВКИ ДОМОВ", font=font(14, True), fill=teal)
+    return canvas
 
 
-def run_batch(*, batch: int, slug: str, style: str, start_pin: int) -> None:
+def render_plans_golden(record, _house: Image.Image | None, plans: list[Image.Image], floor_text) -> Image.Image:
+    mustard, terracotta, beige, chocolate, paper = "#F4A900", "#C1666B", "#D4B896", "#4A403A", "#FFF9EF"
+    canvas = Image.new("RGB", (1000, 1500), chocolate)
+    draw = ImageDraw.Draw(canvas)
+    draw.rectangle((0, 0, 1000, 220), fill=chocolate)
+    draw.rectangle((0, 212, 1000, 220), fill=mustard)
+    draw.rounded_rectangle((52, 34, 318, 78), radius=22, fill=terracotta)
+    draw.text((82, 43), "ПЛАНИРОВКА ДОМА", font=free_font(18, True), fill=paper)
+    title = f"Проект № {record.project}"
+    draw.text((52, 100), title, font=fit_font(draw, title, 610, 45, 27, True), fill=paper)
+    draw.text((752, 108), f"{record.area} м²", font=fit_font(draw, f"{record.area} м²", 196, 33, 21, True), fill=mustard)
+    draw.rectangle((0, 220, 1000, 1010), fill=beige)
+    draw.text((52, 248), "ОРИГИНАЛЬНЫЕ ПЛАНЫ ЭТАЖЕЙ", font=free_font(20, True), fill=chocolate)
+    boxes = [(52, 296, 486, 970), (514, 296, 948, 970)] if len(plans) > 1 else [(145, 296, 855, 970)]
+    paste_plan_pair(canvas, plans, boxes, terracotta, "ПЛАН {}", chocolate, paper, 8)
+    draw.rounded_rectangle((52, 1045, 948, 1264), radius=18, fill=paper, outline=mustard, width=3)
+    draw.text((80, 1072), "ПРОЕКТ ДОМА С ПЛАНИРОВКОЙ", font=free_font(18, True), fill=terracotta)
+    seo = (
+        f"Планировка дома №{record.project}: площадь {record.area} м², {floor_text(record.floors)}. "
+        "Сохраните планы этажей, чтобы сравнить комнаты и выбрать подходящий проект."
+    )
+    draw_wrapped(draw, seo, (80, 1114), 830, free_font(22), chocolate, 8, 4)
+    for index, (label, value) in enumerate(facts(record, floor_text)):
+        left = 52 + index * 306
+        draw.rounded_rectangle((left, 1300, left + 284, 1418), radius=16, fill=terracotta if index == 0 else "#5B4D45")
+        draw.text((left + 20, 1319), label, font=free_font(14, True), fill=beige)
+        draw.text((left + 20, 1355), value, font=fit_font(draw, value, 242, 22, 15, True), fill=paper)
+    draw.text((52, 1452), "catalog-plans.ru", font=free_font(19, True), fill=mustard)
+    draw.text((616, 1454), "ПРОЕКТЫ С ПЛАНИРОВКОЙ", font=free_font(14, True), fill=beige)
+    return canvas
+
+
+RENDERERS = {
+    "editorial": render_editorial,
+    "blueprint": render_blueprint,
+    "premium": render_premium,
+    "plans_ocean": render_plans_ocean,
+    "plans_golden": render_plans_golden,
+}
+
+
+def run_batch(*, batch: int, slug: str, style: str, start_pin: int, board: str = "Проекты частных домов") -> None:
     base = runpy.run_path(str(HERE / "batch53_organic_editorial_static.py"))
     runtime = base["runtime"]
     out_dir = HERE / f"batch{batch}_{slug}_output"
@@ -285,6 +359,13 @@ def run_batch(*, batch: int, slug: str, style: str, start_pin: int) -> None:
             if len(ids) == 200 and len(set(ids)) == 200:
                 print(f"using 200 stable project IDs from batch {batch} CSV", flush=True)
                 return ids
+        recovered = sorted(
+            path.name for path in (work_dir / "media").glob("*")
+            if path.is_dir() and any(path.glob("plan_*")) and runtime["PROJECT_RE"].fullmatch(path.name)
+        )
+        if len(recovered) == 200:
+            print(f"using 200 recovered project IDs from batch {batch} media", flush=True)
+            return recovered
         excluded = published_project_ids()
         def read_catalog_page(page: int):
             response = None
@@ -419,7 +500,7 @@ def run_batch(*, batch: int, slug: str, style: str, start_pin: int) -> None:
 
     def render(record):
         image_dir.mkdir(parents=True, exist_ok=True)
-        house = fetch_house(record.image_url)
+        house = None if style.startswith("plans_") else fetch_house(record.image_url)
         plans = plan_images(work_dir, record.project)
         canvas = RENDERERS[style](record, house, plans, runtime["floor_text"])
         canvas.save(image_dir / f"{record.project}.jpg", "JPEG", quality=92, optimize=True, progressive=True)
@@ -445,8 +526,12 @@ def run_batch(*, batch: int, slug: str, style: str, start_pin: int) -> None:
             rows.append({
                 "Title": f"Проект дома №{record.project} площадью {record.area} м² с планировками",
                 "Media URL": f"https://raw.githubusercontent.com/{REPO}/{asset_ref}/pinterest/{asset_folder}/{record.project}.jpg",
-                "Pinterest board": "Проекты частных домов", "Thumbnail": "",
+                "Pinterest board": board, "Thumbnail": "",
                 "Description": (
+                    f"Проект дома №{record.project}: площадь {record.area} м², {runtime['floor_text'](record.floors)}, "
+                    f"габариты {record.dimensions} м, материал стен — {material}. На карточке показаны оригинальные "
+                    "планировки этажей. Сохраните планы дома и откройте проект, чтобы узнать подробности и актуальную стоимость."
+                    if style.startswith("plans_") else
                     f"Проект дома №{record.project}: площадь {record.area} м², {runtime['floor_text'](record.floors)}, "
                     f"габариты {record.dimensions} м, материал стен — {material}. На карточке показаны визуализация дома "
                     "и планировки этажей. Сохраните идею и откройте проект, чтобы узнать подробности и актуальную стоимость."
@@ -457,6 +542,9 @@ def run_batch(*, batch: int, slug: str, style: str, start_pin: int) -> None:
                 ),
                 "Publish date": "",
                 "Keywords": (
+                    f"проект дома {record.project}, проект дома {record.area} м², планировка дома, планы этажей, "
+                    f"готовый проект дома, оригинальная планировка, {material}, catalog-plans.ru"
+                    if style.startswith("plans_") else
                     f"проект дома {record.project}, проект дома {record.area} м², планировка дома, планы этажей, "
                     f"готовый проект дома, визуализация дома, {material}, catalog-plans.ru"
                 ),
@@ -470,6 +558,7 @@ def run_batch(*, batch: int, slug: str, style: str, start_pin: int) -> None:
     runtime["project_ids"] = stable_project_ids
     runtime["process_project"] = process_project_with_plans
     runtime["download_project_media"] = download_original_plans
+    runtime["render_house_slide"] = skip_unused_slide
     runtime["render_plan_slide"] = skip_unused_slide
     runtime["render_facade_slide"] = skip_unused_slide
     runtime["generate_video"] = render
