@@ -23,6 +23,8 @@ HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 FONT_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+SERIF_FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf"
+SERIF_FONT_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf"
 FREE_FONT = "/usr/share/fonts/truetype/freefont/FreeSans.ttf"
 FREE_FONT_BOLD = "/usr/share/fonts/truetype/freefont/FreeSansBold.ttf"
 REPO = "nemchenik/test"
@@ -51,6 +53,19 @@ def fit_free_font(draw: ImageDraw.ImageDraw, text: str, width: int, start: int, 
     while draw.textbbox((0, 0), text, font=selected)[2] > width and size > minimum:
         size -= 1
         selected = free_font(size, bold)
+    return selected
+
+
+def serif_font(size: int, bold: bool = False) -> ImageFont.FreeTypeFont:
+    return ImageFont.truetype(SERIF_FONT_BOLD if bold else SERIF_FONT, size)
+
+
+def fit_serif_font(draw: ImageDraw.ImageDraw, text: str, width: int, start: int, minimum: int, bold: bool = False):
+    size = start
+    selected = serif_font(size, bold)
+    while draw.textbbox((0, 0), text, font=selected)[2] > width and size > minimum:
+        size -= 1
+        selected = serif_font(size, bold)
     return selected
 
 
@@ -389,6 +404,104 @@ def render_plans_tech(record, _house: Image.Image | None, plans: list[Image.Imag
     return canvas
 
 
+def render_plans_sunset(record, _house: Image.Image | None, plans: list[Image.Image], floor_text) -> Image.Image:
+    orange, coral, sand, deep, paper = "#E76F51", "#F4A261", "#E9C46A", "#264653", "#FFFDF7"
+    canvas = Image.new("RGB", (1000, 1500), sand)
+    draw = ImageDraw.Draw(canvas)
+    draw.rectangle((0, 0, 1000, 212), fill=deep)
+    draw.ellipse((785, -92, 1075, 198), fill=orange)
+    draw.ellipse((850, -38, 1030, 142), fill=coral)
+    draw.text((54, 31), "АРХИТЕКТУРА ДЛЯ ЖИЗНИ", font=font(17, True), fill=coral)
+    title = f"Проект № {record.project}"
+    draw.text((54, 76), title, font=fit_serif_font(draw, title, 650, 45, 26, True), fill=paper)
+    draw.text((54, 141), f"Дом площадью {record.area} м²", font=font(22), fill=sand)
+    draw.text((54, 246), "ОРИГИНАЛЬНЫЕ ПЛАНЫ ЭТАЖЕЙ", font=font(20, True), fill=deep)
+    boxes = [(54, 294, 486, 983), (514, 294, 946, 983)] if len(plans) > 1 else [(146, 294, 854, 983)]
+    paste_plan_pair(canvas, plans, boxes, orange, "ЭТАЖ {}", deep, paper, 20)
+    draw.rounded_rectangle((54, 1024, 946, 1248), radius=24, fill=deep)
+    draw.text((84, 1053), "ПЛАНИРОВКА, КОТОРУЮ ЛЕГКО ОЦЕНИТЬ", font=font(17, True), fill=coral)
+    seo = (
+        f"Оригинальные планы проекта №{record.project}, площадь {record.area} м². "
+        "Сравните этажи, оцените комнаты и сохраните подходящий вариант дома."
+    )
+    draw_wrapped(draw, seo, (84, 1100), 822, font(23), paper, 9, 4)
+    for index, (label, value) in enumerate(facts(record, floor_text)):
+        left = 54 + index * 306
+        fill = orange if index == 0 else paper
+        draw.rounded_rectangle((left, 1286, left + 282, 1418), radius=20, fill=fill, outline=deep, width=2)
+        draw.text((left + 20, 1307), label, font=font(13, True), fill=deep)
+        draw.text((left + 20, 1347), value, font=fit_font(draw, value, 240, 22, 15, True), fill=paper if index == 0 else deep)
+    draw.text((54, 1453), "catalog-plans.ru", font=font(19, True), fill=deep)
+    draw.text((703, 1456), "ПЛАНЫ ЭТАЖЕЙ", font=font(14, True), fill=orange)
+    return canvas
+
+
+def render_plans_forest(record, _house: Image.Image | None, plans: list[Image.Image], floor_text) -> Image.Image:
+    forest, sage, olive, cream, paper = "#2D4A2B", "#7D8471", "#A4AC86", "#F2EEDF", "#FFFEF8"
+    canvas = Image.new("RGB", (1000, 1500), forest)
+    draw = ImageDraw.Draw(canvas)
+    draw.rectangle((26, 26, 974, 1474), outline=olive, width=2)
+    draw.rounded_rectangle((54, 48, 946, 198), radius=22, fill=cream)
+    draw.text((82, 73), "ПЛАНИРОВКИ ЧАСТНЫХ ДОМОВ", font=font(16, True), fill=sage)
+    title = f"Проект дома № {record.project}"
+    draw.text((82, 108), title, font=fit_font(draw, title, 610, 40, 24, True), fill=forest)
+    area = f"{record.area} м²"
+    draw.rounded_rectangle((754, 91, 916, 158), radius=10, fill=forest)
+    af = font(23, True); aw = draw.textbbox((0, 0), area, font=af)[2]
+    draw.text((835 - aw // 2, 112), area, font=af, fill=cream)
+    draw.text((54, 232), "ОРИГИНАЛЬНЫЕ ПЛАНЫ", font=font(19, True), fill=cream)
+    boxes = [(54, 278, 486, 987), (514, 278, 946, 987)] if len(plans) > 1 else [(146, 278, 854, 987)]
+    paste_plan_pair(canvas, plans, boxes, olive, "ПЛАН {} ЭТАЖА", forest, paper, 12)
+    draw.rounded_rectangle((54, 1026, 946, 1246), radius=18, fill=sage)
+    draw.text((82, 1054), "ПРОДУМАННОЕ ПРОСТРАНСТВО ДОМА", font=font(17, True), fill=paper)
+    seo = (
+        f"Проект №{record.project}: площадь {record.area} м², {floor_text(record.floors)}. "
+        "Посмотрите взаимосвязь помещений и сохраните планировку для сравнения."
+    )
+    draw_wrapped(draw, seo, (82, 1100), 828, font(23), paper, 9, 4)
+    for index, (label, value) in enumerate(facts(record, floor_text)):
+        left = 54 + index * 306
+        draw.rounded_rectangle((left, 1284, left + 282, 1418), radius=12, fill=cream if index != 1 else olive)
+        draw.text((left + 20, 1306), label, font=font(13, True), fill=forest)
+        draw.text((left + 20, 1346), value, font=fit_font(draw, value, 240, 22, 15, True), fill=forest)
+    draw.text((54, 1443), "catalog-plans.ru", font=font(19, True), fill=cream)
+    draw.text((670, 1446), "ПРОЕКТЫ ДЛЯ СТРОИТЕЛЬСТВА", font=font(13, True), fill=olive)
+    return canvas
+
+
+def render_plans_minimal(record, _house: Image.Image | None, plans: list[Image.Image], floor_text) -> Image.Image:
+    black, graphite, gray, pale, white = "#111111", "#454545", "#D3D3D3", "#F4F4F4", "#FFFFFF"
+    canvas = Image.new("RGB", (1000, 1500), white)
+    draw = ImageDraw.Draw(canvas)
+    draw.rectangle((0, 0, 1000, 18), fill=black)
+    draw.text((64, 55), "ПЛАНИРОВКА ДОМА", font=font(15, True), fill=graphite)
+    title = f"Проект № {record.project}"
+    draw.text((64, 91), title, font=fit_font(draw, title, 650, 47, 28, True), fill=black)
+    draw.text((790, 104), f"{record.area} м²", font=fit_font(draw, f"{record.area} м²", 146, 27, 18, True), fill=graphite)
+    draw.line((64, 174, 936, 174), fill=black, width=2)
+    draw.text((64, 211), "ОРИГИНАЛЬНЫЕ ПЛАНЫ ЭТАЖЕЙ", font=font(18, True), fill=graphite)
+    boxes = [(64, 259, 482, 977), (518, 259, 936, 977)] if len(plans) > 1 else [(154, 259, 846, 977)]
+    paste_plan_pair(canvas, plans, boxes, gray, "ЭТАЖ {}", black, white, 0)
+    draw.rectangle((64, 1020, 936, 1238), fill=pale)
+    draw.rectangle((64, 1020, 72, 1238), fill=black)
+    draw.text((98, 1050), "КРАТКО О ПРОЕКТЕ", font=font(16, True), fill=black)
+    seo = (
+        f"Планы проекта №{record.project} площадью {record.area} м². "
+        "Изучите размеры и расположение комнат перед выбором проекта для строительства."
+    )
+    draw_wrapped(draw, seo, (98, 1096), 792, font(23), graphite, 10, 4)
+    draw.line((64, 1283, 936, 1283), fill=gray, width=2)
+    for index, (label, value) in enumerate(facts(record, floor_text)):
+        left = 64 + index * 294
+        if index:
+            draw.line((left - 18, 1310, left - 18, 1412), fill=gray, width=2)
+        draw.text((left, 1310), label, font=font(13, True), fill=graphite)
+        draw.text((left, 1354), value, font=fit_font(draw, value, 250, 23, 15, True), fill=black)
+    draw.text((64, 1450), "catalog-plans.ru", font=font(18, True), fill=black)
+    draw.text((738, 1453), "АРХИТЕКТУРА ДОМА", font=font(13, True), fill=graphite)
+    return canvas
+
+
 RENDERERS = {
     "editorial": render_editorial,
     "blueprint": render_blueprint,
@@ -397,6 +510,9 @@ RENDERERS = {
     "plans_golden": render_plans_golden,
     "plans_desert_rose": render_plans_desert_rose,
     "plans_tech": render_plans_tech,
+    "plans_sunset": render_plans_sunset,
+    "plans_forest": render_plans_forest,
+    "plans_minimal": render_plans_minimal,
 }
 
 
