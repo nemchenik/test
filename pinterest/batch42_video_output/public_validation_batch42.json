@@ -1,0 +1,1208 @@
+{
+  "total": 200,
+  "verified": 200,
+  "all_public_urls_http_200": true,
+  "all_sha256_match": true,
+  "files": [
+    {
+      "project": "13-73",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/13-73.mp4",
+      "sha256": "4d83f9fb28bed577e5f0b837a9f8bf7a89a886f79393a3206664ee71d8f6dbe9",
+      "bytes": 300693
+    },
+    {
+      "project": "13-73A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/13-73A.mp4",
+      "sha256": "bb311561dc5e357b5df2f744e0fa7226463338e22e6cffd183e98ec2078b6909",
+      "bytes": 311107
+    },
+    {
+      "project": "13-96",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/13-96.mp4",
+      "sha256": "37f0f75163a96e2eb3a14658d2b3b6cb0ee04a9f9ad30070f1e355288ac0a560",
+      "bytes": 303185
+    },
+    {
+      "project": "15-21",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/15-21.mp4",
+      "sha256": "cc45960f9eaa66d666081f36952790153b4b24ab853b7909154208ee7080ed35",
+      "bytes": 289191
+    },
+    {
+      "project": "30-63",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/30-63.mp4",
+      "sha256": "8f44af82242d9232cb84ba67dd98f1d695d8e749b3cfc85d7e378bafe5f3278b",
+      "bytes": 405023
+    },
+    {
+      "project": "31-14",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/31-14.mp4",
+      "sha256": "45d6c947901f430037662601b9b1662f2d4a03bacfc640a37d5dcd1665de14a2",
+      "bytes": 423652
+    },
+    {
+      "project": "31-32",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/31-32.mp4",
+      "sha256": "77c0c609807e5474da18ca7ea6bb9950732034aea143dab75daff001a3077622",
+      "bytes": 387074
+    },
+    {
+      "project": "31-70",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/31-70.mp4",
+      "sha256": "f865d827b67bbfb8ba11a8b547dafb24c3bff3d1b263b10e2d8a6ee468da721c",
+      "bytes": 381415
+    },
+    {
+      "project": "31-89",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/31-89.mp4",
+      "sha256": "a898c7a2a09f1030aab32e453dd41b1268ea6ee1a90efb2e9327bbc4ad5a3e26",
+      "bytes": 352132
+    },
+    {
+      "project": "32-38",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/32-38.mp4",
+      "sha256": "acb6d4824ea05db141bd8d90294eacfd80dad1c6acb3dec6547281d0438670bb",
+      "bytes": 357690
+    },
+    {
+      "project": "32-49",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/32-49.mp4",
+      "sha256": "325c760bac170d4d42f6e5212c67d8920f7d2f5b7fa0227b32b07127972e0e06",
+      "bytes": 383498
+    },
+    {
+      "project": "33-14",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/33-14.mp4",
+      "sha256": "dbebd54e3d5f39533afd6de112f87884e6ef98ed2316dc1d3904c1db35eff6e3",
+      "bytes": 350506
+    },
+    {
+      "project": "33-25",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/33-25.mp4",
+      "sha256": "efe5e2979b5ad6aef47167b1f42d664145ccd3df88eb4d1cfe0f7effbe512191",
+      "bytes": 371853
+    },
+    {
+      "project": "33-34",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/33-34.mp4",
+      "sha256": "7c06ede5c87d858089456d67528ff56f846e34b6a67a99fe2b39ba4eacec002d",
+      "bytes": 431662
+    },
+    {
+      "project": "33-79",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/33-79.mp4",
+      "sha256": "8de2ecc394bc40903e38e11c4a2442e8fd105bcf0d32c769205bba375544e803",
+      "bytes": 348661
+    },
+    {
+      "project": "33-96",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/33-96.mp4",
+      "sha256": "bf15fb664659e5ff6325fdfb2be5062d09cb4f1c73feb0d8635d0d9080998d74",
+      "bytes": 374706
+    },
+    {
+      "project": "34-71",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/34-71.mp4",
+      "sha256": "ebd440260416568184c3ebc1da2ab61368b7befceba33a08bedbe5395e3f345b",
+      "bytes": 356081
+    },
+    {
+      "project": "35-62",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/35-62.mp4",
+      "sha256": "5ac934a4063eb9ddf27c7aaac741d0db89b6a7a51558f110eb59a918826dd999",
+      "bytes": 342812
+    },
+    {
+      "project": "35-90",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/35-90.mp4",
+      "sha256": "790699b204b7dc34c49fbe463c59aef068f19563dabc2f51a89b8f9678983d12",
+      "bytes": 392485
+    },
+    {
+      "project": "36-04",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/36-04.mp4",
+      "sha256": "4aa9ff821f24de39568d8155a508ad1ab0da0debac779c369e07342bee6b681a",
+      "bytes": 465585
+    },
+    {
+      "project": "38-24",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/38-24.mp4",
+      "sha256": "9e64c23395a93453a4ccae5b72e99686df8d2eeedfbf80e1f1f16e4790b9facf",
+      "bytes": 341424
+    },
+    {
+      "project": "38-28",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/38-28.mp4",
+      "sha256": "7935d8ffce34819ee30699af8283ad3a6b8a81e8df2fc2ced8cb7e169b65b41f",
+      "bytes": 364213
+    },
+    {
+      "project": "38-56",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/38-56.mp4",
+      "sha256": "c894fcbe68fdbaadca10793a8ecfdbc3f4ea3c170fd7f195586f0b1ff6c019ca",
+      "bytes": 342791
+    },
+    {
+      "project": "40-04PAGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/40-04PAGL.mp4",
+      "sha256": "b955cb0266276761dc2df8df3505bfa3f76bdff7b6109b00413700730e9e15b9",
+      "bytes": 320049
+    },
+    {
+      "project": "40-11BGA",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/40-11BGA.mp4",
+      "sha256": "46dcff602aa8c4d0ec156c4d8a9b7db05a6e677a0991d79c02ab1caddb9cf517",
+      "bytes": 491256
+    },
+    {
+      "project": "40-11Q",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/40-11Q.mp4",
+      "sha256": "590a23fadcccc36424ca9d43ca7fbef4a9d534bb13b178c3e4a36d2002bb32ef",
+      "bytes": 311736
+    },
+    {
+      "project": "40-32G",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/40-32G.mp4",
+      "sha256": "decf68d53dd36f1f15b091d4a099508c1486d356ebb23cd9bbcd8afbd1b739f3",
+      "bytes": 323379
+    },
+    {
+      "project": "40-67A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/40-67A.mp4",
+      "sha256": "a793aae7f6c3a5e042a1099a1032a2cbcade7f0225a8302e9a7b577b32cfa219",
+      "bytes": 429243
+    },
+    {
+      "project": "40-73AGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/40-73AGL.mp4",
+      "sha256": "a602e49bc3f6e6a70415bb8b1bb90a3b07055be4a197fc9131d04a50aa1b120c",
+      "bytes": 420162
+    },
+    {
+      "project": "40-75L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/40-75L.mp4",
+      "sha256": "2b368e5abbfd916c11f0da30ff31e90d1b4b0e54e4a2e69d0cc69c8c0dcfed7c",
+      "bytes": 365263
+    },
+    {
+      "project": "40-76AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/40-76AL.mp4",
+      "sha256": "9d34b0a4b2536cc77025d8ca605a3b974fd19160b4b1db3599c38fd4fb6175cb",
+      "bytes": 326085
+    },
+    {
+      "project": "40-80L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/40-80L.mp4",
+      "sha256": "a2dad8cc02ed87041795f1494dcd41b72f54fcf871d155b785fdb8e1241b2a7b",
+      "bytes": 399061
+    },
+    {
+      "project": "40-81",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/40-81.mp4",
+      "sha256": "cf90a21de6387001f2e854a3182d0d74b09ad41dba1c41b6f5e1d1484a331576",
+      "bytes": 321356
+    },
+    {
+      "project": "40-86DAX",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/40-86DAX.mp4",
+      "sha256": "99a539509e8f28c491e38bfeda00b09b98d94058e88f9f3ffea1c9b955b99e1a",
+      "bytes": 294853
+    },
+    {
+      "project": "45-00AGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-00AGL.mp4",
+      "sha256": "6235830a18f6e789cd57771eca4c1cd7610dcd9ef9fd8ae257f26f9146c8b58e",
+      "bytes": 328732
+    },
+    {
+      "project": "45-01FK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-01FK1L.mp4",
+      "sha256": "1f2d793c04db610a5e74792ada76735a38fa6e239d6a8671ac5983a7347bf7d3",
+      "bytes": 339527
+    },
+    {
+      "project": "45-16EL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-16EL.mp4",
+      "sha256": "5d2bff1d699346eb4460a53de4c5d6967e415847599a8bbe3deaea855df1cba1",
+      "bytes": 307889
+    },
+    {
+      "project": "45-16Y",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-16Y.mp4",
+      "sha256": "4d2450e2bda0a23dcb84fa7d0bbbfb5522959d26fdaefdfa41fe201a9df50ae4",
+      "bytes": 272600
+    },
+    {
+      "project": "45-16ZAL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-16ZAL.mp4",
+      "sha256": "171b7c4fa3a86b30985eea9ce96a898c72f95b08f3bf8e6214001162672af049",
+      "bytes": 321815
+    },
+    {
+      "project": "45-51AFG",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-51AFG.mp4",
+      "sha256": "1ab55610d3fd1fc052b5354326322be446b57b45b2cffdcf29bd94369d031843",
+      "bytes": 344134
+    },
+    {
+      "project": "45-57ADGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-57ADGL.mp4",
+      "sha256": "5704179ab74eea4cb397301616de54bca8187f28cede283f4eafc973ad34381b",
+      "bytes": 313129
+    },
+    {
+      "project": "45-63K1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-63K1L.mp4",
+      "sha256": "056f725e57063902ed230fb503345c7115832e5a4586f8c660b95904460fb075",
+      "bytes": 325582
+    },
+    {
+      "project": "45-64EFKBL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-64EFKBL.mp4",
+      "sha256": "a18d4dd83b9438034daed906bf856baf3aabc5ef44040c701f3d295a2ba34d6c",
+      "bytes": 306469
+    },
+    {
+      "project": "45-64JK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-64JK1L.mp4",
+      "sha256": "b4f04af76bda20fc1af760b9dda2f25c1a0fd758b49cff61e47e21c36b07f857",
+      "bytes": 293882
+    },
+    {
+      "project": "45-64MCAGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-64MCAGL.mp4",
+      "sha256": "740dda32508798646cd05b568078e41d8cd2a086106b446b150fa3f60dc860a7",
+      "bytes": 334915
+    },
+    {
+      "project": "45-64NMBBKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-64NMBBKL.mp4",
+      "sha256": "b6b69325606373f775ba070597f05c67ad17e894416d4d11e57ba9214ae46fd7",
+      "bytes": 315572
+    },
+    {
+      "project": "45-64NMKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-64NMKL.mp4",
+      "sha256": "26c60ab247ec90f1a2faa10467bd8be9d8a6e811f5e568cf604d9dd9916781fe",
+      "bytes": 341146
+    },
+    {
+      "project": "45-64RDK2L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-64RDK2L.mp4",
+      "sha256": "ad4322d2c1dcde3acac50581d2525fb308cc3b91b4f39e3d49ccda41ebf423ab",
+      "bytes": 308321
+    },
+    {
+      "project": "45-64RFG",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-64RFG.mp4",
+      "sha256": "99e40b430ba6e0929b1c2e80050b040062970bc6102e40f72e900a7969ec28af",
+      "bytes": 355706
+    },
+    {
+      "project": "45-64ZATGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-64ZATGL.mp4",
+      "sha256": "dac8d0535a3daa2cce900af0900ce093e4d588fa4a22cf698142910a557bd76b",
+      "bytes": 348172
+    },
+    {
+      "project": "45-71AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-71AL.mp4",
+      "sha256": "784f8a2ade3b7a30daff702cf489c102aa3f5abbe9d4c87b9db8a72489fbc980",
+      "bytes": 307267
+    },
+    {
+      "project": "45-77BGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-77BGL.mp4",
+      "sha256": "9689d10a9f6771842839cb8736e45b9ac13c018a8481f8ac2bfe06f10c1cbcaf",
+      "bytes": 325623
+    },
+    {
+      "project": "45-91L2",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/45-91L2.mp4",
+      "sha256": "b73daa406452cf11da6dcbe551497305d01be9865b05ecbfd10959b26432b427",
+      "bytes": 315728
+    },
+    {
+      "project": "46-08AJG",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/46-08AJG.mp4",
+      "sha256": "791c6a16671a87a3e690a6269f20707eb0e79be163e800dd73269eff32e3446c",
+      "bytes": 350490
+    },
+    {
+      "project": "46-09AFGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/46-09AFGL.mp4",
+      "sha256": "bec614269be75f4f8c00bcc5e4ba6d8986866a69c56e94357fc60e423fed1012",
+      "bytes": 334891
+    },
+    {
+      "project": "46-09DK1ML",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/46-09DK1ML.mp4",
+      "sha256": "a30cbcd7373c630928f4ba537a75e95aa3bcb272d0dd690c60142e3e66682754",
+      "bytes": 371827
+    },
+    {
+      "project": "46-38K1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/46-38K1L.mp4",
+      "sha256": "bb6ccfbf38248b0d24a0b46e59553b4791c0907f8d60747c51fb50a0fb53c981",
+      "bytes": 287543
+    },
+    {
+      "project": "46-47",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/46-47.mp4",
+      "sha256": "c139c9dda96109cde14e9f1a858f9f589cc528c1e79b93da2b45c363626601f6",
+      "bytes": 299710
+    },
+    {
+      "project": "46-54",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/46-54.mp4",
+      "sha256": "0f2e05ee12999ad540c63ea30ca5ef3df07c37dde02b9a4cf3bbd20e93b23a9e",
+      "bytes": 315036
+    },
+    {
+      "project": "48-14",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/48-14.mp4",
+      "sha256": "a8ae5319ed0c4cba4cfa81f2e21afb9a74a1fd8383301dbc96d3b7bd1db66c71",
+      "bytes": 312369
+    },
+    {
+      "project": "48-20AK",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/48-20AK.mp4",
+      "sha256": "f66cd3d7070bec43db75093232c46276ed1f577367c0b71f59d2dd49152e3901",
+      "bytes": 316570
+    },
+    {
+      "project": "48-24BW",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/48-24BW.mp4",
+      "sha256": "a74200a51a1726e09b8663c2f7116db2d0dcfe9c1fcb84c3595e4793df02d715",
+      "bytes": 299802
+    },
+    {
+      "project": "48-24GHADL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/48-24GHADL.mp4",
+      "sha256": "beb22d73f917bdcb713f5e221f34e7f1c69eba4779ce419cccc23d6fd9230b7d",
+      "bytes": 344697
+    },
+    {
+      "project": "48-24HAMGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/48-24HAMGL.mp4",
+      "sha256": "8e53ccadef2eecf076848ec776c97275c6dc34b8f104da4777fe1e2ba9a54507",
+      "bytes": 333393
+    },
+    {
+      "project": "48-24WAK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/48-24WAK1L.mp4",
+      "sha256": "32120947999766d8d79cc7794d0e4c3224093349dfcd9b8f044f96f6dcfa1ad7",
+      "bytes": 488035
+    },
+    {
+      "project": "48-25",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/48-25.mp4",
+      "sha256": "926d0073eeb0a285cef08fb0c65e480c53d681714c9a1bfba98a49388d7e1cac",
+      "bytes": 334729
+    },
+    {
+      "project": "48-28G",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/48-28G.mp4",
+      "sha256": "8443873f343fe878963b45bee141bd905694205495ed16efc684d642ed1544d6",
+      "bytes": 305425
+    },
+    {
+      "project": "48-29PB",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/48-29PB.mp4",
+      "sha256": "f7b089888cb5106caf726b62ef23db9b51ee2889be07c3039acd622275f1a5fc",
+      "bytes": 375387
+    },
+    {
+      "project": "48-29PDGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/48-29PDGL.mp4",
+      "sha256": "b5809f011c2e0fadcd27befbc5428b74b1c362601fda3afe05c5b89ae5760d46",
+      "bytes": 399807
+    },
+    {
+      "project": "48-29Z",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/48-29Z.mp4",
+      "sha256": "ad6817ec9040b72b7a690437377dad51f83d5904e12a1524c7522ec6342dec3b",
+      "bytes": 321855
+    },
+    {
+      "project": "48-44L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/48-44L.mp4",
+      "sha256": "85f585e1f52397efe395c4d2fcd50e23a05d36428309f3ff596e56013e7f7b1c",
+      "bytes": 318395
+    },
+    {
+      "project": "48-58L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/48-58L.mp4",
+      "sha256": "1404248c18a320cb88d80fec2a2f24bfedc14684d59c33876ade4202f1011f13",
+      "bytes": 354262
+    },
+    {
+      "project": "48-63L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/48-63L.mp4",
+      "sha256": "a02c5643fe1836a50a54f70966f94c59081d43b103017a43c5a9c6cd62391eac",
+      "bytes": 337907
+    },
+    {
+      "project": "48-74L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/48-74L.mp4",
+      "sha256": "7ac3789a18d9a4e8172ea72885d2cd3043a183e0c538adeb2cdb2c502f4dd634",
+      "bytes": 348039
+    },
+    {
+      "project": "49-08",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/49-08.mp4",
+      "sha256": "91d97079bf770f7ad27e8dfea80a86661144435a8e501eb88e94756a957f52d4",
+      "bytes": 336712
+    },
+    {
+      "project": "49-68",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/49-68.mp4",
+      "sha256": "5e1b37c7622901aace142f155613de7089f1134404198119b7a5e629be763a9e",
+      "bytes": 410236
+    },
+    {
+      "project": "49-87",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/49-87.mp4",
+      "sha256": "988103d0d45da831db27007c930596336b6e7c6d9a29925365a0f28abe063155",
+      "bytes": 492553
+    },
+    {
+      "project": "49-95",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/49-95.mp4",
+      "sha256": "1e79b28b56a6a0595e98448bc09d093bd24f93a72068010f89bbb396e3f88a70",
+      "bytes": 349341
+    },
+    {
+      "project": "49-98",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/49-98.mp4",
+      "sha256": "20e059db9409b74ed73fe1b01e539fb2a00c475f815ccaad99b7c366b167f80b",
+      "bytes": 324807
+    },
+    {
+      "project": "50-01",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/50-01.mp4",
+      "sha256": "c00b39a47ed6d682df565a552f63a1bf72a808b12207daee4e2d3a36ea3dd000",
+      "bytes": 358353
+    },
+    {
+      "project": "50-02",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/50-02.mp4",
+      "sha256": "faea4aec7738fc6af9bc33f99344fc63d46b4e61026d61f0991ffa9287aa5aed",
+      "bytes": 347565
+    },
+    {
+      "project": "50-70",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/50-70.mp4",
+      "sha256": "814a2469306d97fa275039cbbdfd4c32d61bc41a89342fe28cf488c9c36dbc5f",
+      "bytes": 382061
+    },
+    {
+      "project": "50-87",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/50-87.mp4",
+      "sha256": "13fa187130ecb4c27f4740ff7188a81f2915ee226ab3c6b9da6e15fd5c43a9e1",
+      "bytes": 415587
+    },
+    {
+      "project": "51-04",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/51-04.mp4",
+      "sha256": "26e2824a188fa5e377f682bbfab1de2ff3e1c7fab9dcbba4aa9d44e19189d255",
+      "bytes": 380680
+    },
+    {
+      "project": "52-44",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/52-44.mp4",
+      "sha256": "cee096b5b4a410f5099f0fc5b74c117b6c3b11aa4d10e0b204282142549e092a",
+      "bytes": 361298
+    },
+    {
+      "project": "53-95",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/53-95.mp4",
+      "sha256": "0b1495899af722d6ceaeaef3fa94bb36dc67aa5d31d8eda016cd2e384cc83497",
+      "bytes": 344708
+    },
+    {
+      "project": "55-19",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/55-19.mp4",
+      "sha256": "176ad6814e0957bc056625fb28d88dd757fe4adf4ced0edc6e215c1664fe3fed",
+      "bytes": 361966
+    },
+    {
+      "project": "56-95",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/56-95.mp4",
+      "sha256": "ebc5bbf3e9580a0564ae6a990cddb8f20175701f81110c91c0d3dd5207cbd35d",
+      "bytes": 352814
+    },
+    {
+      "project": "57-00A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-00A.mp4",
+      "sha256": "b5fc2f7a3ac87c7dfead72a078af8ff2e1c6ae29691a3e55fe502298af7f4c83",
+      "bytes": 316320
+    },
+    {
+      "project": "57-00B",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-00B.mp4",
+      "sha256": "6b608814a7cb5bccbe784e8981553f0c78fd7386d9058ff801cba1097f697ea4",
+      "bytes": 338143
+    },
+    {
+      "project": "57-00DG",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-00DG.mp4",
+      "sha256": "e7f3534a2eb3ba76fefd44d2b82cf9452d2afd38ffd37c567f236fca8f3cfc06",
+      "bytes": 330703
+    },
+    {
+      "project": "57-00E",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-00E.mp4",
+      "sha256": "41f84d6573b0ec4eb45ec605695b9483505579bba28ffb0f8d409461b44a1cf5",
+      "bytes": 324600
+    },
+    {
+      "project": "57-00FK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-00FK1L.mp4",
+      "sha256": "640479354d3bf530304b1e579e9a5fe89c84b5cc9eb69fbcfa0d2676277969c2",
+      "bytes": 335883
+    },
+    {
+      "project": "57-00U",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-00U.mp4",
+      "sha256": "5bc1d416ba1856d4ee65cac653ee040d8c2a9e593e0415497da2ce948cf880e2",
+      "bytes": 354668
+    },
+    {
+      "project": "57-05K",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-05K.mp4",
+      "sha256": "8d9a093a79438f9877c01414f9ae994e7fdbd46dfb50fc946fac47f28fbb202d",
+      "bytes": 322988
+    },
+    {
+      "project": "57-07HKB",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-07HKB.mp4",
+      "sha256": "503d105110853d1d1bf75311e78ed8c9530a1c475f5b5ccf4d3bad1c42af9965",
+      "bytes": 350164
+    },
+    {
+      "project": "57-10ABCABK",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-10ABCABK.mp4",
+      "sha256": "f92871060ed1af1275c28f1243d061490f0fad1b2910dbe5f20501ca1f7b1244",
+      "bytes": 312438
+    },
+    {
+      "project": "57-23BXM",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-23BXM.mp4",
+      "sha256": "b867705cd9436258297c4aaa021dafbbb8caeac7c193f327dd0b48f316e3c21d",
+      "bytes": 317838
+    },
+    {
+      "project": "57-26AK",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-26AK.mp4",
+      "sha256": "6f9f00ab04ce85b83906b59fe9e6d94f69b2387736f58449cbd26a12fa66bbe9",
+      "bytes": 305972
+    },
+    {
+      "project": "57-26NA",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-26NA.mp4",
+      "sha256": "7d49eb6071267cc9c6106b4db914b39e557419567cbd8f690e45396d2fee940d",
+      "bytes": 321156
+    },
+    {
+      "project": "57-29A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-29A.mp4",
+      "sha256": "b5fdadbc62b59210bf76389751105647ba3bbfd6ed4c5468f947c7fe1502d2e3",
+      "bytes": 335778
+    },
+    {
+      "project": "57-29BKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-29BKL.mp4",
+      "sha256": "f24ec088ec0573bb0e3b129beb916bcd0f3fe9e0ac4a4a60975e7ea7ab92ac0a",
+      "bytes": 350570
+    },
+    {
+      "project": "57-30CBK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-30CBK1L.mp4",
+      "sha256": "1d3c2134c2e4f304e2db09e6a49d13e5e6ea9213db338a51700437a286e8c092",
+      "bytes": 346038
+    },
+    {
+      "project": "57-39HAML",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-39HAML.mp4",
+      "sha256": "7e26d95adfd982bacd8604bce5cbb618337e3a92e7b3b1879e9c3e9110704e44",
+      "bytes": 323097
+    },
+    {
+      "project": "57-46BL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-46BL.mp4",
+      "sha256": "6e9539eb6254e0e3b216b7e0bb9818b25951ca43976b22e9e0496490085d6cb1",
+      "bytes": 343429
+    },
+    {
+      "project": "57-47K",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-47K.mp4",
+      "sha256": "10d3fa0e85869b8d645dd26ed0a88aadd9b4f68b5fcb7338879076ee2951730e",
+      "bytes": 359668
+    },
+    {
+      "project": "57-51BKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-51BKL.mp4",
+      "sha256": "3fbffc25d0ba86c104692dd9b02ee44fd3db3c102d4a663db7d18e86b674d284",
+      "bytes": 330597
+    },
+    {
+      "project": "57-52",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-52.mp4",
+      "sha256": "56d1e242e02a4e8baae3a8f371447a5de97567e4a3e71bb7b744d9a759bd59fa",
+      "bytes": 312589
+    },
+    {
+      "project": "57-52B",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-52B.mp4",
+      "sha256": "e87816b00e2b998e4f6be96f461e0c32dab081b7b8b7efb7c995ec60b9e6afe2",
+      "bytes": 329600
+    },
+    {
+      "project": "57-54A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-54A.mp4",
+      "sha256": "2ffff7247b29be3397743796ad8d0c8a94be53831bbefe95216dbff5df237b07",
+      "bytes": 343016
+    },
+    {
+      "project": "57-54BE",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-54BE.mp4",
+      "sha256": "de857accfa7acdef4254b43576c69955e9c0ece15f71a898d8c67da5a174ff54",
+      "bytes": 280790
+    },
+    {
+      "project": "57-60AK",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-60AK.mp4",
+      "sha256": "d9533356d10946f0568ca309e788e7f59dda1e53beedcbbf8b42d6dc366b448d",
+      "bytes": 307979
+    },
+    {
+      "project": "57-60K",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-60K.mp4",
+      "sha256": "5fde4328c7740883e1d4b36f23ce720c62bd62651e71b42035aa6f6b18dd0450",
+      "bytes": 308368
+    },
+    {
+      "project": "57-62P",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-62P.mp4",
+      "sha256": "9c38a695f3b620bded50d0ac5e31288bc115d022df66262ecc6e55a5dad1733b",
+      "bytes": 351360
+    },
+    {
+      "project": "57-62YAKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-62YAKL.mp4",
+      "sha256": "7084166f6ac2314a4d4d682fbb73607298ce59cbac06ff6e97f7f4798092fb44",
+      "bytes": 334982
+    },
+    {
+      "project": "57-62ZGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-62ZGL.mp4",
+      "sha256": "60eb288da3eac2b0fbcc9dd44055e528ea9578958522822c945caa7ce6e80111",
+      "bytes": 330456
+    },
+    {
+      "project": "57-63FT",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-63FT.mp4",
+      "sha256": "9889c52e5697045e575aad79e4f4c0097323c5c7fbb184d217dd41d91a78172e",
+      "bytes": 299237
+    },
+    {
+      "project": "57-82H",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-82H.mp4",
+      "sha256": "363fa7df21b8ca19d65e1f77271e14392abe10b309c1a88905b76209b8696cf6",
+      "bytes": 330011
+    },
+    {
+      "project": "57-84AB",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-84AB.mp4",
+      "sha256": "6a0e5703ed08f936b91758322360689ba454ce57919183f98cdb6bd9ebb4fbc8",
+      "bytes": 263776
+    },
+    {
+      "project": "57-84K1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-84K1L.mp4",
+      "sha256": "153bbbad522f487b3879067745893486eac56882d5bb5592fd40e4a5908595fd",
+      "bytes": 348192
+    },
+    {
+      "project": "57-89K",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-89K.mp4",
+      "sha256": "3e064f022f696e7de132fbd716e73ca877e3724245e137e6df483e0d0ce9b26b",
+      "bytes": 341341
+    },
+    {
+      "project": "57-91A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-91A.mp4",
+      "sha256": "49e10be967c06fa6687d98c5233326d2b28190067cfcfd62d1f72bc681b581ad",
+      "bytes": 319814
+    },
+    {
+      "project": "57-91DKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-91DKL.mp4",
+      "sha256": "396d5bb7bd57bcfc482fc6ecbf4abccc8c24998dfaffbe95c1aadccd1d3bf350",
+      "bytes": 333796
+    },
+    {
+      "project": "57-91ML",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-91ML.mp4",
+      "sha256": "32ac31b7da42b203b4c668f93346d36146f147d17c2493aab8075e8bb696cf7b",
+      "bytes": 288126
+    },
+    {
+      "project": "57-92",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-92.mp4",
+      "sha256": "a2bf419175f74cddd3991a48aec1c3f1c676c532007e122337fc6cede51b62cc",
+      "bytes": 330418
+    },
+    {
+      "project": "57-93K",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/57-93K.mp4",
+      "sha256": "baa1655a8ed7915b924951647be417af4676bc4db15bb608cd393197e960d2cb",
+      "bytes": 343368
+    },
+    {
+      "project": "58-01K",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-01K.mp4",
+      "sha256": "29e37aa8f3772768672003e8d609afc5fc3aebd9ae847785d2446b8a8ead2cfb",
+      "bytes": 337167
+    },
+    {
+      "project": "58-09AB",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-09AB.mp4",
+      "sha256": "a775fd616457db6469cbd5ded96c842623a36e68669b3a5957003f43e7717528",
+      "bytes": 326898
+    },
+    {
+      "project": "58-10HBL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-10HBL.mp4",
+      "sha256": "3958ded4b223f87c56401b6e8f198710d23fceae84cbf1e246c3093a0c876f1c",
+      "bytes": 300664
+    },
+    {
+      "project": "58-20KL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-20KL.mp4",
+      "sha256": "b2164bcedcf8059405c1bfaa1dcb0eb2070235931649460821db7970e84bc871",
+      "bytes": 328035
+    },
+    {
+      "project": "58-21B",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-21B.mp4",
+      "sha256": "107d75aeb9a6821d47f8146b28848c384c02e796e562ef3596e7f86cb73a9023",
+      "bytes": 322616
+    },
+    {
+      "project": "58-21DL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-21DL.mp4",
+      "sha256": "0d52de3803ca1af9f36d13048481da33fea4082cc84c3de697a21db882975947",
+      "bytes": 329370
+    },
+    {
+      "project": "58-26KDL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-26KDL.mp4",
+      "sha256": "a8611fbb2a24485452f4a6bdd688f6fa48a2f37c60ac9201552a53edb1433f6b",
+      "bytes": 316780
+    },
+    {
+      "project": "58-28DKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-28DKL.mp4",
+      "sha256": "45e659c8cc1d21ed5882c6166bb2e02e085e090d5040b5ad29e4cdabf34d70ee",
+      "bytes": 285600
+    },
+    {
+      "project": "58-52AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-52AL.mp4",
+      "sha256": "e79cfdcaabd90b55a418ef75f1c551b7360ef301c22868d9db8bd43361d5d08b",
+      "bytes": 327414
+    },
+    {
+      "project": "58-62",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-62.mp4",
+      "sha256": "e6e52d8cc40288c7648d880f5e29801bc0b2fc1bff28b03241f32eac10a05a04",
+      "bytes": 329675
+    },
+    {
+      "project": "58-63",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-63.mp4",
+      "sha256": "c57515080e3ca45983a1032dc96db435759c892423f4d9eaeb18a8d2a965fdb3",
+      "bytes": 323390
+    },
+    {
+      "project": "58-70AEL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-70AEL.mp4",
+      "sha256": "1827e9c9d2122c98a328f9f20528eaffdb989d9b2955d4288970035c007fec0b",
+      "bytes": 324380
+    },
+    {
+      "project": "58-70HEL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-70HEL.mp4",
+      "sha256": "170c8e7df0c3dde447b77684276f75b74a834933a59910d007918f0df10496d2",
+      "bytes": 317077
+    },
+    {
+      "project": "58-70SL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-70SL.mp4",
+      "sha256": "7dbbbc81c3ff992fafa56e6063994fe8f5c86a4b9c60ade8724f7d6f88c5b83e",
+      "bytes": 328336
+    },
+    {
+      "project": "58-70T",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-70T.mp4",
+      "sha256": "0025cbaeba4e79e80b5cfa42a7ca938d75015da243e775b7c1676e418b421d74",
+      "bytes": 336526
+    },
+    {
+      "project": "58-76",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-76.mp4",
+      "sha256": "612afa6e1ba50c275993165c237adcf039713960bf39554777280a9cf9358ef8",
+      "bytes": 336844
+    },
+    {
+      "project": "58-81",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-81.mp4",
+      "sha256": "9194401c195d36145b27a148451f0003aeb96f50d18f419fff5533a26c7764e8",
+      "bytes": 341434
+    },
+    {
+      "project": "58-84A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-84A.mp4",
+      "sha256": "32d4d79c6155fb09a660085a6856929316a0ccec0be5dc08626aa575c2ba9e32",
+      "bytes": 343009
+    },
+    {
+      "project": "58-92BAW",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-92BAW.mp4",
+      "sha256": "9ec5c92495dc5c38540efcdaa28338a43c1ffde26c1284d4c455aeb6b647e552",
+      "bytes": 284065
+    },
+    {
+      "project": "58-97",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-97.mp4",
+      "sha256": "6d957601bd02e7084e8f554365eab07f0edea527c81a0d9e3992b5c627b0e8b7",
+      "bytes": 395866
+    },
+    {
+      "project": "58-97L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/58-97L.mp4",
+      "sha256": "b79827bb8caadc7b9a0f26c64f4a0f8e2276e09cdac36d5e4de76a41c50874f9",
+      "bytes": 359773
+    },
+    {
+      "project": "59-24P",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/59-24P.mp4",
+      "sha256": "06b0e1c56a2ec4a69816267f2a914f5357d65bd978e9bfb38250a7603c0962b4",
+      "bytes": 296593
+    },
+    {
+      "project": "59-33A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/59-33A.mp4",
+      "sha256": "8ce9f7559ca47ccf5c416ba111dda8cd15e140a6b3f770f475f3abd2d17752de",
+      "bytes": 334408
+    },
+    {
+      "project": "59-74",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/59-74.mp4",
+      "sha256": "92595b0854c384901edbd9f0157f8fb0b49df815eff51fa1cde7f0a81eec9637",
+      "bytes": 387743
+    },
+    {
+      "project": "59-87K",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/59-87K.mp4",
+      "sha256": "692a2808ff28546ad6eb3b17d465c1ad1966de8945e652542f63853b003e1e5e",
+      "bytes": 410120
+    },
+    {
+      "project": "59-92DAFL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/59-92DAFL.mp4",
+      "sha256": "c23983dc4bb1805e82c454e000007c54e3a09f539eed02c9d404c1f2c5e2f455",
+      "bytes": 312696
+    },
+    {
+      "project": "59-92TAL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/59-92TAL.mp4",
+      "sha256": "f5fd52496f023f4e996ba6ab96ae7f1074cdfd5da73e2354573348d138493178",
+      "bytes": 338689
+    },
+    {
+      "project": "59-93AEG",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/59-93AEG.mp4",
+      "sha256": "8a4ecf9a8f37e5eeb3a38294e60c13a1d6ddbb7d2bda50ec7df77056a611df70",
+      "bytes": 299764
+    },
+    {
+      "project": "59-93HL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/59-93HL.mp4",
+      "sha256": "f6f4bfad7377f06da1a2755009f0cbc63c2079b0e6aff8514f9bfbd0864f2027",
+      "bytes": 314090
+    },
+    {
+      "project": "59-95EL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/59-95EL.mp4",
+      "sha256": "dd5c0177cda7a7fef56200726c121bf5bc9ec478be2898805aa6831eb897f5b4",
+      "bytes": 410241
+    },
+    {
+      "project": "59-97L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/59-97L.mp4",
+      "sha256": "ff535de15429b7254b6597dac7794116622914720f679d52135948c938fdf872",
+      "bytes": 322359
+    },
+    {
+      "project": "59-98EL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/59-98EL.mp4",
+      "sha256": "8dc06893b6ec9cec0b1becb6edbf66360be8b451e9401cf40586018b7acaf55f",
+      "bytes": 337079
+    },
+    {
+      "project": "60-38",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/60-38.mp4",
+      "sha256": "45c5be790b3375d4ed0adf17aedd8bc02e186404721cf5a09886bc449c7a24cd",
+      "bytes": 354955
+    },
+    {
+      "project": "60-85",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/60-85.mp4",
+      "sha256": "da51083addf29e6f0ae93c9f6a590a829143b1b0ecb989e3c3235f3ea4265cca",
+      "bytes": 361885
+    },
+    {
+      "project": "61-12A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/61-12A.mp4",
+      "sha256": "8ef3068b672de4832c00ba244a22f9605893a042cab4279cedd69f3a7517072a",
+      "bytes": 337928
+    },
+    {
+      "project": "62-11",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/62-11.mp4",
+      "sha256": "c529f949e4dd8538ec8f8b65d9c0f484feb68ae331712525edaaf02bd44f7e68",
+      "bytes": 325159
+    },
+    {
+      "project": "62-15M",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/62-15M.mp4",
+      "sha256": "b5d13c516360db0212038cf1f392598ee49753c0095b02a3a59ec31682b1360a",
+      "bytes": 353368
+    },
+    {
+      "project": "62-30DL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/62-30DL.mp4",
+      "sha256": "409dec2c2e5806e5bb0d306c4cda2d390d6fe9ee0cbddc8736dbec9fb8db8d60",
+      "bytes": 336481
+    },
+    {
+      "project": "62-41L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/62-41L.mp4",
+      "sha256": "e505a1ddf7709a16fe20101bde9963ca07baaf3758433f0c8e3f6b0226d2c157",
+      "bytes": 349643
+    },
+    {
+      "project": "62-64A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/62-64A.mp4",
+      "sha256": "5aba6f917f28c6c9f2f61d39452f3df895c14acb2376f71be9095a766c772a8e",
+      "bytes": 317607
+    },
+    {
+      "project": "62-65ABL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/62-65ABL.mp4",
+      "sha256": "f5a8d81d4cfed2426feea86699bba1ec614404fdfd6189a6d71e1942cfa9d936",
+      "bytes": 330136
+    },
+    {
+      "project": "62-73L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/62-73L.mp4",
+      "sha256": "60267bb0ec4f168a833fce4501f866633c30de6c2e679669487662423c0305a8",
+      "bytes": 311080
+    },
+    {
+      "project": "62-78FBK1",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/62-78FBK1.mp4",
+      "sha256": "bbe5e2b08b9ceaf9f9e2286bf87ed10d0dde3be3db1b716a085a9d409814e161",
+      "bytes": 347712
+    },
+    {
+      "project": "62-83AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/62-83AL.mp4",
+      "sha256": "9e94fd641370e95f0e1834ad3792820fac9ef193a2f9d1fb3f62b696d5a578fe",
+      "bytes": 282973
+    },
+    {
+      "project": "63-18L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/63-18L.mp4",
+      "sha256": "79bec894d1f2f29e093527e8c385ac22dc3fa37b0d233bda455898512f7261ca",
+      "bytes": 327579
+    },
+    {
+      "project": "63-67L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/63-67L.mp4",
+      "sha256": "acca06bf59d0a1d8e3e355613fe6bb06ef866a3f1db19dc6171a1ea25d69834b",
+      "bytes": 342527
+    },
+    {
+      "project": "63-71",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/63-71.mp4",
+      "sha256": "96a0d485776a25263d42d4d7ad7139cc8d0e8eb3c40f0c193b617ddb42d5a411",
+      "bytes": 317343
+    },
+    {
+      "project": "64-12M",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/64-12M.mp4",
+      "sha256": "f410db81b4ff12ba1d23976ef125d79ccdfb406a55fb35511ba445ae3160d1b9",
+      "bytes": 303645
+    },
+    {
+      "project": "64-34L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/64-34L.mp4",
+      "sha256": "2eb7c3e9b85eddf5f78f48c4c9877a7aa5e77a4f378e13ac3110a1d2693f527d",
+      "bytes": 352132
+    },
+    {
+      "project": "64-48",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/64-48.mp4",
+      "sha256": "afc06572024b8ae42fca08d73327e06d5eedc0013c0628dec943b4247e8568d6",
+      "bytes": 304994
+    },
+    {
+      "project": "64-50",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/64-50.mp4",
+      "sha256": "4284e4ce2cc1df1f8cc342b61785d32c060f95c47d063cee26be793a871f9d73",
+      "bytes": 335327
+    },
+    {
+      "project": "64-54L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/64-54L.mp4",
+      "sha256": "625e4dd5fb0c2b3c17a7a00b0ea0517d0c458d2284d32afbca700a7759b947e0",
+      "bytes": 324369
+    },
+    {
+      "project": "64-75G3",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/64-75G3.mp4",
+      "sha256": "a76e178249b0837655b93943256859f819ae9ae697ce5144bacca88f97180904",
+      "bytes": 340515
+    },
+    {
+      "project": "64-85A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/64-85A.mp4",
+      "sha256": "101be18504066af753a56f8ff207808e13990c655b8344d3fdbf7144a0e388bc",
+      "bytes": 267280
+    },
+    {
+      "project": "64-89",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/64-89.mp4",
+      "sha256": "662643d5c3d7578a230131090028079eeb47c0344ef09d4c6532da9df689dcbd",
+      "bytes": 317476
+    },
+    {
+      "project": "65-05",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/65-05.mp4",
+      "sha256": "d908bc308ec35dc3cb28bb633a3b075ec475b38dee7e060762b9c25c5ad61715",
+      "bytes": 280573
+    },
+    {
+      "project": "65-34AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/65-34AL.mp4",
+      "sha256": "49c0c1c258cac6a5dfd87c738549eb351d4541d70e009301d3c727e8c42f41d4",
+      "bytes": 297528
+    },
+    {
+      "project": "65-97",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/65-97.mp4",
+      "sha256": "f3ccdb8b0a2536e6e763af645ea947b7073306ab097ba0287646c9f9b6e55e47",
+      "bytes": 312460
+    },
+    {
+      "project": "66-10",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/66-10.mp4",
+      "sha256": "6107b48517d2c3c85de05409fe01b947db6e0adf3cd12e47040f585ed6609f4f",
+      "bytes": 250975
+    },
+    {
+      "project": "66-23",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/66-23.mp4",
+      "sha256": "050e6b08e85a698aa33c9b3510b356050230c368031df3ab09e100fda0f831d4",
+      "bytes": 299398
+    },
+    {
+      "project": "68-24",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/68-24.mp4",
+      "sha256": "ecf9f0ab197fec8318a0fd062f6b431c793299fa9494fad53dcb2da320bcab60",
+      "bytes": 263506
+    },
+    {
+      "project": "68-36",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/68-36.mp4",
+      "sha256": "fadf5fc02a6400ff5dca73130bf4370814a3d1d73952f077a7030fc25e53f62b",
+      "bytes": 274306
+    },
+    {
+      "project": "68-66",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/68-66.mp4",
+      "sha256": "e0230ad6e6e266b0f8f02add070e72b92fdd7e65d98c0442e49ff496a0523257",
+      "bytes": 321201
+    },
+    {
+      "project": "68-82",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/68-82.mp4",
+      "sha256": "d8715191997bbc62f199a1fe6e4afa33db7011af292765123c249ee74d5bbc30",
+      "bytes": 349266
+    },
+    {
+      "project": "69-11",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/69-11.mp4",
+      "sha256": "f863976592ed62bb8c11f9143e46d86875f93664ec9faa6947611cbcb21d70e2",
+      "bytes": 310725
+    },
+    {
+      "project": "70-53",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/70-53.mp4",
+      "sha256": "43b886e579412fd9b227fc4ac6bed472a48d6e8abea266c9cdaf8b8696ad8c90",
+      "bytes": 365654
+    },
+    {
+      "project": "70-86",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/70-86.mp4",
+      "sha256": "f3c3f961a734fcf3d7917ecfd11cbd80ffcea68adde1391c97dd02bbf144cacc",
+      "bytes": 327859
+    },
+    {
+      "project": "70-90A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/70-90A.mp4",
+      "sha256": "79277c9de209165c74e54d9527cab9ac6b5f8c9160aea85a0fd578dca9e94fe3",
+      "bytes": 329777
+    },
+    {
+      "project": "71-08A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/71-08A.mp4",
+      "sha256": "c3d8328b5ebf0db896c6ab18f8d60d95b2f200aaf2eba8ec98e197dcb2cedcd1",
+      "bytes": 345771
+    },
+    {
+      "project": "71-23",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/71-23.mp4",
+      "sha256": "d1be060ca3cfc0e27b90db6f81619be2ed819a44e2c2232ed6a5f544539c3312",
+      "bytes": 350412
+    },
+    {
+      "project": "90-33",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/90-33.mp4",
+      "sha256": "7b26d446557b412d9674a32321ad67f55dcfc8e2acef1f120756b66c6cfdb0d5",
+      "bytes": 326429
+    },
+    {
+      "project": "90-37",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/90-37.mp4",
+      "sha256": "5e175e42ce272f4a49f033bf4d3c734702d5397d88632e848ed9b3b650d8d213",
+      "bytes": 280427
+    },
+    {
+      "project": "91-58L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/91-58L.mp4",
+      "sha256": "5a14cb0aa17b16aef6955f634d027ec86aaaf1760141703520ccba444dc627ce",
+      "bytes": 317394
+    },
+    {
+      "project": "92-30L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/2298cc172072299e003172d95626410050ee72b2/pinterest/generated_batch_42_blueprint_grid_video/92-30L.mp4",
+      "sha256": "e004f89132aeaf1e7a88751179d5d51a5f300a07ae6a96c90d04f7042acc47f3",
+      "bytes": 317000
+    }
+  ]
+}

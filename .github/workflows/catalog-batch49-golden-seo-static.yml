@@ -1,0 +1,15 @@
+name: Catalog Plans batch 49 Golden SEO static cards
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow requests beautifulsoup4
+      - run: python pinterest/batch49_golden_seo_static.py

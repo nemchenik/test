@@ -1,0 +1,13 @@
+name: Catalog batch 56 visual plans premium static cards
+on: {workflow_dispatch: {}}
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: catalog-plans-pinterest-cards}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install pillow requests beautifulsoup4
+      - run: python pinterest/batch56_visual_plans_premium_static.py
+        env: {ASSET_BRANCH: catalog-plans-pinterest-assets}
