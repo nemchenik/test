@@ -16,7 +16,7 @@ import time
 import urllib.parse
 
 import requests
-from PIL import Image, ImageChops, ImageDraw, ImageFont, ImageOps
+from PIL import Image, ImageChops, ImageDraw, ImageFile, ImageFont, ImageOps
 
 
 HERE = Path(__file__).resolve().parent
@@ -108,10 +108,35 @@ def contain_plan(image: Image.Image, size: tuple[int, int], background: str = "#
     return result
 
 
+def contain_original(image: Image.Image, size: tuple[int, int], background: str = "#FFFFFF") -> Image.Image:
+    source = ImageOps.exif_transpose(image).convert("RGB")
+    source.thumbnail(size, Image.Resampling.LANCZOS)
+    result = Image.new("RGB", size, background)
+    result.paste(source, ((size[0] - source.width) // 2, (size[1] - source.height) // 2))
+    return result
+
+
 def fetch_house(url: str) -> Image.Image:
-    response = requests.get(url, timeout=40, headers={"User-Agent": "Mozilla/5.0 PinterestPlanCardBot/1.0"})
-    response.raise_for_status()
-    return ImageOps.exif_transpose(Image.open(io.BytesIO(response.content))).convert("RGB")
+    last_response = None
+    for _attempt in range(4):
+        try:
+            response = requests.get(url, timeout=40, headers={"User-Agent": "Mozilla/5.0 PinterestPlanCardBot/1.0"})
+            response.raise_for_status()
+            last_response = response
+            with Image.open(io.BytesIO(response.content)) as source:
+                source.load()
+                return ImageOps.exif_transpose(source).convert("RGB")
+        except (OSError, requests.RequestException):
+            continue
+    if last_response is None:
+        raise RuntimeError(f"Не удалось скачать визуализацию: {url}")
+    ImageFile.LOAD_TRUNCATED_IMAGES = True
+    try:
+        with Image.open(io.BytesIO(last_response.content)) as source:
+            source.load()
+            return ImageOps.exif_transpose(source).convert("RGB")
+    finally:
+        ImageFile.LOAD_TRUNCATED_IMAGES = False
 
 
 def plan_images(work_dir: Path, project: str) -> list[Image.Image]:
@@ -502,6 +527,18 @@ def render_plans_minimal(record, _house: Image.Image | None, plans: list[Image.I
     return canvas
 
 
+def render_raw_visual_plans(record, house: Image.Image, plans: list[Image.Image], floor_text) -> Image.Image:
+    """Plain source-image composition: visualization above, original plans below."""
+    canvas = Image.new("RGB", (1000, 1500), "#FFFFFF")
+    canvas.paste(contain_original(house, (1000, 850)), (0, 0))
+    if len(plans) > 1:
+        canvas.paste(contain_original(plans[0], (500, 650)), (0, 850))
+        canvas.paste(contain_original(plans[1], (500, 650)), (500, 850))
+    else:
+        canvas.paste(contain_original(plans[0], (1000, 650)), (0, 850))
+    return canvas
+
+
 RENDERERS = {
     "editorial": render_editorial,
     "blueprint": render_blueprint,
@@ -513,10 +550,17 @@ RENDERERS = {
     "plans_sunset": render_plans_sunset,
     "plans_forest": render_plans_forest,
     "plans_minimal": render_plans_minimal,
+    "raw_visual_plans": render_raw_visual_plans,
 }
 
 
-def run_batch(*, batch: int, slug: str, style: str, start_pin: int, board: str = "Проекты частных домов") -> None:
+def run_batch(
+    *, batch: int, slug: str, style: str, start_pin: int,
+    board: str = "Проекты частных домов", exclude_published: bool = True,
+    shared_excluded: set[str] | None = None, record_filter=None,
+    title_builder=None, description_builder=None, keywords_builder=None,
+    candidate_ids: list[str] | None = None,
+) -> None:
     base = runpy.run_path(str(HERE / "batch53_organic_editorial_static.py"))
     runtime = base["runtime"]
     out_dir = HERE / f"batch{batch}_{slug}_output"
@@ -560,6 +604,8 @@ def run_batch(*, batch: int, slug: str, style: str, start_pin: int, board: str =
                 rows = list(csv.DictReader(handle))
             ids = [Path(urllib.parse.urlsplit(row["Media URL"]).path).stem for row in rows]
             if len(ids) == 200 and len(set(ids)) == 200:
+                if shared_excluded is not None:
+                    shared_excluded.update(ids)
                 print(f"using 200 stable project IDs from batch {batch} CSV", flush=True)
                 return ids
         recovered = sorted(
@@ -567,9 +613,13 @@ def run_batch(*, batch: int, slug: str, style: str, start_pin: int, board: str =
             if path.is_dir() and any(path.glob("plan_*")) and runtime["PROJECT_RE"].fullmatch(path.name)
         )
         if len(recovered) == 200:
+            if shared_excluded is not None:
+                shared_excluded.update(recovered)
             print(f"using 200 recovered project IDs from batch {batch} media", flush=True)
             return recovered
-        excluded = published_project_ids()
+        excluded = published_project_ids() if exclude_published else set()
+        if shared_excluded is not None:
+            excluded.update(shared_excluded)
         def read_catalog_page(page: int):
             response = None
             for attempt in range(1, 7):
@@ -605,7 +655,7 @@ def run_batch(*, batch: int, slug: str, style: str, start_pin: int, board: str =
             house_projects = [line.strip() for line in cache_path.read_text(encoding="utf-8").splitlines() if line.strip()]
         else:
             pages = {}
-            with ThreadPoolExecutor(max_workers=6) as executor:
+            with ThreadPoolExecutor(max_workers=3) as executor:
                 futures = [executor.submit(read_catalog_page, page) for page in range(1, 251)]
                 for future in as_completed(futures):
                     page, values = future.result()
@@ -621,6 +671,14 @@ def run_batch(*, batch: int, slug: str, style: str, start_pin: int, board: str =
                 raise RuntimeError(f"Фильтр жилых домов вернул только {len(house_projects)} проектов")
             cache_path.write_text("\n".join(house_projects) + "\n", encoding="utf-8")
         random.Random(f"original-plans-{batch}").shuffle(house_projects)
+        if candidate_ids:
+            preferred = []
+            preferred_seen = set()
+            for project in candidate_ids:
+                if runtime["PROJECT_RE"].fullmatch(project) and project not in preferred_seen:
+                    preferred_seen.add(project)
+                    preferred.append(project)
+            house_projects = preferred + [project for project in house_projects if project not in preferred_seen]
         print(f"residential catalog projects found: {len(house_projects)}", flush=True)
 
         candidates = []
@@ -634,7 +692,7 @@ def run_batch(*, batch: int, slug: str, style: str, start_pin: int, board: str =
         for offset in range(0, len(candidates), 64):
             chunk = candidates[offset:offset + 64]
             results = {}
-            with ThreadPoolExecutor(max_workers=6) as executor:
+            with ThreadPoolExecutor(max_workers=3) as executor:
                 futures = {executor.submit(runtime["process_project"], project): project for project in chunk}
                 for future in as_completed(futures):
                     project = futures[future]
@@ -646,8 +704,12 @@ def run_batch(*, batch: int, slug: str, style: str, start_pin: int, board: str =
                 record = results.get(project)
                 if record is not None:
                     cache[project] = record
+                    if record_filter is not None and not record_filter(record):
+                        continue
                     selected.append(project)
                     if len(selected) == 200:
+                        if shared_excluded is not None:
+                            shared_excluded.update(selected)
                         print(f"selected 200 new projects; excluded {len(excluded)} published IDs", flush=True)
                         return selected
             print(f"eligible projects selected {len(selected)}/200", flush=True)
@@ -661,11 +723,15 @@ def run_batch(*, batch: int, slug: str, style: str, start_pin: int, board: str =
         if record is None:
             raise RuntimeError(f"metadata not found for {project}")
         record = runtime["v3"].normalize_exact_metadata(record)
+        if record_filter is not None and not record_filter(record):
+            return None
         response = runtime["old"].get(record.page_url)
         response.encoding = response.apparent_encoding
         soup = runtime["BeautifulSoup"](response.text, "html.parser")
         meta = soup.select_one('meta[property="og:image"]')
-        image_url = urllib.parse.urljoin(record.page_url, meta.get("content", "")) if meta else record.image_url
+        if not meta or not meta.get("content"):
+            raise RuntimeError(f"no original visualization for {project}")
+        image_url = urllib.parse.urljoin(record.page_url, meta.get("content", ""))
         plan_urls = runtime["section_urls"](soup, ".media-tile--plan", record.page_url)
         valid_plans = []
         for url in plan_urls:
@@ -726,11 +792,24 @@ def run_batch(*, batch: int, slug: str, style: str, start_pin: int, board: str =
         rows = []
         for offset, record in enumerate(records):
             material = str(record.material).strip()
+            title = (
+                title_builder(record, runtime["floor_text"])
+                if title_builder is not None else
+                f"Проект дома №{record.project} площадью {record.area} м² с планировками"
+            )
+            description = (
+                description_builder(record, runtime["floor_text"])
+                if description_builder is not None else None
+            )
+            keywords = (
+                keywords_builder(record, runtime["floor_text"])
+                if keywords_builder is not None else None
+            )
             rows.append({
-                "Title": f"Проект дома №{record.project} площадью {record.area} м² с планировками",
+                "Title": title,
                 "Media URL": f"https://raw.githubusercontent.com/{REPO}/{asset_ref}/pinterest/{asset_folder}/{record.project}.jpg",
                 "Pinterest board": board, "Thumbnail": "",
-                "Description": (
+                "Description": description or (
                     f"Проект дома №{record.project}: площадь {record.area} м², {runtime['floor_text'](record.floors)}, "
                     f"габариты {record.dimensions} м, материал стен — {material}. На карточке показаны оригинальные "
                     "планировки этажей. Сохраните планы дома и откройте проект, чтобы узнать подробности и актуальную стоимость."
@@ -744,7 +823,7 @@ def run_batch(*, batch: int, slug: str, style: str, start_pin: int, board: str =
                     f"&utm_content=pin_{start_pin + offset}_{record.project}_plans&utm_term=proekty-domov-s-planirovkami"
                 ),
                 "Publish date": "",
-                "Keywords": (
+                "Keywords": keywords or (
                     f"проект дома {record.project}, проект дома {record.area} м², планировка дома, планы этажей, "
                     f"готовый проект дома, оригинальная планировка, {material}, catalog-plans.ru"
                     if style.startswith("plans_") else
