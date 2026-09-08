@@ -732,6 +732,15 @@ def run_batch(
         if not meta or not meta.get("content"):
             raise RuntimeError(f"no original visualization for {project}")
         image_url = urllib.parse.urljoin(record.page_url, meta.get("content", ""))
+        house_bytes = runtime["fetch_image"](image_url)
+        with Image.open(io.BytesIO(house_bytes)) as source:
+            preview = ImageOps.exif_transpose(source).convert("RGB")
+            preview.thumbnail((160, 120), Image.Resampling.LANCZOS)
+            pixels = list(preview.getdata())
+        white_ratio = sum(red > 242 and green > 242 and blue > 242 for red, green, blue in pixels) / len(pixels)
+        colorful_ratio = sum(max(red, green, blue) - min(red, green, blue) > 25 for red, green, blue in pixels) / len(pixels)
+        if white_ratio > 0.62 or (white_ratio > 0.48 and colorful_ratio < 0.08):
+            raise RuntimeError(f"main image is a facade drawing for {project}")
         plan_urls = runtime["section_urls"](soup, ".media-tile--plan", record.page_url)
         valid_plans = []
         for url in plan_urls:
