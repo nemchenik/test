@@ -1,0 +1,1208 @@
+{
+  "total": 200,
+  "verified": 200,
+  "all_public_urls_http_200": true,
+  "all_sha256_match": true,
+  "files": [
+    {
+      "project": "14-02",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/14-02.mp4",
+      "sha256": "5fd99b0f1bf326174f876fb5a636135e1acb1416636224783bbbf593766f9990",
+      "bytes": 735762
+    },
+    {
+      "project": "14-11",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/14-11.mp4",
+      "sha256": "ea943a46b8caeb7be48dcb0b8d48ec30052402a7fb825a0484fa95a66e2e00e9",
+      "bytes": 679719
+    },
+    {
+      "project": "33-15",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/33-15.mp4",
+      "sha256": "2412a149913a51c417a90ef8a95c69185e809536e5fcfc54d54fcfb360ebd86d",
+      "bytes": 814284
+    },
+    {
+      "project": "34-66",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/34-66.mp4",
+      "sha256": "c65feb9b769e0b64d987e5f976e3c83ff2cb1422001d610bf8735bf88c2d953f",
+      "bytes": 752885
+    },
+    {
+      "project": "36-24",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/36-24.mp4",
+      "sha256": "42c4c32fb20bb07fc07012cfb942fa0a2e7532aa32572aaf593a34f6badba55c",
+      "bytes": 815333
+    },
+    {
+      "project": "36-65",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/36-65.mp4",
+      "sha256": "e2361de6bfa744a2d6f225dff3ffba456e22041b237ab0f2ce0890381d38d790",
+      "bytes": 820720
+    },
+    {
+      "project": "40-05A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-05A.mp4",
+      "sha256": "a4f0c7fad814f3bf304b99871b1fdd3bc96da859063e781a8ac74085040fc870",
+      "bytes": 658201
+    },
+    {
+      "project": "40-09",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-09.mp4",
+      "sha256": "527f23e99cf3e3a21d4ab4252ba84c96b8741f5e78ea328cc8b8bab1716043ca",
+      "bytes": 798334
+    },
+    {
+      "project": "40-09AG",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-09AG.mp4",
+      "sha256": "85651d62e6656c71d3cbca3f30a289a1f3f0163ed2a31ee6ea69000d376e85a7",
+      "bytes": 747632
+    },
+    {
+      "project": "40-09L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-09L.mp4",
+      "sha256": "f99649d25cb573ac8d5f59c8efeee1fd99b705aeee213803c237203e0f021c68",
+      "bytes": 758238
+    },
+    {
+      "project": "40-10",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-10.mp4",
+      "sha256": "00d4e781257690bf5c6bc4853c419f616b39b236881b0a4e2d6940a976110353",
+      "bytes": 726812
+    },
+    {
+      "project": "40-11",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-11.mp4",
+      "sha256": "a568c6198ecba60cd049edba6ece0660ad8dfcb6a548dba2dafc6f5ed3bb4cdf",
+      "bytes": 757133
+    },
+    {
+      "project": "40-11A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-11A.mp4",
+      "sha256": "56fdbd56fc48d1d3b134e9ac4556f1efc5dc18aeea037486e356b7065c83c3e3",
+      "bytes": 716064
+    },
+    {
+      "project": "40-11AG",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-11AG.mp4",
+      "sha256": "cd0edd1bc69bb4e461594fc3c02ac4f042822a90bdb1422abc1503015628dcb6",
+      "bytes": 726870
+    },
+    {
+      "project": "40-11B",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-11B.mp4",
+      "sha256": "204bd567f85c7c4d25abb16155f1f075463bdb109bcbfd6fc0d6d62b46d60f8b",
+      "bytes": 745850
+    },
+    {
+      "project": "40-11BDK1",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-11BDK1.mp4",
+      "sha256": "2e82087d05bb00c4a48ec5862e27c3d3e2bf869cb686f85774b8631dd2b85e58",
+      "bytes": 764165
+    },
+    {
+      "project": "40-11CL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-11CL.mp4",
+      "sha256": "9963945dac1d54ab856c518bdfa5055feef42aa9413a506545246496d23c6952",
+      "bytes": 744795
+    },
+    {
+      "project": "40-11E",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-11E.mp4",
+      "sha256": "e963ab85bb269cfac5e5fe099511456bd82ebd284f23882423c0667256bb867c",
+      "bytes": 724594
+    },
+    {
+      "project": "40-11GA2L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-11GA2L.mp4",
+      "sha256": "b6fca8b1effc497153ea6f5b1b0bd7cb228daee525fbbfda35c8790f7e34e16e",
+      "bytes": 719437
+    },
+    {
+      "project": "40-11GABL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-11GABL.mp4",
+      "sha256": "3dda45a795734acc79ec349cdb82bfbb5c5b2c98b10ae1ccd949e8e0c120023a",
+      "bytes": 712102
+    },
+    {
+      "project": "40-11HL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-11HL.mp4",
+      "sha256": "1b648d7a70d644255423edcbb4feaa4d71ac1e19118f4c9940cabad4d0e6e347",
+      "bytes": 740699
+    },
+    {
+      "project": "40-11M",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-11M.mp4",
+      "sha256": "f01f208b4b34788dd215c827f7d28bb74322f823fd160b97f04dc801803ebc8d",
+      "bytes": 749032
+    },
+    {
+      "project": "40-11N",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-11N.mp4",
+      "sha256": "6ce26df7e591568edb9794675f07f50fd4a6849326650014ef988d54ebc0ffab",
+      "bytes": 784688
+    },
+    {
+      "project": "40-11YL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-11YL.mp4",
+      "sha256": "ead2aab20e2cc1fdfabb4c72397b788938665730fbfe8d77f0ac7956f4146fb2",
+      "bytes": 760880
+    },
+    {
+      "project": "40-12B",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-12B.mp4",
+      "sha256": "f8763e5a1410d0dc521e249150c47adc0f8c7110eae9e8cee28b7b49546bc674",
+      "bytes": 758986
+    },
+    {
+      "project": "40-17",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-17.mp4",
+      "sha256": "5e4356406a74c72b2a702c4dcdfb291b95e216890872e9030e4ed16445893be5",
+      "bytes": 834522
+    },
+    {
+      "project": "40-17EGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-17EGL.mp4",
+      "sha256": "e5f60460f25b8c474f53b94960c120ba0797171bed4ed2e9e9f60b4bbc3a5b36",
+      "bytes": 694464
+    },
+    {
+      "project": "40-24AGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-24AGL.mp4",
+      "sha256": "52488102f9894b6553ee1344c6137b5066dd093a778d9c8e7d2e5d68a98c9f64",
+      "bytes": 738992
+    },
+    {
+      "project": "40-35",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-35.mp4",
+      "sha256": "5a78d9612c518b7eda920ebe1a4ee34bba7ab9760841dfba10f8a164ac1f9440",
+      "bytes": 750032
+    },
+    {
+      "project": "40-49L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-49L.mp4",
+      "sha256": "186b28f0c4098eeafca1e5a2bcb3b83d7facea419a350330580d8acc3bb52ec3",
+      "bytes": 785249
+    },
+    {
+      "project": "40-52L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-52L.mp4",
+      "sha256": "f42fd724a6f6ac10cbe861050de42f9d888e260fd051f90d8611307a11e25e5c",
+      "bytes": 691003
+    },
+    {
+      "project": "40-54DAL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-54DAL.mp4",
+      "sha256": "95433471665d7b65085b7c0cbad0eff1b59828286bab98c24bb159f67c715edc",
+      "bytes": 728096
+    },
+    {
+      "project": "40-56DAGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-56DAGL.mp4",
+      "sha256": "28fee1dcbc683740f302035fee3a3aa4cad9a93cc0d695e9234c05a2f9eaf30d",
+      "bytes": 732529
+    },
+    {
+      "project": "40-56DBK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-56DBK1L.mp4",
+      "sha256": "ac14c0cf31a9f8741fd71c347a8c309ce25a582804154da753457875ccd40350",
+      "bytes": 744143
+    },
+    {
+      "project": "40-61",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-61.mp4",
+      "sha256": "c1fb6384d82104466e19deaa4d1c0a08b59ae6b6f5be0f8d247bf5734ac23d7f",
+      "bytes": 698205
+    },
+    {
+      "project": "40-67",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-67.mp4",
+      "sha256": "4a90c94844f03f8d1d0161f3bd63f118c420bb0636102652f0b130a88e09d991",
+      "bytes": 755857
+    },
+    {
+      "project": "40-76L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-76L.mp4",
+      "sha256": "d06d2c4ce0ae8223aca944e2f8a5312760ef73d5674dbbf40a839b628d0251ad",
+      "bytes": 796274
+    },
+    {
+      "project": "40-84BL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-84BL.mp4",
+      "sha256": "9d9727a67bbf89e705cb8c3c7d68b98b4294b6acf18b03b8c53dab2d9dee922c",
+      "bytes": 728425
+    },
+    {
+      "project": "40-84NGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-84NGL.mp4",
+      "sha256": "5a031006f749eb0cbd469221eeb44999d89edd3f36d338a72c8bb89c050e693a",
+      "bytes": 667321
+    },
+    {
+      "project": "40-86AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-86AL.mp4",
+      "sha256": "7d09ed911d6207f1a385f238572de6c9fa8aff3539166832ed2bf98a53b72b1e",
+      "bytes": 621231
+    },
+    {
+      "project": "40-86LCEDRAL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-86LCEDRAL.mp4",
+      "sha256": "2e0c3d75e0346679867d7d6d674e542f31ea0bada54908f2dfea8b9a8f30abab",
+      "bytes": 623750
+    },
+    {
+      "project": "40-88L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-88L.mp4",
+      "sha256": "423cb474aeca82858abaabef7c90f33c26c32fd3c4d9c33594dc9e50ff54e83d",
+      "bytes": 680049
+    },
+    {
+      "project": "40-89",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-89.mp4",
+      "sha256": "6d33b9f342bf67f5785bf4bbc05f680fb94a3dcbbc0262e2d207fb6c1edba23f",
+      "bytes": 697259
+    },
+    {
+      "project": "40-93BBRICKS",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-93BBRICKS.mp4",
+      "sha256": "95742eb9d8aa64f40639f49efd4bd3d3f624c023efdb016e12f237b530455b68",
+      "bytes": 737921
+    },
+    {
+      "project": "40-93BL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-93BL.mp4",
+      "sha256": "64e0b6a06ae24a4ff33bbd6520f020005879f4fb08291308973e2f51db002185",
+      "bytes": 730003
+    },
+    {
+      "project": "40-94BX",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-94BX.mp4",
+      "sha256": "8556a73d813a2951a7af5284102cd71ebc3c94411ad4667ac32154a9ad89bb87",
+      "bytes": 635676
+    },
+    {
+      "project": "40-95",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-95.mp4",
+      "sha256": "9750bc31731241f6eadbec807b3528d1bb5e86222fee7bb03479627b7ea4e601",
+      "bytes": 689547
+    },
+    {
+      "project": "40-97L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/40-97L.mp4",
+      "sha256": "1339322a1211717913c6245c4b5104de57032903ad1babb3e3400a34a42cd3eb",
+      "bytes": 695102
+    },
+    {
+      "project": "45-01L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-01L.mp4",
+      "sha256": "353e6a2f5c1e474b87d6447382ab690c7f4638c354117e738dd99fd7e6c50d7b",
+      "bytes": 724836
+    },
+    {
+      "project": "45-04AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-04AL.mp4",
+      "sha256": "753f7e722dea6fac1534c6664d30138083671741492d1c8651f5ce9abe792d05",
+      "bytes": 670036
+    },
+    {
+      "project": "45-06L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-06L.mp4",
+      "sha256": "b7211c0c58dbbe8caca1dc83098370cb335fcbdcd60c587d3de689d347d33e21",
+      "bytes": 726033
+    },
+    {
+      "project": "45-07L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-07L.mp4",
+      "sha256": "e8133338d7288a6140f8bd46abd04d7aa7de585e9685d860f3f0cd5d26ce9d31",
+      "bytes": 789204
+    },
+    {
+      "project": "45-08L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-08L.mp4",
+      "sha256": "af46f043392c885e983b0346f07d44bd0abbfd64681c17bae7969957b68c1673",
+      "bytes": 759162
+    },
+    {
+      "project": "45-10",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-10.mp4",
+      "sha256": "d763ecf649dff38bb72a0f247add678a5eeb1c5aa3d7fbb26c2d98ca71b8b4c7",
+      "bytes": 714270
+    },
+    {
+      "project": "45-10AG",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-10AG.mp4",
+      "sha256": "ef826cc559fc9d8d11cfb56ccbc398443744f0f54a51a70200ce664bb1d8a355",
+      "bytes": 751005
+    },
+    {
+      "project": "45-10BG",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-10BG.mp4",
+      "sha256": "840b0de2a2a258db08b9328424bb129644755b853bd1a544966739061c6946cd",
+      "bytes": 739429
+    },
+    {
+      "project": "45-15",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-15.mp4",
+      "sha256": "98c654247d4b7461b52a01111d41e8792615bba56f855f44c770cc946ce237e8",
+      "bytes": 664648
+    },
+    {
+      "project": "45-27",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-27.mp4",
+      "sha256": "47aafe1294989f18a2f205cf604ae18ba093d8f49ab57a4fb1926817a4751556",
+      "bytes": 625343
+    },
+    {
+      "project": "45-29L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-29L.mp4",
+      "sha256": "606e76facc5186953dfdfb0fafbe6eba607e34f0e4533cef3837382e9a5df75c",
+      "bytes": 691194
+    },
+    {
+      "project": "45-35",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-35.mp4",
+      "sha256": "5d90944a3c4d9379eee32e5840c5a842f16320b3ef29a7a34c234ad0881c30a9",
+      "bytes": 778893
+    },
+    {
+      "project": "45-51L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-51L.mp4",
+      "sha256": "246d4f6d171040d67bd7dfc671761fbff01e40ba1928643d02ad52f8a9ba1dbd",
+      "bytes": 756594
+    },
+    {
+      "project": "45-55AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-55AL.mp4",
+      "sha256": "aad6b2c1c213166dee687d4054f9d385957fe3ff4022ed73c2baf909968b83f1",
+      "bytes": 777500
+    },
+    {
+      "project": "45-55BL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-55BL.mp4",
+      "sha256": "683b04767e241db3519f54d118fc388c1d6ec585f4e70fb77dcc5e10810db533",
+      "bytes": 742757
+    },
+    {
+      "project": "45-56L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-56L.mp4",
+      "sha256": "d5f5c58bb6a941c4f81dcd0ef2656b48f797e33d961f6bb30c2d606a09e8e5f3",
+      "bytes": 648537
+    },
+    {
+      "project": "45-57DL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-57DL.mp4",
+      "sha256": "93bc88051ee10b4d640b49433b6f38f73a2a105ad1fcd1aefa625c2238ae51d2",
+      "bytes": 710399
+    },
+    {
+      "project": "45-57L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-57L.mp4",
+      "sha256": "03ab081c19c3d399fadaa6f4782b1ce0e79da2dae63a111d51603e1a7788c8cc",
+      "bytes": 701116
+    },
+    {
+      "project": "45-62L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-62L.mp4",
+      "sha256": "6f2db6bcae3cca748a30f58ca5b0af1ef87e0c081d94d320c750f02779a54c26",
+      "bytes": 648696
+    },
+    {
+      "project": "45-66L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-66L.mp4",
+      "sha256": "f2772d86e5ebfac73ffb0d88dc87694895cf4ac9410029509d8d55a7855a98c7",
+      "bytes": 752336
+    },
+    {
+      "project": "45-71L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-71L.mp4",
+      "sha256": "3eb2787c9ffaafe5aaf86bdf4265e228249a3c0c95d968b26b33af34524b950e",
+      "bytes": 677080
+    },
+    {
+      "project": "45-78K2L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-78K2L.mp4",
+      "sha256": "aa59f29e5bd250d9a37217b863a189a5a607226d45b3ff9691206eac30314a1d",
+      "bytes": 707433
+    },
+    {
+      "project": "45-81",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-81.mp4",
+      "sha256": "66441b2ca4eb6dfdacb26f0bcc50cdf72a8c759519ab01fe1d3a1f404492868d",
+      "bytes": 579782
+    },
+    {
+      "project": "45-89K1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-89K1L.mp4",
+      "sha256": "f642519d83530d30661687bcf8e108b71f7475af58999a05aeff0bf1e6977d2a",
+      "bytes": 669744
+    },
+    {
+      "project": "45-94K1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-94K1L.mp4",
+      "sha256": "391db2ac04e98afcad5b6bc9ee71a420bae3354747f9522556335908f109ca99",
+      "bytes": 705426
+    },
+    {
+      "project": "45-96K1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-96K1L.mp4",
+      "sha256": "3be6f24c701adb932098f6838413bc44401ad3677eb0c06e33dff8cc563a8ddf",
+      "bytes": 705856
+    },
+    {
+      "project": "45-98K2L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/45-98K2L.mp4",
+      "sha256": "7bb53fa248870b905b9812aebb388fe8a54021142e09219bbb677fe4a4602081",
+      "bytes": 777962
+    },
+    {
+      "project": "46-04K1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/46-04K1L.mp4",
+      "sha256": "af9f8769b52ad34aba2a27fac60d41b647e4f5f6339e11285a478d43541b4fc1",
+      "bytes": 695180
+    },
+    {
+      "project": "46-12L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/46-12L.mp4",
+      "sha256": "1f6253dbaaad26ba823b34118e3ba59f1dcbde5812e23f67845496f19208d25c",
+      "bytes": 839570
+    },
+    {
+      "project": "46-13AK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/46-13AK1L.mp4",
+      "sha256": "6118b42165911e829750472618e5b047541b34bf5f6da93abe6631cb60e6b6dd",
+      "bytes": 763806
+    },
+    {
+      "project": "46-15K1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/46-15K1L.mp4",
+      "sha256": "f92730a41fc753359fc813074d0a269682ddaf508d2a4d1fc719b478aa0bb9f8",
+      "bytes": 753816
+    },
+    {
+      "project": "46-17L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/46-17L.mp4",
+      "sha256": "9220c85dbdad8812b9afa046d5463cdb1df037b8477c04f076e0e43a0b722afa",
+      "bytes": 718654
+    },
+    {
+      "project": "46-24WK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/46-24WK1L.mp4",
+      "sha256": "cda0db8cffd025d9c409d27e99e3c2dc33bffe9d3995cf9cb4342472768b1ce5",
+      "bytes": 674982
+    },
+    {
+      "project": "46-25K1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/46-25K1L.mp4",
+      "sha256": "4fedc2c2f39478e421c1a9802cd9b17e40ea3f6300d47ce332a43421058fd088",
+      "bytes": 660637
+    },
+    {
+      "project": "46-30",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/46-30.mp4",
+      "sha256": "c8638c68c3c6d6e964c22303cf5f0d8e38fd986043dbcb90cbb5e530376205f9",
+      "bytes": 694369
+    },
+    {
+      "project": "46-36",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/46-36.mp4",
+      "sha256": "049ba11f06404fa2fb741ad69742a601d616d9423204606e69a6bdcf0d11fcbd",
+      "bytes": 718097
+    },
+    {
+      "project": "46-37K2",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/46-37K2.mp4",
+      "sha256": "857e6c17543931bb98434aaef0f82c04e3262d6f72ff2a165854990ee046ac22",
+      "bytes": 755190
+    },
+    {
+      "project": "47-69",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/47-69.mp4",
+      "sha256": "ec1e824219653ad64097aa2a20b2ad39287030fd7b65a50e8839720c0f94f474",
+      "bytes": 654612
+    },
+    {
+      "project": "47-78",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/47-78.mp4",
+      "sha256": "227bab715785f6f8d10e7aa3d55524c011867b884abc3bf76e46db2b268bf8c9",
+      "bytes": 780836
+    },
+    {
+      "project": "48-21",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/48-21.mp4",
+      "sha256": "48b1c45380599247b65a34c5726b52fc0e4a5d83a0d094c7d196cf48fbe37b1a",
+      "bytes": 724173
+    },
+    {
+      "project": "48-21D",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/48-21D.mp4",
+      "sha256": "7f5a934557e0a40d820f44a7c7b965c6b11efeed4ace43cc95710094560ef19e",
+      "bytes": 654547
+    },
+    {
+      "project": "48-23A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/48-23A.mp4",
+      "sha256": "f9da7b53e2e49503fb91622ec4391274b78846f37c93da4c93165b61d34e99cd",
+      "bytes": 719845
+    },
+    {
+      "project": "48-23B",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/48-23B.mp4",
+      "sha256": "21238ccf1a040263270a47469a3dbcc598d367c5794a41e8fc9dab5d9a47ba57",
+      "bytes": 686364
+    },
+    {
+      "project": "48-24DK2L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/48-24DK2L.mp4",
+      "sha256": "4e84aea121ec58a1742a2b91865fb09de0bd6e83031b180c89bf76359089a4c4",
+      "bytes": 702755
+    },
+    {
+      "project": "48-24K1",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/48-24K1.mp4",
+      "sha256": "185547433861464fba84b868dfe80156f228bc12f1c3182e8d224a562a8ec24f",
+      "bytes": 673302
+    },
+    {
+      "project": "48-24L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/48-24L.mp4",
+      "sha256": "86769b8bc3c63351947f68e5feb030a1a28d504d72ecee57eeda5634c7f9bf26",
+      "bytes": 722128
+    },
+    {
+      "project": "48-28CGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/48-28CGL.mp4",
+      "sha256": "559181ddb6388cbe12a1198db9af4eb1cb5cea22ffd4a40fe512874973ab07db",
+      "bytes": 734009
+    },
+    {
+      "project": "48-29",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/48-29.mp4",
+      "sha256": "b5f72ab5599db1313480f2165f2161f53143dae94c41cd970ed723979b74d57e",
+      "bytes": 657850
+    },
+    {
+      "project": "48-29B",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/48-29B.mp4",
+      "sha256": "bdd7e363b22476b7777a7e84ce5e3cf3f9541f93b4a0bf8f616315f25e40e324",
+      "bytes": 692433
+    },
+    {
+      "project": "48-29C",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/48-29C.mp4",
+      "sha256": "37158fa06e4c85937171fcc8f9e3d325b7b851f8597d2314c332dd9670a887f4",
+      "bytes": 714718
+    },
+    {
+      "project": "48-29CAGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/48-29CAGL.mp4",
+      "sha256": "884b877201a83baea5f7843bb89ed125923d07a320b451251142d191481cd473",
+      "bytes": 693176
+    },
+    {
+      "project": "48-29P",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/48-29P.mp4",
+      "sha256": "b2af75dd3ac263923ebbd08e410cb5c2fe91bee7a5ade8c5b8d0462f3999d54e",
+      "bytes": 766105
+    },
+    {
+      "project": "48-34",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/48-34.mp4",
+      "sha256": "68275001defac6dd20533cb2ac1e36ddbc3d7ea25d801cf63d8cfec2c742d273",
+      "bytes": 721392
+    },
+    {
+      "project": "57-00C",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-00C.mp4",
+      "sha256": "be04a5a3dd5a68a513e1791f3c83b4d593237c78611d18018854b4fc43f6404d",
+      "bytes": 714587
+    },
+    {
+      "project": "57-00TL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-00TL.mp4",
+      "sha256": "1ecab2013bd78be0a7a4a7223ed7ed63861def6c93d62f57fba7c2cb66ddb512",
+      "bytes": 697018
+    },
+    {
+      "project": "57-04",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-04.mp4",
+      "sha256": "ed82bac9ff6068d99b9de60defadb501d981458b5d78e66dd6172ea7a9be798e",
+      "bytes": 715687
+    },
+    {
+      "project": "57-05CBL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-05CBL.mp4",
+      "sha256": "f3a72e38295abe0e274e0d100262b6d5344e36189a3f610c98604f53f900779f",
+      "bytes": 681758
+    },
+    {
+      "project": "57-14ABL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-14ABL.mp4",
+      "sha256": "21efbfd9dbd440ffbc6d47982630f3b9a4f5869924729512769b7c0d885ee37f",
+      "bytes": 689643
+    },
+    {
+      "project": "57-15",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-15.mp4",
+      "sha256": "975f0623acf80d37ecd3a5ba00a0a2b144013fbd8a5d9cdfff1b8e0379bce348",
+      "bytes": 729065
+    },
+    {
+      "project": "57-15A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-15A.mp4",
+      "sha256": "45596ad7d8b88651aeff4880d695a7817c575405f6776fff5a4dea29af5b8855",
+      "bytes": 701459
+    },
+    {
+      "project": "57-21",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-21.mp4",
+      "sha256": "1f540baad10d50b1fc64f016a958479ddc2164d20f0372b7f2a62ea89bf576ae",
+      "bytes": 743972
+    },
+    {
+      "project": "57-21DK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-21DK1L.mp4",
+      "sha256": "614155d515b8c75d1389b0164f63f0667f42caf8ffb098a2619c5912c4100362",
+      "bytes": 702242
+    },
+    {
+      "project": "57-27DAL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-27DAL.mp4",
+      "sha256": "d7ffc522e16a598748e3f60beb7a278384d93b5e0bb968b3c5ac724ae1fdc47b",
+      "bytes": 697729
+    },
+    {
+      "project": "57-28",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-28.mp4",
+      "sha256": "220eed774f9e6741a80f9d42d802a4b93c97b16db576250a984effea47dd1ae8",
+      "bytes": 710635
+    },
+    {
+      "project": "57-29D",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-29D.mp4",
+      "sha256": "497204118e4a4c0fdc95154fcc88a736e004b8d0392f78ccb32b0bcd4d4d8785",
+      "bytes": 694600
+    },
+    {
+      "project": "57-33",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-33.mp4",
+      "sha256": "c074b4103c69a98bff6af045b105dac6e5b8c52bb5a1d2a0853b5a9f195830de",
+      "bytes": 765205
+    },
+    {
+      "project": "57-33BK",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-33BK.mp4",
+      "sha256": "afdb8e8c76cc268eac25f9306928d5f9190cdcb339110360a4b29e4420befa1e",
+      "bytes": 757326
+    },
+    {
+      "project": "57-34",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-34.mp4",
+      "sha256": "ed282319dbb25138c04e00ab43909c72d9046800bae8738020371fe46a3b3815",
+      "bytes": 684271
+    },
+    {
+      "project": "57-39",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-39.mp4",
+      "sha256": "8f705307ed9bd24bae0301caab79839591d3d15d68d7da4b74f984d51f9f41c7",
+      "bytes": 823346
+    },
+    {
+      "project": "57-39K1M",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-39K1M.mp4",
+      "sha256": "9865826d1e8dc630b7fac45e101a284fa7f5c535e9e267934dde4f0d41533b15",
+      "bytes": 737509
+    },
+    {
+      "project": "57-49",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-49.mp4",
+      "sha256": "3743ddf2a253a13a1fb1a367ac033c94cfe27dd4b24299da83b07c9c62e38de6",
+      "bytes": 749279
+    },
+    {
+      "project": "57-54",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-54.mp4",
+      "sha256": "b631899893b3ca9fed446d11a6850dc9d5db3a8f22a4e8316a0b1ae7428cb532",
+      "bytes": 750645
+    },
+    {
+      "project": "57-54B",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-54B.mp4",
+      "sha256": "5ab3c92b0eb88be47f986f571c940f62cce326cbb256ff17e9aa83edd2fa4d2a",
+      "bytes": 680172
+    },
+    {
+      "project": "57-54BAL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-54BAL.mp4",
+      "sha256": "86ac0bb338b93440821d91be5c69673f9b1473395a9ae037d792736a3758f8c4",
+      "bytes": 657722
+    },
+    {
+      "project": "57-65",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-65.mp4",
+      "sha256": "fc47024d6c95b40f151028ce07f2908dba69c71aa3995b725055bd3a93028488",
+      "bytes": 684068
+    },
+    {
+      "project": "57-74",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-74.mp4",
+      "sha256": "af2be1345708003e70f95244e955b9626ba6db6b48bb7978ed834ce64f8d2b99",
+      "bytes": 716591
+    },
+    {
+      "project": "57-82L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-82L.mp4",
+      "sha256": "2262ab8138a439446180aab042b3e3ddc144bbbca6e95600598e37863fa0091e",
+      "bytes": 755997
+    },
+    {
+      "project": "57-83",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/57-83.mp4",
+      "sha256": "efe7bff48aba5ceb01f4a5cac4a028ac3f118342d7508dab927d120c0686d356",
+      "bytes": 670908
+    },
+    {
+      "project": "58-01BKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-01BKL.mp4",
+      "sha256": "ff811ce54e7035d36399926d90a4be42e59a338592ba607e8c1fde567609dbec",
+      "bytes": 716338
+    },
+    {
+      "project": "58-08",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-08.mp4",
+      "sha256": "709f3b3dc289b91eb7b76ecb1c26c740fe52e08e3f754f61c0a7c674f8d6100a",
+      "bytes": 710298
+    },
+    {
+      "project": "58-10DL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-10DL.mp4",
+      "sha256": "1c7db3f3dc7d81c34695f18c8aa2c704971c1e928371ec615b543c1ba1aae323",
+      "bytes": 737709
+    },
+    {
+      "project": "58-10HL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-10HL.mp4",
+      "sha256": "8d5216ea52a477dafc76f3c1b400425051e2776924f0f1f4163f15487ad34af4",
+      "bytes": 709933
+    },
+    {
+      "project": "58-10L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-10L.mp4",
+      "sha256": "8afc116bdd9f7410901a3f09425c5b2b5777dc7b3e02161998bd6733bb868909",
+      "bytes": 722824
+    },
+    {
+      "project": "58-10ML",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-10ML.mp4",
+      "sha256": "f8e43c9c5537e39aeec34aeff3299569a71bc5e1976bc7f0888d1dcfedac356e",
+      "bytes": 744788
+    },
+    {
+      "project": "58-10NK2L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-10NK2L.mp4",
+      "sha256": "2fa7a8f62f1f597d043604e6670ece734f512fb0f5422b628e31a77f3e19f168",
+      "bytes": 697105
+    },
+    {
+      "project": "58-10PKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-10PKL.mp4",
+      "sha256": "dd978d49a4da05e651df1b89b96a8ed0de3b6bc5aa842dba257d682736e1e83a",
+      "bytes": 679452
+    },
+    {
+      "project": "58-24ABKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-24ABKL.mp4",
+      "sha256": "7086cffdd9de8130d47ebea47efd7644eb4ec758bdccac64a67409fb9db2c46e",
+      "bytes": 742389
+    },
+    {
+      "project": "58-26",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-26.mp4",
+      "sha256": "452b3304ac90729e62ce0613c5875c632601b523dc2e3411b311fa14f4099cfe",
+      "bytes": 733246
+    },
+    {
+      "project": "58-30L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-30L.mp4",
+      "sha256": "4187452f5f0f93f57c1888fd31f96a7432e87426fdbe2abb07d3c27bb70a2724",
+      "bytes": 751751
+    },
+    {
+      "project": "58-43",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-43.mp4",
+      "sha256": "bbcf7b00c6f79ce7bda8746f111a6ad6daeb7490d377d4db0566552b7b8af51b",
+      "bytes": 702997
+    },
+    {
+      "project": "58-48",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-48.mp4",
+      "sha256": "0aa7ece54e6d628185e7bc5205234e84c558cc0ff135e06b64a10cdff0b819a1",
+      "bytes": 702118
+    },
+    {
+      "project": "58-49",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-49.mp4",
+      "sha256": "3d9b6b53b5cdd278beccffde392b8761d74cba118a7a401c858240d76f1cfd1e",
+      "bytes": 717287
+    },
+    {
+      "project": "58-49ABK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-49ABK1L.mp4",
+      "sha256": "d65d30ba05828609d50e36c277db30b3569a686134598bd247af000d06f286bb",
+      "bytes": 744687
+    },
+    {
+      "project": "58-66A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-66A.mp4",
+      "sha256": "2f19c0e3988543a890299b5afdf79b0712ec19c29eaa82c847218f7888bb39a4",
+      "bytes": 749285
+    },
+    {
+      "project": "58-66BBRICKS",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-66BBRICKS.mp4",
+      "sha256": "4e3a78f1a4e999db6f2608ad232261db0011cf5e25de7faa1bd1496b4ddd76f0",
+      "bytes": 693944
+    },
+    {
+      "project": "58-66F",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-66F.mp4",
+      "sha256": "33336d7e7b57ad569a20445867ee05a3e54b904db936f4302e7bdb13e66a8315",
+      "bytes": 632517
+    },
+    {
+      "project": "58-66HBAL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-66HBAL.mp4",
+      "sha256": "0440033e36f158e2dee8579ea51ca7a90d4bb4a1d7275ac32d784ccb212cd085",
+      "bytes": 749744
+    },
+    {
+      "project": "58-66HBK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-66HBK1L.mp4",
+      "sha256": "07365137388bd6944038c3c4281a1631d627a01b14e8ba6bd98d4e5f040cbad1",
+      "bytes": 727096
+    },
+    {
+      "project": "58-74AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-74AL.mp4",
+      "sha256": "0cdaa5d2f8e26f87aea55346ca505dce2704912b0e50fcd5c59492691b497e15",
+      "bytes": 697805
+    },
+    {
+      "project": "58-74L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-74L.mp4",
+      "sha256": "e8f7fc240b1e2f7675983140c1d7462271542a847c175be52feb7dba02db65d8",
+      "bytes": 702923
+    },
+    {
+      "project": "58-78DKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-78DKL.mp4",
+      "sha256": "e429f58fdec7a3c0497095560fedad278ccad3d84653b30584e87ec043f075c4",
+      "bytes": 732596
+    },
+    {
+      "project": "58-80",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-80.mp4",
+      "sha256": "d8f09252d9bdfe97a628a928de53570ef11d3dc89610fc3608cd5293950eec26",
+      "bytes": 733066
+    },
+    {
+      "project": "58-82",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-82.mp4",
+      "sha256": "2cc3a61c35464b46453966e06d0b2fd79b497ae5201fdf3867b69daf346b52f8",
+      "bytes": 682211
+    },
+    {
+      "project": "58-82BL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-82BL.mp4",
+      "sha256": "98c4c8df774aa0849403ccf4711d11ef1417cc71111fafbc32b1ffb1a4dccef6",
+      "bytes": 667483
+    },
+    {
+      "project": "58-85BKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/58-85BKL.mp4",
+      "sha256": "3b0dc26f9236fdc5af0f44ed3443be3a2747634e4a4996607da4c3d804b6f203",
+      "bytes": 768973
+    },
+    {
+      "project": "59-89",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/59-89.mp4",
+      "sha256": "73ed64d296a321ee99bd28b79b2a846400ac1a646555774cd165369f11e25e47",
+      "bytes": 757442
+    },
+    {
+      "project": "59-92AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/59-92AL.mp4",
+      "sha256": "fd2f0d62584df1a3bc9ff43416d1ca2334dfa2d4007e3ce1d86dc1ecf8bb3e2e",
+      "bytes": 728445
+    },
+    {
+      "project": "59-93",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/59-93.mp4",
+      "sha256": "f8539d0e8cbcd5ede986d24128853809ae9ac679680c425fd0d4adf9a6c78b6f",
+      "bytes": 805952
+    },
+    {
+      "project": "59-93K1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/59-93K1L.mp4",
+      "sha256": "6d496756dc9bec827551258283e7fc9163aa9d30c1fbdf0e822a0803f66ef010",
+      "bytes": 728795
+    },
+    {
+      "project": "59-93K2L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/59-93K2L.mp4",
+      "sha256": "f999f9feb44fcaf55c98e2bb0d343d2001e081022bb43d91d4af453bf17d9928",
+      "bytes": 721796
+    },
+    {
+      "project": "59-93L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/59-93L.mp4",
+      "sha256": "64a1e9931d1f7126eb2c13aa192beb3902755ad0399a37c0c437827ceb9d4d02",
+      "bytes": 723307
+    },
+    {
+      "project": "59-95",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/59-95.mp4",
+      "sha256": "fdb95f308b787579696619493df259d27f9893033fc59288ae46242c24494ac3",
+      "bytes": 777060
+    },
+    {
+      "project": "59-98B",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/59-98B.mp4",
+      "sha256": "851785cd90d9b1ea021d92e95837650aebac195efff5e984d049b7b99c812934",
+      "bytes": 731379
+    },
+    {
+      "project": "62-15D",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-15D.mp4",
+      "sha256": "6db465c0bdb86a352d6672e004d0d886389e8f14d6e57a3080b9cee073f768f3",
+      "bytes": 735676
+    },
+    {
+      "project": "62-16",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-16.mp4",
+      "sha256": "d98e71a15d31ce872f69828e7af9c3c53c2ce693109f40fc85190a99eb6274e6",
+      "bytes": 675807
+    },
+    {
+      "project": "62-16F",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-16F.mp4",
+      "sha256": "6ebe1bcd558ac6c82d621d38f713bddede19b7478552efd6964291a6a4403218",
+      "bytes": 683783
+    },
+    {
+      "project": "62-20ABK1",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-20ABK1.mp4",
+      "sha256": "83513e039b2aa7732503b199f9025f07e5fc0f315ccc5a74173dd3c8139ae182",
+      "bytes": 674817
+    },
+    {
+      "project": "62-24",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-24.mp4",
+      "sha256": "b2947a18e19b90539f6cd374151696d688f5cb20086a1a4131f99f5c7c7a86c8",
+      "bytes": 667673
+    },
+    {
+      "project": "62-28L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-28L.mp4",
+      "sha256": "606d2668e1786ac577db274ad0bf5fcb706b347868f685e583240b2f7555f1e7",
+      "bytes": 779190
+    },
+    {
+      "project": "62-33A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-33A.mp4",
+      "sha256": "768cd662f5fe6dcb83e6bc7b25579ca6e69536bf5937da3d73fde0320491186f",
+      "bytes": 709891
+    },
+    {
+      "project": "62-34",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-34.mp4",
+      "sha256": "a2af1880d08a32a8841ff98314b72f77d001141b6b5acd53e38d49f3cf9dc3c9",
+      "bytes": 701701
+    },
+    {
+      "project": "62-38C",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-38C.mp4",
+      "sha256": "a0170853b0d298ad23d6e43f0217ae725f068d462f20e82ce380028f332cfe83",
+      "bytes": 748365
+    },
+    {
+      "project": "62-38NKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-38NKL.mp4",
+      "sha256": "4a674a0456b018f1510cd51d323ffac99a2b88d207d07c7a20ce3d68e5ea0d54",
+      "bytes": 722299
+    },
+    {
+      "project": "62-43AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-43AL.mp4",
+      "sha256": "224fbbf8db8717bd8e2e3d6047f8f85592fb2555657645c6d5de8d8534a44c63",
+      "bytes": 769017
+    },
+    {
+      "project": "62-45",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-45.mp4",
+      "sha256": "fe0d2feb8939ce25c0946df6d8dec8a871168aa6748d870b07f6a3adbbc3716a",
+      "bytes": 737373
+    },
+    {
+      "project": "62-47",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-47.mp4",
+      "sha256": "ca0e15d74e5819d2cf42b1ee58ccb4f1866744200aeb9a13982329fb6534f0f3",
+      "bytes": 722880
+    },
+    {
+      "project": "62-65D",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-65D.mp4",
+      "sha256": "36c9a62ccde08cd3f90c66b9592effaa49bd9174f496e15330515855ea2f1f27",
+      "bytes": 656409
+    },
+    {
+      "project": "62-71BAX",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-71BAX.mp4",
+      "sha256": "343ce284fb50c1b045970da9251440ec0bef13541c13d661eb5bd003f4e0578f",
+      "bytes": 794866
+    },
+    {
+      "project": "62-71BS",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-71BS.mp4",
+      "sha256": "5a744d2e2b3cdba63c21f55512aad212b0df70b923196b3a9e5218672b5af209",
+      "bytes": 646535
+    },
+    {
+      "project": "62-71X",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-71X.mp4",
+      "sha256": "ad5c4aa8e5d500ab88974c39044370d3fd5d2acaa6aff6899fbea2755dd15332",
+      "bytes": 660540
+    },
+    {
+      "project": "62-82L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-82L.mp4",
+      "sha256": "d6a88d29aeb496c010f9ff3a864be8e218f4b7a54dd4573541c02b2a5a8a524b",
+      "bytes": 654942
+    },
+    {
+      "project": "62-91",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/62-91.mp4",
+      "sha256": "ecc07a4037a508e799fb7bd29b7e54d839080b1d7d9274b309484199f7126c61",
+      "bytes": 748660
+    },
+    {
+      "project": "63-07L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-07L.mp4",
+      "sha256": "a7cdc0469ff4d0d4fbf21b40f0d6631eefd81a82511cdc04a8699ce88b691653",
+      "bytes": 712003
+    },
+    {
+      "project": "63-08B",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-08B.mp4",
+      "sha256": "f4d56c8349772852f7d25f42425c3b843cf931c53825360c4688dd7f4fd4bc5f",
+      "bytes": 659197
+    },
+    {
+      "project": "63-09AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-09AL.mp4",
+      "sha256": "2ef318db8cbb72d16109f6e7a4b053183304b09f964604e2cc512c0be712d2aa",
+      "bytes": 725811
+    },
+    {
+      "project": "63-09L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-09L.mp4",
+      "sha256": "abaae4057699c176c969b3500758491ccb2c20f2953a4514e1142a8e97b6a1c9",
+      "bytes": 713005
+    },
+    {
+      "project": "63-13L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-13L.mp4",
+      "sha256": "dbfcf1dc0af43064ed073044e74355614607f8a9b85611343e3851403df2d8c4",
+      "bytes": 780624
+    },
+    {
+      "project": "63-17",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-17.mp4",
+      "sha256": "cc6e9a0fa9ec5af80715f1e8c533e9980649fbecae43deeccb2f28d54bcfc584",
+      "bytes": 668297
+    },
+    {
+      "project": "63-19L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-19L.mp4",
+      "sha256": "1e43cc9181a9aa99776008cf8a1d9751f17cb4fa38fb41ac2c84a4f161ab2728",
+      "bytes": 748223
+    },
+    {
+      "project": "63-45A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-45A.mp4",
+      "sha256": "f2c8715182034a7b54d40fe43208069028e4c349bf051f8fd7662810aa0e4a88",
+      "bytes": 683268
+    },
+    {
+      "project": "63-48AKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-48AKL.mp4",
+      "sha256": "eac78abeb3fa63a789a47fc66c9e4085ef25e15a1e5fb1dccc1af62a7948a588",
+      "bytes": 706356
+    },
+    {
+      "project": "63-50",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-50.mp4",
+      "sha256": "207e1e0995436c39fd1c04129f5990c9a19d7874051390e5c27dd0cf18953191",
+      "bytes": 717354
+    },
+    {
+      "project": "63-53",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-53.mp4",
+      "sha256": "4c3261eeb6746485bf056c59dcd608ec1f6e9ce0d02efb5aa98ce6f798fab2a6",
+      "bytes": 705603
+    },
+    {
+      "project": "63-64L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-64L.mp4",
+      "sha256": "7389a9c0e2ff133e2a8b7d9f8184ce496a0223bda663da23a38849d9cbab3c21",
+      "bytes": 719377
+    },
+    {
+      "project": "63-68",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-68.mp4",
+      "sha256": "edc087dd18515c85a88821e8c196f523e1e6d206f569f06f6e6aaecc973162a8",
+      "bytes": 665663
+    },
+    {
+      "project": "63-74",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-74.mp4",
+      "sha256": "83f7f9cdbab4c395530ce5f4b69c53ff56f03853b919adbc055bf34bf9e4752d",
+      "bytes": 643807
+    },
+    {
+      "project": "63-82L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-82L.mp4",
+      "sha256": "2a7caecb772592a9581346c551360c2b657304353cc456d1dd59eae73b8bed63",
+      "bytes": 714517
+    },
+    {
+      "project": "63-91",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/63-91.mp4",
+      "sha256": "006216993e52cf0a26ca26c5e3c77e1315b0f6ed3e3f537d8ddb907226c93a85",
+      "bytes": 652272
+    },
+    {
+      "project": "64-04",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/64-04.mp4",
+      "sha256": "0357801f6ac862e9f22e1c06ce8a26b7f4181341daa248ab222ea8d6c778b90e",
+      "bytes": 760285
+    },
+    {
+      "project": "64-08DL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/64-08DL.mp4",
+      "sha256": "c184cfaed3b6864eeb09fc3219e1d4cc887bcca570737a0524f824367a2ad179",
+      "bytes": 730806
+    },
+    {
+      "project": "70-92",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/70-92.mp4",
+      "sha256": "533a40742ee1d46121f90ea02faef8cb6c6127df64cdaa1948acaa4d758ea3fe",
+      "bytes": 712465
+    },
+    {
+      "project": "70-97",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/catalog-plans-pinterest-assets/pinterest/generated_batch_39_panoramic_glazing_video/70-97.mp4",
+      "sha256": "933336acb5e40d6aa28c8103b80e8d08cb25ef849324146e9e26f9ae5a528f88",
+      "bytes": 689539
+    }
+  ]
+}

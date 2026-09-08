@@ -1,0 +1,3981 @@
+{
+  "videos": 200,
+  "resolution": "720x1080",
+  "aspect_ratio": "2:3",
+  "duration_seconds": "7.20-7.60",
+  "codec": "H.264",
+  "real_project_plans": true,
+  "real_project_facades": true,
+  "files": [
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 333061,
+      "project": "48-20G",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/02/18/1ffd51d4f67aba778c7293f9164fb528.jpg",
+        "https://catalog-plans.ru/files/2015/02/18/908f2cdaea3a5ca1b2d8bd1b1d3635c1.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/02/18/66081ab068bc4d8271865f29cb6faf1f.jpg",
+        "https://catalog-plans.ru/files/2015/02/18/860ff142dcdc24f091d22cc3dab560a0.jpg",
+        "https://catalog-plans.ru/files/2015/02/18/e5589eef3e59a41d4d311f63aec6a242.jpg",
+        "https://catalog-plans.ru/files/2015/02/18/47b50571155a27f32440de063e1cd598.jpg"
+      ],
+      "sha256": "94398e84427911206c355057d0743c632cd784179f9e5ef45d098c646e51fcc1"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 287243,
+      "project": "64-10",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/09/03/5e042518c86c4e5cb2d26ad0213faeef.jpg",
+        "https://catalog-plans.ru/files/2021/09/03/41269e3a313e8c8060c4afdc978cc608.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2021/09/03/b7210cb626978d328a59155368e09445.jpg",
+        "https://catalog-plans.ru/files/2021/09/03/2021283c2fae1f40cd4ddcee7d97818e.jpg",
+        "https://catalog-plans.ru/files/2021/09/03/6b1a531c5a8d4332113a8755f4231250.jpg",
+        "https://catalog-plans.ru/files/2021/09/03/c8341a23d9e9ae9e7558841b427b361e.jpg"
+      ],
+      "sha256": "21121d8629be64aeb6c152cd6aaf382ca2de0b7630463cb3c4afa99befb51b23"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 277978,
+      "project": "57-80",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/02/08/cf664c02f6d8ad20db165995d8b91239.jpg",
+        "https://catalog-plans.ru/files/2015/02/08/3477a150cbff36819da9051445e165d1.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/02/08/b7c49168d54428fc9ba70e8fe42bd51e.jpg",
+        "https://catalog-plans.ru/files/2015/02/08/316b1d5784923671121192d5e939d049.jpg",
+        "https://catalog-plans.ru/files/2015/02/08/12adb1de07901de6d0fb17a2176311b7.jpg",
+        "https://catalog-plans.ru/files/2015/02/08/957f5ff1bf729bf9346412736786c4fc.jpg"
+      ],
+      "sha256": "b44913445108f2df51e7eb9c50e242dd99c39ad683c204ce3d762e31d07b875d"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 279113,
+      "project": "57-87AK1L",
+      "plans": [
+        "https://catalog-plans.ru/files/2017/05/04/6706c50806200e387083259772061d5f.jpg",
+        "https://catalog-plans.ru/files/2017/05/04/fcb22f3f2de756b3ac9aeb485231da76.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2017/05/04/17d799d4031fe58b9f24c8072fe338f8.jpg",
+        "https://catalog-plans.ru/files/2017/05/04/65c18ba4532349f277f4cc444cab5eb4.jpg",
+        "https://catalog-plans.ru/files/2017/05/04/80ce19561ac0197e77f9aeab469c10e5.jpg",
+        "https://catalog-plans.ru/files/2017/05/04/e8ce3578c254ce05cf6cc5b3e8cf624d.jpg"
+      ],
+      "sha256": "f3b62f755e7c67d88da566239255b7a6e18e420d2739465a2237b71f8758c748"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 241942,
+      "project": "62-24RAI",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/08/08/f33d80599e53c6b62464ced4453ca82f.jpg",
+        "https://catalog-plans.ru/files/2022/08/08/4db85f3d78664750916783ac329266aa.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2025/09/24/668acd6abb8a7ee8b1b3e82d0b20f379.jpg",
+        "https://catalog-plans.ru/files/2025/09/24/69a1335ce6e2fceabb205944f641719d.jpg",
+        "https://catalog-plans.ru/files/2025/09/24/7b6e2f6cbbc5f358fdd6fe1f58cb76f4.jpg",
+        "https://catalog-plans.ru/files/2025/09/24/42611a68f362b5ff36959a2ac59e99ab.jpg"
+      ],
+      "sha256": "4faad3b5052ec893e7858e0eb93fa546eef6b2630fb6d8c52eb5d5c1e6a037e3"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 276842,
+      "project": "65-84",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/04/28/7a79eeb4a53550ad2035761e1895726b.jpg",
+        "https://catalog-plans.ru/files/2024/04/28/9b29d21f030defa6522d43fdafcd26a2.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/04/28/8cc6278638af72c0e02afb1a1642c1d9.jpg",
+        "https://catalog-plans.ru/files/2024/04/28/acc2a2c7cf7efea65f00a49feba19f3f.jpg",
+        "https://catalog-plans.ru/files/2024/04/28/3b0274157345ca8973796e4a57c95490.jpg",
+        "https://catalog-plans.ru/files/2024/04/28/7957bde93a6f12a809601cdd69aa275a.jpg"
+      ],
+      "sha256": "947ce42d233b79ac64b5f702bee4acfbd08882f4ac345b5eae414c788c7bbc73"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 343822,
+      "project": "57-04A",
+      "plans": [
+        "https://catalog-plans.ru/files/2019/09/03/e1b3faa667fd6e37188474acfa762934.jpg",
+        "https://catalog-plans.ru/files/2019/09/03/d722ff2a1fe23adf3d1da2d0b9be6a3b.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2019/09/03/73d205320402e10dd9492bb13a5de90a.jpg",
+        "https://catalog-plans.ru/files/2019/09/03/c36a72f6ac19f81c2f828044bcec7c80.jpg",
+        "https://catalog-plans.ru/files/2019/09/03/737543220b66f04f4a7635cb330dd9f8.jpg",
+        "https://catalog-plans.ru/files/2019/09/03/38357181a9aa4b383e7b8d08936b804b.jpg"
+      ],
+      "sha256": "4453aaff56d8e4aeb16323c54525cd46978f1f47db472c5d002d84ff777d079e"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 241150,
+      "project": "59-92Z",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/10/05/67aaff74cd68d8272c25ecc47496903e.jpg",
+        "https://catalog-plans.ru/files/2023/10/05/0757f3830aacb9b268168695da416b53.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/10/26/f4a1478d75ac4bd48ff56c75c65aceeb.jpg",
+        "https://catalog-plans.ru/files/2023/10/26/fac18e952f6cdc4d6f22d6849950465f.jpg",
+        "https://catalog-plans.ru/files/2023/10/26/77a718057d639b4349c4d5b011babfbd.jpg",
+        "https://catalog-plans.ru/files/2023/10/26/f828589b944ec7497a2f7a544c40b119.jpg"
+      ],
+      "sha256": "779d19267e49f57309d998329edae08f06d0bee079ff947ebb0c1090e43e4823"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 244718,
+      "project": "47-95",
+      "plans": [
+        "https://catalog-plans.ru/files/2017/11/02/d2f7daa3ccc823438f0ea67e4a6541aa.jpg",
+        "https://catalog-plans.ru/files/2017/11/02/c6c4e6d4faaeccdb08933e792ff4d56a.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2017/11/02/6799b7fb54e246d82285c410bf1deee5.jpg",
+        "https://catalog-plans.ru/files/2017/11/02/38aabdacffe01c20907958417f015d25.jpg",
+        "https://catalog-plans.ru/files/2017/11/02/c2e0820c92cb75916c19bbf4d3bcbf9d.jpg",
+        "https://catalog-plans.ru/files/2017/11/02/080f442d4e94d5a124d4446b11268b0b.jpg"
+      ],
+      "sha256": "8f6c9ab9c2d329cad7da5cc15625140a179039356ef527f5c78f0d9c71240a12"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 276203,
+      "project": "58-70HB",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/03/24/9db3570c24d2601f98e8ee66e73830b5.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2025/05/27/889a5358bdb0a65c2be5659348cc681b.jpg",
+        "https://catalog-plans.ru/files/2025/05/27/4aa0e62bf5f722889433d2206f48cace.jpg",
+        "https://catalog-plans.ru/files/2025/05/27/666c844f8666f8f3148397557f448509.jpg",
+        "https://catalog-plans.ru/files/2025/05/27/27e0c7abca3503f0939be1800a6250f1.jpg"
+      ],
+      "sha256": "6462fdfc8f04dfc1af2c343112d72a692d62a4374aac9729c77188ee575df9e2"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 260303,
+      "project": "57-94",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/02/09/fe32160fbabfafb585f685e8296b943f.jpg",
+        "https://catalog-plans.ru/files/2015/02/09/91cd3e00d79fbc41c9dbe874ed70d87e.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/02/09/93b98a8f385993ee236514e10ca1284c.jpg",
+        "https://catalog-plans.ru/files/2015/02/09/db0abe43cea5819a0fead3bad85a5899.jpg",
+        "https://catalog-plans.ru/files/2015/02/09/bac8e7d7fbdc8cbb0e691560854ad5c1.jpg",
+        "https://catalog-plans.ru/files/2015/02/09/0f3da855de852a0ab168f2d1e3b23978.jpg"
+      ],
+      "sha256": "89ff37c675afa3a4375bca2026f31ed51427cf2638663df755ff28384fccf9b3"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 342188,
+      "project": "40-62GL",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/07/13/bdba8aa5f04e24869c16d1f1a1ecbc4f.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2020/07/13/296ed0678b5fb641f4dd21fa7e5b8e62.jpg",
+        "https://catalog-plans.ru/files/2020/07/13/ebcc87c7e951b667dc3026e224055afd.jpg",
+        "https://catalog-plans.ru/files/2020/07/13/dbd0f9fff0c80677a172eccc93725148.jpg",
+        "https://catalog-plans.ru/files/2020/07/13/458e13748e1b0c005648e5b566f6dc49.jpg"
+      ],
+      "sha256": "c1f5bf5de8da7a1562c9643e26137e1445880838d85da328c83f52b323ff92b0"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 250042,
+      "project": "68-04",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/08/15/9f186d109af1255158f349d1d4c2faf1.jpg",
+        "https://catalog-plans.ru/files/2024/08/15/b49166e2aecd5714435d02c12abee9d8.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/08/15/0193d5be1703de0dc79e99a8d9c3aced.jpg",
+        "https://catalog-plans.ru/files/2024/08/15/e7e1fe3a88a3fd3e871f45776fa5474a.jpg",
+        "https://catalog-plans.ru/files/2024/08/15/836f8e3f396b76392fafdffeb5dfff38.jpg",
+        "https://catalog-plans.ru/files/2024/08/15/8509bfed07fa6be78ab83d5b3c4d54ae.jpg"
+      ],
+      "sha256": "fd01a96b72f2be38317463749c5194f36bd19f9bb180be4ea3dc13dca88f8f03"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 256081,
+      "project": "65-66",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/03/11/a5e5b05f2e765f8122c44031ebb04a11.jpg",
+        "https://catalog-plans.ru/files/2024/03/11/273311f8a76ee5c08a5a8d300982aa9c.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/03/11/3f820323ced86c2f367abc2aa39db4cf.jpg",
+        "https://catalog-plans.ru/files/2024/03/11/20a506a028809b97988272017029500f.jpg",
+        "https://catalog-plans.ru/files/2024/03/11/23c402515af995f5801ff51c8515016f.jpg",
+        "https://catalog-plans.ru/files/2024/03/11/d98865934c8e5e68c43c1efb8630116b.jpg"
+      ],
+      "sha256": "eb792223a81e758c8e80dbb6702b59352ec57035eaa12cf23528228241f81213"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 303141,
+      "project": "45-08D",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/08/24/c2ae43a2f86c28ad2ac446e7a365e245.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2020/08/11/8de36ab27ba1df0a23b3f5787cac2540.jpg",
+        "https://catalog-plans.ru/files/2020/08/11/5d9110cb4069bb5247ccc358e65a8324.jpg",
+        "https://catalog-plans.ru/files/2020/08/11/0290660e5db12356123a0f03654069fd.jpg",
+        "https://catalog-plans.ru/files/2020/08/11/396ded2cedb4414517607f976e2896be.jpg"
+      ],
+      "sha256": "3d711e9eb0c63e5ad57c791a01c6311380a6bcd3978d25b5bcfbfe8997deb4fa"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 328240,
+      "project": "57-39Q",
+      "plans": [
+        "https://catalog-plans.ru/files/2019/09/06/5f354dc3dee60a5d7853fa90a8777484.jpg",
+        "https://catalog-plans.ru/files/2019/09/06/363a442a7cd48368795e8de37106d4e9.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2019/09/06/370d405355f4b4e0d428f6d409dfc528.jpg",
+        "https://catalog-plans.ru/files/2019/09/06/b628076d4ac7aa4c3677200f62e0b22e.jpg",
+        "https://catalog-plans.ru/files/2019/09/06/a695556d67b1548bc3a1481a9782280b.jpg",
+        "https://catalog-plans.ru/files/2019/09/06/ef100f5dfcb1efe5c34c083896aee124.jpg"
+      ],
+      "sha256": "56a9e19cec0ba301f9261c27647534a6c5ae996fd2bd43bc32bdf7dc17acef22"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 241674,
+      "project": "63-70A",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/10/11/398a0dd07d35927dc3e308ed8d982059.jpg",
+        "https://catalog-plans.ru/files/2021/10/11/d301a8cb0147e9e6910c06dc171bb25b.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2021/10/11/36f7e8bdaec4e35b4c091e26af3b846f.jpg",
+        "https://catalog-plans.ru/files/2021/10/11/b615f20f932b619cfe9a2282ad31cfcb.jpg",
+        "https://catalog-plans.ru/files/2021/10/11/2958f2cc82e921a8018ad98dbf1b0d93.jpg",
+        "https://catalog-plans.ru/files/2021/10/11/8033d2151f873574c01976370eae5b68.jpg"
+      ],
+      "sha256": "4048af5b011c821418bbff8e94041d5fb47e12ab33627bf773d851158e8f2b64"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 382197,
+      "project": "35-83",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/21/e3860b8cda3312ab15b528f9d4752d19.jpg",
+        "https://catalog-plans.ru/files/2015/01/21/a62266caca317946c045aa92b4ce87e0.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/21/59aeabd4e283308b0eb1566a0324b9cd.jpg",
+        "https://catalog-plans.ru/files/2015/01/21/212d0af983a3dcba96852626f97ea2cc.jpg",
+        "https://catalog-plans.ru/files/2015/01/21/d8b7d3d228966df5593a72df4168cb14.jpg",
+        "https://catalog-plans.ru/files/2015/01/21/c2d5123345917d49fd81b5eadde807bb.jpg"
+      ],
+      "sha256": "429268a6f288eab2ca191c9f0c0e326a0aeff2b0c1e33e264f6af59eb6d724f2"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 306851,
+      "project": "68-85",
+      "plans": [
+        "https://catalog-plans.ru/files/2026/02/04/9f2afca792dfaa0a302e80a1223050e7.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2026/02/04/5c873effecb5553a16ae043aeeef17fc.jpg",
+        "https://catalog-plans.ru/files/2026/02/04/6af0c875d41ba0e73aadde623a93332b.jpg",
+        "https://catalog-plans.ru/files/2026/02/04/a66c9625fbd700e8a3dd1247d5caaae5.jpg",
+        "https://catalog-plans.ru/files/2026/02/04/cd48485d7ca1bbb89515ecfe359b738f.jpg"
+      ],
+      "sha256": "7a6a7f034d99a3e4fec54811996bd694600fb57fdf178a3d131f94b1d167edd9"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 314717,
+      "project": "57-95L",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/06/18/59375a07cd9a82bb91e44c45a1022327.jpg",
+        "https://catalog-plans.ru/files/2015/06/18/c96e8baebabd649601ee5994ecc1c9d2.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/06/18/5575cfd69a3fbc846c6cf573efb45b26.jpg",
+        "https://catalog-plans.ru/files/2015/06/18/0f7624e16c73ea9ea830079505881ef6.jpg",
+        "https://catalog-plans.ru/files/2015/06/18/d2385b10fc2804e6c1049048b33599d6.jpg",
+        "https://catalog-plans.ru/files/2015/06/18/85dbe4ca5539a6529bba7955dafa2bfa.jpg"
+      ],
+      "sha256": "56b49667dd0e38e5c9a38b248049eec7f55a38caa951766a9381b55481d1146e"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 298667,
+      "project": "50-86",
+      "plans": [
+        "https://catalog-plans.ru/files/2014/12/07/b3b58c3247800721a8c50c7e8d687c75.jpg",
+        "https://catalog-plans.ru/files/2014/12/07/3f22e8142e6f4fcd67aaa49e18c51eeb.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2014/12/07/208da97adbe47fb9bb0b8ac374b858a8.jpg",
+        "https://catalog-plans.ru/files/2014/12/07/f686693746f2d002c92cae7950b13a49.jpg",
+        "https://catalog-plans.ru/files/2014/12/07/54f93bcc319ab0b307e9cf20e8864333.jpg",
+        "https://catalog-plans.ru/files/2014/12/07/f256c24ea748f2c265c5c7a438cb2e62.jpg"
+      ],
+      "sha256": "b658d48d4cafd64da2fc9b03811bd3c395eb0ccee1845ef308e7b46ab5f39bea"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 283328,
+      "project": "63-04",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/03/16/f78485f5fe2d05af45c1aa7f53cb6e79.jpg",
+        "https://catalog-plans.ru/files/2020/03/16/32eceecd1c57ddce479748eef2217b1f.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/12/23/6cffddb12196875f54ce8a9117ce8c56.jpg",
+        "https://catalog-plans.ru/files/2022/12/23/5b4cc6b24a4c1531d6e49f9dc10e9dfc.jpg",
+        "https://catalog-plans.ru/files/2022/12/23/937b1ad0ce74bde21a1cf6fd703eb409.jpg",
+        "https://catalog-plans.ru/files/2022/12/23/42e8f22c6757081904071f470cd90dc0.jpg"
+      ],
+      "sha256": "195e16d902c130adad26c76c7a7041d8403bdeb329ac87e2ccae5b90a1923ef0"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 264851,
+      "project": "61-49",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/06/03/c1476b796276dfd89a2cf6a58800757b.jpg",
+        "https://catalog-plans.ru/files/2020/06/03/ae73ff664dccaf552a81828c8573c978.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2020/06/03/2062ba18a2ebe0444427212b24df3bd8.jpg",
+        "https://catalog-plans.ru/files/2020/06/03/f17c744c4dca06748abd59df2184347f.jpg",
+        "https://catalog-plans.ru/files/2020/06/03/76e97935768468a7d31a0ee76740085f.jpg",
+        "https://catalog-plans.ru/files/2020/06/03/fb972f88992e833d75a7cba08e949bcf.jpg"
+      ],
+      "sha256": "555f09370869dab264fe939f90fd29f2b810ce508cbc96511eeee9dfe5e1a896"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 309573,
+      "project": "46-22L",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/10/12/cea37b397a1f5b90d8cc69e4b12c184f.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/04/27/fd10ce932d9a2d0809f419a345db399b.jpg",
+        "https://catalog-plans.ru/files/2024/04/27/5c93510d90381c7c431449b5e8f5c1a9.jpg",
+        "https://catalog-plans.ru/files/2024/04/27/9999f048f725ea9fcbdb7ea9976c9643.jpg",
+        "https://catalog-plans.ru/files/2024/04/27/b83eb45e3a5e2c9ea4d02a8d171ba861.jpg"
+      ],
+      "sha256": "ca582d2ad540975a9edb2eec93e8dad08c403b6be383897cd0485536fccfce99"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 310670,
+      "project": "59-85K",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/03/05/cd000d0cf93f7e67c4e10a733fa79ea0.jpg",
+        "https://catalog-plans.ru/files/2015/03/05/a5bcfdf2fd0cfb51862d575d0b488fae.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/31/ccd9b83858e84ccd8212159f41f565c5.jpg",
+        "https://catalog-plans.ru/files/2015/01/31/0d9ab28d9c3ce326e048052fe9e81b14.jpg",
+        "https://catalog-plans.ru/files/2015/01/31/ca7d713a3a615885436ae2f3970b2923.jpg",
+        "https://catalog-plans.ru/files/2015/01/31/34872fa9c771f4391adb500d563bf654.jpg"
+      ],
+      "sha256": "30cc91d2d492bc00756a227a20435e14f80194d6e0dc7927f6fa03694d6a1f3a"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 273289,
+      "project": "57-63",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/08/12/d64c5824912682eb315129132f1eafb6.jpg",
+        "https://catalog-plans.ru/files/2022/08/12/d6d2d1677f25e4899683037ed8673162.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2016/03/11/295710bb9172ea3cd20b743a8ab319fb.jpg",
+        "https://catalog-plans.ru/files/2016/03/11/d1d99cf613230c9e39836aa62550bd2c.jpg",
+        "https://catalog-plans.ru/files/2016/03/11/07d7160f3b30a73d88a2e2efd4c09734.jpg",
+        "https://catalog-plans.ru/files/2016/03/11/451d9edd886a086dfebf552e350fefcf.jpg"
+      ],
+      "sha256": "1562aed20c795419b0b1dc987f56c0edfece9c77976496bdf859fad6a569290e"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 335394,
+      "project": "59-93K",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/26/fa9b205724d1f33bb40fdc12c822d3ee.jpg",
+        "https://catalog-plans.ru/files/2015/01/26/11504f53c0595b0e362811c7a2fdf1dd.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/26/3af35f846c4ac011f1251100bf90f3da.jpg",
+        "https://catalog-plans.ru/files/2015/01/26/7ae7a94566bfe73419da135dccf4b547.jpg",
+        "https://catalog-plans.ru/files/2015/01/26/5eb15e13265a836793fb877081e5e48a.jpg",
+        "https://catalog-plans.ru/files/2015/01/26/a3dda120728408f8960aa4eef4764ac3.jpg"
+      ],
+      "sha256": "aaa0decffa0a25d96f0428f431595a0c7056c8a8b701eb430e7a280fa5002471"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 322468,
+      "project": "64-44AL",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/03/24/937ab220ecac4f4e33bcb1987a7eb4e0.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/03/24/f81ce311c882918b64f949355e94979d.jpg",
+        "https://catalog-plans.ru/files/2023/03/24/5bcd62859bf11ea76e3cf338c99cfd3d.jpg",
+        "https://catalog-plans.ru/files/2023/03/24/06e6e26fd18c77d67b37252571b6b432.jpg",
+        "https://catalog-plans.ru/files/2023/03/24/b11e5a40f18e788c6b779eff0d3ce574.jpg"
+      ],
+      "sha256": "8f0b471bc6d2fbb98515a658170a1dde65785299909cd893c94e3a403b847dc2"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 287025,
+      "project": "40-04BF",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/05/13/7c60349b9e948ec1a6c9b204a88bc9db.jpg",
+        "https://catalog-plans.ru/files/2020/05/13/eea5af974bdfe12563be39e851080440.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/03/26/bd7e534c01f197acc7a8f6c2b4bba171.jpg",
+        "https://catalog-plans.ru/files/2015/03/26/97548d085832a47753403bc8645d3d29.jpg",
+        "https://catalog-plans.ru/files/2015/03/26/31cb8917eab2d1f2d8c5a11c4d32299a.jpg",
+        "https://catalog-plans.ru/files/2015/03/26/7bd0946f83d286bda0dfb8e4759e23da.jpg"
+      ],
+      "sha256": "0b56b82746210fafa9dfcbe4ccf52924d52228c2a38aa1feffb1631c57b0ea78"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 255341,
+      "project": "58-87WL",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/07/01/b7134fbaaaf472bc2d7d7da3c3c411bc.jpg",
+        "https://catalog-plans.ru/files/2022/07/01/322efd6ba3e81f3c469be25c187013c7.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/07/01/71d18c78deadcd8bbed3f6f7087d1903.jpg",
+        "https://catalog-plans.ru/files/2022/07/01/53c47cecdb3ed31d726ae1349edfaa0f.jpg",
+        "https://catalog-plans.ru/files/2022/07/01/0c5456683840b3722cfce4c8d931ddbb.jpg",
+        "https://catalog-plans.ru/files/2022/07/01/5c7140202b24ec88a9fa9c3ec3f0f62c.jpg"
+      ],
+      "sha256": "4d84a6ba4e6d29d50822c095d6c5c72ff8516d0d5747c758528f925342fefb1b"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 272594,
+      "project": "58-29K",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/02/06/0f895f603a049b116c3e9bd16124448b.jpg",
+        "https://catalog-plans.ru/files/2015/02/06/68f56908020b455542d6d93028be694a.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/02/06/e3652c90d3dd01c76d1b43736ba82357.jpg",
+        "https://catalog-plans.ru/files/2015/02/06/db233a37749c849dfca6dae59d8ba0df.jpg",
+        "https://catalog-plans.ru/files/2015/02/06/518d8849fc3e79017e68e9387a56951c.jpg",
+        "https://catalog-plans.ru/files/2015/02/06/39ac9ee40cf972c28fe708da1dec8094.jpg"
+      ],
+      "sha256": "04fcaa20c806cda8440dbbbc1cb6350e4e3a115288a25ccf317fbf9b3c99562d"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 338526,
+      "project": "57-00D",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/01/18/5a0d851d22b059f1770516729f9506d3.jpg",
+        "https://catalog-plans.ru/files/2024/01/18/7b8e78e8245a25f2afcc11dfe6ad50be.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/03/19/d1fd33ad7150caccf0e602fe20966ebd.jpg",
+        "https://catalog-plans.ru/files/2015/03/19/39e33696ce2752bf28145f416a996180.jpg",
+        "https://catalog-plans.ru/files/2015/03/19/5af41e726aad0af93e968c072fafa955.jpg",
+        "https://catalog-plans.ru/files/2015/03/19/646445d87fbc9739e022cf4a5f881b51.jpg"
+      ],
+      "sha256": "c923b4eeb0a1300ef3bc2e265ce37be9d4a931230fd7afc9e4233d51b451610d"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 240630,
+      "project": "45-08TABG",
+      "plans": [
+        "https://catalog-plans.ru/files/2025/01/10/5db3717c764f3985c903b66df328fb1c.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2025/01/13/ed303f5485f7983462d1b446fb9bdfc6.jpg",
+        "https://catalog-plans.ru/files/2025/01/13/0b6ed1bdccd10ae9e59d846db6980eaa.jpg",
+        "https://catalog-plans.ru/files/2025/01/13/08ab782e8e308190cc90dbfe37e39736.jpg",
+        "https://catalog-plans.ru/files/2025/01/13/f85df705ffbb52fcc8a4cd0c771f42cc.jpg"
+      ],
+      "sha256": "277775d07e62a3245111e856c9dd2ab89b596fed662fef53e5916418183a0ef0"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 298858,
+      "project": "45-64NTGL",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/02/29/cded71f3cbcb741a8442af119110a8f7.jpg",
+        "https://catalog-plans.ru/files/2024/02/29/67b11df5f8de435e838c8324cf513120.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/02/29/d83f18336aad795c807611d9fcafc8d8.jpg",
+        "https://catalog-plans.ru/files/2024/02/29/c2b9b58d76236d30e03b8c249c3d98b6.jpg",
+        "https://catalog-plans.ru/files/2024/02/29/71509ac45860173d11516a6bd21c7b3b.jpg",
+        "https://catalog-plans.ru/files/2024/02/29/8057a3264b5db8cf9f8a678283dc93b7.jpg"
+      ],
+      "sha256": "a006857de57eaa02d534b2fd010ffa0fda2de893bcba32fc64a6c4208eda7c6a"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 445848,
+      "project": "40-11CVL",
+      "plans": [
+        "https://catalog-plans.ru/files/2019/09/30/a602899018f99928ae96499a4839e328.jpg",
+        "https://catalog-plans.ru/files/2019/09/30/e87d1078ab652497d41d38bad7434eba.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2019/09/30/621e44e1eee99b696f3f62ef780767fe.jpg",
+        "https://catalog-plans.ru/files/2019/09/30/49a9f655e7685a75e5137a0b8fd5f724.jpg",
+        "https://catalog-plans.ru/files/2019/09/30/8ec4fad1d20aa29e5c502b202507983d.jpg",
+        "https://catalog-plans.ru/files/2019/09/30/819c30e984c588bdda96ac3bf0458ed9.jpg"
+      ],
+      "sha256": "6d08cd3d186b669e6ed9f1129eacb4000fef6006853ac97128f1b757479ff021"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 284329,
+      "project": "62-71BSAMK1",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/02/20/681820ad56f1705da9333896fbecdf9c.jpg",
+        "https://catalog-plans.ru/files/2023/02/20/b64893bc5c34ee4a4688930eab396cb2.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/02/20/6d86d9184f05633e4f4a65dbda0ce1aa.jpg",
+        "https://catalog-plans.ru/files/2023/02/20/f96e46c87cc3578a87ed087eb6b65937.jpg",
+        "https://catalog-plans.ru/files/2023/02/20/9da6db867cef83f8ce98421faee26924.jpg",
+        "https://catalog-plans.ru/files/2023/02/20/09e00ce8af2e43e9c02836e7edea9445.jpg"
+      ],
+      "sha256": "ef9f43e8a1b662d035b51c45ae2ce8ea6c5500692ea4af16d7877ee11434919f"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 351349,
+      "project": "57-15ABBK",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/12/20/91dc1dcdf1e2a2fb0a49e9bbbec528b5.jpg",
+        "https://catalog-plans.ru/files/2023/12/20/860603646a5f02ce2d7619d1056fa4dc.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/12/20/49cc4c346bbecee9c81cd3d4255e23c2.jpg",
+        "https://catalog-plans.ru/files/2023/12/20/d281d824f1df0373c467b04d2440f175.jpg",
+        "https://catalog-plans.ru/files/2023/12/20/edd286b2c895fce25d4c79a784a31841.jpg",
+        "https://catalog-plans.ru/files/2023/12/20/a54b09765493b9967b5cba00355b1d67.jpg"
+      ],
+      "sha256": "76567aabe3d8e24d74b3344b7ac117cd7e4126645d76f554460390d67386325c"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 340421,
+      "project": "53-20",
+      "plans": [
+        "https://catalog-plans.ru/files/2014/12/11/1a826e80e43a68523bb7a9bf89205433.jpg",
+        "https://catalog-plans.ru/files/2014/12/11/05e6911c9a3d2e4049731ad27c4d5d87.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2014/12/11/5747f5498cc9c3a0b6dbc9937a9b4788.jpg",
+        "https://catalog-plans.ru/files/2014/12/11/809e212907410a529e6521b3f1e63580.jpg",
+        "https://catalog-plans.ru/files/2014/12/11/0cf67a20f6dc3c8214ea21011480c121.jpg",
+        "https://catalog-plans.ru/files/2014/12/11/b72e24a47db66859a0a94f2657c3016a.jpg"
+      ],
+      "sha256": "e5a1a46576b2a91f687d96de4e745882c8d144c43ef60f454dd42cf46fcba811"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 308781,
+      "project": "40-49AL",
+      "plans": [
+        "https://catalog-plans.ru/files/2016/07/05/3ffdef4b08fa7ea3a2375ea7653b8019.jpg",
+        "https://catalog-plans.ru/files/2016/07/05/19234e8624beaffad15c59525ba7f0fd.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2016/07/05/dda40951a385dc45505e8ddfc03a4a92.jpg",
+        "https://catalog-plans.ru/files/2016/07/05/db89bc54d252719c8e1b9173b7b8131e.jpg",
+        "https://catalog-plans.ru/files/2016/07/05/a5cfe5cdff3f0b43b560fd2ba7b90efd.jpg",
+        "https://catalog-plans.ru/files/2016/07/05/c1d73b1955000d2de03087e00be3eafa.jpg"
+      ],
+      "sha256": "dbd484ce7a307e769547fc37c13fcb9545cba5867f7aa10f41c69245aa6c98eb"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 298542,
+      "project": "57-21KL",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/11/19/a63e8c4f47472598ce27e4dbdf3d4211.jpg",
+        "https://catalog-plans.ru/files/2022/11/19/4e471e250010445eba87a5c03db87b6b.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/11/19/a978a2a5a206c0df55803151e15a3582.jpg",
+        "https://catalog-plans.ru/files/2022/11/19/c59a1e0bd88331be2476d766cd8a5a4a.jpg",
+        "https://catalog-plans.ru/files/2022/11/19/c00c9a845ecfaea24250b0b29ceb5811.jpg",
+        "https://catalog-plans.ru/files/2022/11/19/95fa3dc37aa4556905d3eb02d70ca23f.jpg"
+      ],
+      "sha256": "8309a166e26ff5ae91762020cfa7439e4e655de70669cf56b080f54bbabe7f5c"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 286828,
+      "project": "57-24A",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/12/01/be8b3db4b75c5d24aa85026ed3d1de3f.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/12/01/9c539076426fd2a3dd46635607dac432.jpg",
+        "https://catalog-plans.ru/files/2015/12/01/31fd581465a160f7cb6e3949ad2c610e.jpg",
+        "https://catalog-plans.ru/files/2015/12/01/44a61d0f10beed72ce716843212151b3.jpg",
+        "https://catalog-plans.ru/files/2015/12/01/85030e225f2978835c1fee901375f0ef.jpg"
+      ],
+      "sha256": "81d5a2eed6824834937e6cd86986f1b562c6aeb6a8090add392538957b54847d"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 289770,
+      "project": "33-00",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/23/1d5a2dbb3619275bb065471237ce8a2c.jpg",
+        "https://catalog-plans.ru/files/2015/01/23/fa0f99e89cd1953957140cc03b7f0450.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/23/d726d9a45be621b308e5eb7de11957f7.jpg",
+        "https://catalog-plans.ru/files/2015/01/23/4d88254685e200a41acd3905e4330307.jpg",
+        "https://catalog-plans.ru/files/2015/01/23/dca4a3947a1ddfda8ab2c57a2c751fff.jpg",
+        "https://catalog-plans.ru/files/2015/01/23/a77eb9fb37fe471aa04568a26f02d687.jpg"
+      ],
+      "sha256": "45c0da4c957e3937accdbf356e0f039e9799280257ac6c53c0f3edebcdc3b073"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 282335,
+      "project": "40-32",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/02/07/57076da5c706bc8b953c8c6232ddc110.jpg",
+        "https://catalog-plans.ru/files/2015/02/07/322c754f24597b76f4bd7e5a15d1870d.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/02/07/c759636b6375627d8ab5d62609399bcd.jpg",
+        "https://catalog-plans.ru/files/2015/02/07/b7025ff3b2290682f7983110abca33b6.jpg",
+        "https://catalog-plans.ru/files/2015/02/07/d3f718e999f695f2f757a17c7e838c11.jpg",
+        "https://catalog-plans.ru/files/2015/02/07/762347a07bc1d44c8a889777165cd3b5.jpg"
+      ],
+      "sha256": "890f18956a6cef0602da46576ad9fb7bbc42639b4be11f50b5b5816aa421cd68"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 323730,
+      "project": "62-22NADAG2",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/06/28/544148d1065f2b1ff2e744d1b9eb2821.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/06/28/b70b238e53928ed0e3c413191fcb36c3.jpg",
+        "https://catalog-plans.ru/files/2024/06/28/ee28634260e873e40008644eedb1ce45.jpg",
+        "https://catalog-plans.ru/files/2024/06/28/24e282518d3079d00ad97c1bac230381.jpg",
+        "https://catalog-plans.ru/files/2024/06/28/6683a6e4bd07d32150b6873127aba27d.jpg"
+      ],
+      "sha256": "4209762ad02ff7c20fb52e945d1ecfe51823e02d07433ddfa033998ab80ca658"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 247403,
+      "project": "40-84DAG",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/06/30/1b3e373c9f2f7528da7fefb58432104c.jpg",
+        "https://catalog-plans.ru/files/2023/06/30/684eb98f76fcfda39ea93244d4702781.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/06/30/30b1a01ae33af7607ec6f5db6730c31c.jpg",
+        "https://catalog-plans.ru/files/2023/06/30/e76e31aa0cad4464b842c1bf43de9e9d.jpg",
+        "https://catalog-plans.ru/files/2023/06/30/167f38d6405be9e6446fc0f51137dd5f.jpg",
+        "https://catalog-plans.ru/files/2023/06/30/2fc765b5dcccb32f01d6133772e6155f.jpg"
+      ],
+      "sha256": "a60d38f35b1f99f309076ad54e739d0c66c5d2edf9fb7ed41fb923f4f84c1326"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 227970,
+      "project": "62-63A",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/02/04/6b67543718268c4e0a19c42ea7b4b3dc.jpg",
+        "https://catalog-plans.ru/files/2021/02/04/4771ba26f4f04550848bd87e8b87b782.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2021/02/04/7761e2e42d204c7deaece4d199464ba1.jpg",
+        "https://catalog-plans.ru/files/2021/02/04/a8b28b8f32c3f37f94ebc9b972f29d44.jpg",
+        "https://catalog-plans.ru/files/2021/02/04/5eced670897bba7ee136082022db3bf7.jpg"
+      ],
+      "sha256": "887f0786a4baea6edce326065a307d44a333f8a04d31325efca628374f217b55"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 316306,
+      "project": "70-83",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/09/04/e7b086f19e00dbf33ea9c329b06caef9.jpg",
+        "https://catalog-plans.ru/files/2015/09/04/b422b1fb00e63cc4c4639bd258e3d302.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/09/04/14fd3d8df918a349d6f343df833eafc8.jpg",
+        "https://catalog-plans.ru/files/2015/09/04/c75a526e3437fa73f8042cfc8cc79cc1.jpg",
+        "https://catalog-plans.ru/files/2015/09/04/e8ad33cb22280623fdd1e8a650f2819f.jpg",
+        "https://catalog-plans.ru/files/2015/09/04/fdcad5caf23b5115c41f5a9400b2e4bb.jpg"
+      ],
+      "sha256": "01923bfcc39b5a35941098dad467bb8d84d8aa30e7104a4db4f766119c60883d"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 255769,
+      "project": "65-21",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/07/21/2f94f537e4dc2e28c24dbd677c50d024.jpg",
+        "https://catalog-plans.ru/files/2023/07/21/c17b940a43c6ae540de8da7e911a5fc8.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/07/21/d76202b7e214dbe40613cd0107575911.jpg",
+        "https://catalog-plans.ru/files/2023/07/21/e6b1dabc68ff5e08e4726438f7c775b5.jpg",
+        "https://catalog-plans.ru/files/2023/07/21/c39edd7f34a57d3871faf363deab4743.jpg",
+        "https://catalog-plans.ru/files/2023/07/21/55af31b57ed7c86e4d178ff214be2465.jpg"
+      ],
+      "sha256": "3833b7770523f4706c8adf725524c97ed5957be912600ae74457cb549207e590"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 280735,
+      "project": "49-09",
+      "plans": [
+        "https://catalog-plans.ru/files/2014/11/28/9d2e3a4491725c1a12806febd9fb17d8.jpg",
+        "https://catalog-plans.ru/files/2014/11/28/97b6d57b0fdbe5c65f5f7cb5129c7080.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2014/11/28/51e873c1156c4fbc702b3da2a4343ba7.jpg",
+        "https://catalog-plans.ru/files/2014/11/28/f9b4df5ea9a9f387e75904d3b4e57505.jpg",
+        "https://catalog-plans.ru/files/2014/11/28/e1d54ba2ade4c36a556c5717456e4c65.jpg",
+        "https://catalog-plans.ru/files/2014/11/28/c3767a661bdfff1672aaf4ed4b054acb.jpg"
+      ],
+      "sha256": "f3fda46560a46e3a43768e7ed9dfdfa4b2253498672d6958b4eaa3ce965becdb"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 277736,
+      "project": "63-31",
+      "plans": [
+        "https://catalog-plans.ru/files/2019/11/12/7ac3cc97b84ea4c7e04143b23cecd70f.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/10/02/1670e2e9dfa43b1165130f40afea7c04.jpg",
+        "https://catalog-plans.ru/files/2024/10/02/a05f7d28e6c6a0c942867d3abbe08b5b.jpg",
+        "https://catalog-plans.ru/files/2024/10/02/2e9b3fe41808af23616fd1c62e9546b0.jpg",
+        "https://catalog-plans.ru/files/2024/10/02/515558d25dc7a709f34ac624bb4ad4a6.jpg"
+      ],
+      "sha256": "da2177b107c7d410c25a608a4f36e7a64ccecd10f324a275caafa13b5d5739c5"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 285977,
+      "project": "58-06",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/02/05/445b7d3f4b9202c50dae67582c86991e.jpg",
+        "https://catalog-plans.ru/files/2015/02/05/ad33461198bc56437a1df1f8ed7c0c26.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/02/05/eb95a13c3533baeb875f32508dbadff0.jpg",
+        "https://catalog-plans.ru/files/2015/02/05/da1645c06af26759f7ee2ca0c887b9fb.jpg",
+        "https://catalog-plans.ru/files/2015/02/05/ead848bb48083adab28063c516f31b6c.jpg",
+        "https://catalog-plans.ru/files/2015/02/05/73e7f41e0c1e6a1fc0e1ea27cffb4322.jpg"
+      ],
+      "sha256": "5c8daa48714b6aea04c54c3acdba183fdedb935e1813e41fa420d82950d81354"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 267144,
+      "project": "62-11BMK",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/06/28/961131c275f066a801703aa2083f061a.jpg",
+        "https://catalog-plans.ru/files/2024/06/28/b9e5eaf8a1ec7ea4d9a7c7361976f370.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/06/28/7524dfea83b6984d203788febf53af1f.jpg",
+        "https://catalog-plans.ru/files/2024/06/28/4d616f7d40d9def6fa24e39676a36802.jpg",
+        "https://catalog-plans.ru/files/2024/06/28/7538aba2cf2e1a50d198f59d152b7280.jpg",
+        "https://catalog-plans.ru/files/2024/06/28/1470ab33d4d977f57ab00e93423f7881.jpg"
+      ],
+      "sha256": "12119be5e91ff46e555c28da30cf08ad8ec98d6d75bbffa6def43916f883c2b1"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 314812,
+      "project": "57-18K",
+      "plans": [
+        "https://catalog-plans.ru/files/2014/12/19/ac77f9217b13e69c1c50023d28c9dbf7.jpg",
+        "https://catalog-plans.ru/files/2014/12/19/fd4c40b7f1b43b6625611f5fc60cc20d.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2014/12/19/9e9edc08fed71467785e975531b6828a.jpg",
+        "https://catalog-plans.ru/files/2014/12/19/5bc4750f0df950715f7b328cbddc7a0a.jpg",
+        "https://catalog-plans.ru/files/2014/12/19/b219a6b34707cdb7211e3dd22447f8d3.jpg",
+        "https://catalog-plans.ru/files/2014/12/19/26e6478da48515ff9f152cc549a946c2.jpg"
+      ],
+      "sha256": "ab7815996e7028a6904b7818c445efd3b92722228cce4b63ffed47a0902b51e6"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 365249,
+      "project": "57-12EL",
+      "plans": [
+        "https://catalog-plans.ru/files/2019/09/02/f8dbb013118856c92aba375015955caa.jpg",
+        "https://catalog-plans.ru/files/2019/09/02/5e27a4ee6d751db42cf3170e4cb8dc49.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2019/09/02/b601fc2cf44e4b48b9bd008272304ece.jpg",
+        "https://catalog-plans.ru/files/2019/09/02/dd13cd558fae18842f40bbc06b1a7e3d.jpg",
+        "https://catalog-plans.ru/files/2019/09/02/49f657b800df0ff0a1dcd520d5c9a2dd.jpg",
+        "https://catalog-plans.ru/files/2019/09/02/ffe89cc8c61caa527283cf710bff43e8.jpg"
+      ],
+      "sha256": "d3a9cd68215d8167cda5beb303dbe5e01afc6eedbd4ce6122cf0690474167e5f"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 256690,
+      "project": "40-59G",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/07/13/478fe5577f392015bf717cbe33786283.jpg",
+        "https://catalog-plans.ru/files/2020/07/13/6e894d5c58eba282740794b670c34219.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2020/07/13/5ea5643a7b346e7d06d1f8bed9355479.jpg",
+        "https://catalog-plans.ru/files/2020/07/13/95c801f98d0284638506517178b3ba31.jpg",
+        "https://catalog-plans.ru/files/2020/07/13/5d4b50a8052ad0bed5a5898b9f06bd95.jpg",
+        "https://catalog-plans.ru/files/2020/07/13/6f400cf447f657d924a5ff445d54a98a.jpg"
+      ],
+      "sha256": "094fed51f18391b31143ec6243524880bd34addf6e310408484a2252b32fcfc4"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 260578,
+      "project": "62-20BAB",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/07/14/610cdea365e844fbfc1b50f6f3694fda.jpg",
+        "https://catalog-plans.ru/files/2021/07/14/274e631ed159ac1bc0998a6c433d6542.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2021/07/14/b116038f920fb7344f8c413d88fca85c.jpg",
+        "https://catalog-plans.ru/files/2021/07/14/34b395e5091831f53a49aab32c579c3d.jpg",
+        "https://catalog-plans.ru/files/2021/07/14/8e93f88bfd2af01548afc3ab39cea163.jpg",
+        "https://catalog-plans.ru/files/2021/07/14/49d3fc7610610773de814a296c15db78.jpg"
+      ],
+      "sha256": "1253a288bbe78dff375615673e4e3b707ba51ef0c722c44858b430dc38c46cb3"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 272310,
+      "project": "58-92DL",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/09/30/0db401496e9ae77b78d861237cbd5bd4.jpg",
+        "https://catalog-plans.ru/files/2020/09/30/1212370cc8997c824ebfa2e3af8a74bd.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2020/09/30/4bbfc35bc5bb0e43eb77f0987a3daea8.jpg",
+        "https://catalog-plans.ru/files/2020/09/30/3dc18e6fb663f119bf9b2f12dbd780d7.jpg",
+        "https://catalog-plans.ru/files/2020/09/30/0a2bd6ec0a802b9acdd97daec864440e.jpg",
+        "https://catalog-plans.ru/files/2020/09/30/b5537a27dcbbdc6e67f9f84f9a5a32bf.jpg"
+      ],
+      "sha256": "44d2a85fd1f3917a952e0bdddae62553c2a0abf896bb3fc50b17d9433d5b50cf"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 333330,
+      "project": "57-85KL",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/02/08/1fb0f709afb33883afd64430f5f57a99.jpg",
+        "https://catalog-plans.ru/files/2015/02/08/c5e201d7f9f900029ecf319715dfe7ec.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/02/08/a65767200fa6dbba1e29eccddae76cd3.jpg",
+        "https://catalog-plans.ru/files/2015/02/08/58e1482636b719d3704e35fabdaea362.jpg",
+        "https://catalog-plans.ru/files/2015/02/08/f538bcff46e67829db25b856e11104d2.jpg",
+        "https://catalog-plans.ru/files/2015/02/08/95b8a80c4c9bb40f0016774c9cab59cc.jpg"
+      ],
+      "sha256": "3d088218574538f5883bc88e3947bf845a47330236ab7220b1284fd13247e5b9"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 302189,
+      "project": "64-59ML",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/12/29/335b0b9c2fd1c5259f3b5ab93f775ebb.jpg",
+        "https://catalog-plans.ru/files/2022/12/29/1402ea58fd21bdcd6edb01734395eaaa.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/12/29/50b9bfba2b640c484fe64cfe59410346.jpg",
+        "https://catalog-plans.ru/files/2022/12/29/2697deeaf21dcddf1f80d856092df64c.jpg",
+        "https://catalog-plans.ru/files/2022/12/29/02c8592ad082e32f99f9cdbd40701697.jpg",
+        "https://catalog-plans.ru/files/2022/12/29/ab13adf7499e299fcb4b9a9fefc24f77.jpg"
+      ],
+      "sha256": "9ba623289838cc3a083a9fa9e239f6bb710f74e1f214c624166dd6c5744796d1"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 280022,
+      "project": "48-29QL",
+      "plans": [
+        "https://catalog-plans.ru/files/2016/09/09/2d82d740815371dc01c347eab49d2203.jpg",
+        "https://catalog-plans.ru/files/2016/09/09/c27510d461e3f053461f706c59c1490a.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/02/15/a0e0497e937822464788d701f2696e3e.jpg",
+        "https://catalog-plans.ru/files/2015/02/15/694b23e7a9364387d0b183e21e16fa5f.jpg",
+        "https://catalog-plans.ru/files/2015/02/15/a12a79d904c2d8fbb51ce036f580fffa.jpg",
+        "https://catalog-plans.ru/files/2015/02/15/cec01fdc2611d301b21d22620da4651f.jpg"
+      ],
+      "sha256": "6c663f8d3c0c5108515030a2ae9deadf305320c3bc3a5ed2fddfcece6e712890"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 264820,
+      "project": "45-64ZAFGL",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/08/22/faded301740fecfd392e90bcf0cefe57.jpg",
+        "https://catalog-plans.ru/files/2022/08/22/3e60dcfc61c5c6e0c0b177adc744e1b4.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2025/09/01/294516a00f9d130e0b9b465de4bfafcf.jpg",
+        "https://catalog-plans.ru/files/2025/09/01/02d198ca2e9b35dc9c2ef27fbb202707.jpg",
+        "https://catalog-plans.ru/files/2025/09/01/e616252e9e006de08943838b7e2728b6.jpg",
+        "https://catalog-plans.ru/files/2025/09/01/3b3a95df4ebeaf5649fc3fddc0ba54ac.jpg"
+      ],
+      "sha256": "89dc43bf98c2e54be0ae5ec9d5f005adbbbdafec1659972660feab870d73d5d5"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 326295,
+      "project": "57-14",
+      "plans": [
+        "https://catalog-plans.ru/files/2014/12/19/68d1b2f176c0e6b03bfcb651ae47d64d.jpg",
+        "https://catalog-plans.ru/files/2014/12/19/0f9fd713ade7ffa09e31c1feb90f0b7f.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2014/12/19/9088ba3806154cb2a7d00109fc9deaf8.jpg",
+        "https://catalog-plans.ru/files/2014/12/19/fd99ec66f64b29ff9dfef0b3975ef6cc.jpg",
+        "https://catalog-plans.ru/files/2014/12/19/4b8e448ce8af598a890e20fc6efcea81.jpg",
+        "https://catalog-plans.ru/files/2014/12/19/22f75ed1fcd4dfce17ab17e376aa1d74.jpg"
+      ],
+      "sha256": "1b4236b0787dcae406e7a25350304205dc870d2f689e0401f5d2c60cc4b729b4"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 245233,
+      "project": "62-71D",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/07/21/5c30d74cfe38e940b36b6787dc244842.jpg",
+        "https://catalog-plans.ru/files/2023/07/21/8ba76a9a44271dd9d8622b3604cc7078.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2020/04/01/592083bc164a4f639ef40757b71c1cf5.jpg",
+        "https://catalog-plans.ru/files/2020/04/01/a0fe4fac9adaa64b624e0f8406ec9652.jpg",
+        "https://catalog-plans.ru/files/2020/04/01/0bab24db4b98ad945e33e922d2aea475.jpg",
+        "https://catalog-plans.ru/files/2020/04/01/dcb7c070cecc8cee5e0189c4fa09e1b7.jpg"
+      ],
+      "sha256": "71ac8883f1ebf20c7596bd379e43fac2fc448288222a8c4ef568a7c8bd9e6933"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 256867,
+      "project": "62-71BADL",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/02/08/021b7d00f7ae6b47c55524d69a631e62.jpg",
+        "https://catalog-plans.ru/files/2021/02/08/aca6560472edf144969c2659d96485ad.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2021/06/01/89695ade59a9980fc9edf270907ae843.jpg",
+        "https://catalog-plans.ru/files/2021/06/01/fcb01d4cb25a3e1c1559e3171340d8ce.jpg",
+        "https://catalog-plans.ru/files/2021/06/01/444c4811fd1d936c964364f239fa1519.jpg",
+        "https://catalog-plans.ru/files/2021/06/01/326c4fdf7800ebd863b292b75b7f514d.jpg"
+      ],
+      "sha256": "fbfdb41dfdcdd7e0f0120f0772979f6494008da7d452b6dc88c16715cc844556"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 312191,
+      "project": "55-00",
+      "plans": [
+        "https://catalog-plans.ru/files/2014/12/18/3d9640b241d5f8b53fdddc4c3acfebc2.jpg",
+        "https://catalog-plans.ru/files/2014/12/18/e15ba7c54be7eb085e391f63e03872bb.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2014/12/18/31e1fb9ae1099f07b672a7601a9d6422.jpg",
+        "https://catalog-plans.ru/files/2014/12/18/179ea599a638645ebd03fca65854dc79.jpg",
+        "https://catalog-plans.ru/files/2014/12/18/0aab424d6b9727f21e7e0f5215c023a2.jpg",
+        "https://catalog-plans.ru/files/2014/12/18/49b062bd9a6532e8aa153f7e05dcb15e.jpg"
+      ],
+      "sha256": "b294ad2dce3152511a1c685de98fd6a9d26dfe207d8bdeafc41cfa1b98b6f95d"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 263682,
+      "project": "45-64ZAWG",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/03/31/45eb23bf24ab6f92146ec831718d4248.jpg",
+        "https://catalog-plans.ru/files/2023/03/31/55805a01b7a3fc88193caed2d663bd56.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/03/31/d8bb6f5f7aa44b12400580adf1bc3e5e.jpg",
+        "https://catalog-plans.ru/files/2023/03/31/72cfb67a0bf9ca5c56d828831fde2b40.jpg",
+        "https://catalog-plans.ru/files/2023/03/31/5140cca6986522160cd50222230a8cfb.jpg",
+        "https://catalog-plans.ru/files/2023/03/31/6dfa750d23203603861191c40c0c76de.jpg"
+      ],
+      "sha256": "72881aa009a6ee2ce6c43a0dfce22a3090a84fdb7e472721f55441fff5e6992e"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 277972,
+      "project": "48-24G",
+      "plans": [
+        "https://catalog-plans.ru/files/2019/09/02/1989c34e4c499dc37c040d52431e337d.jpg",
+        "https://catalog-plans.ru/files/2019/09/02/5b58f7f12f3744a23b46f3d352db5a75.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2019/09/02/e59bec4e971a5d2f1b1f613f5ad0240d.jpg",
+        "https://catalog-plans.ru/files/2019/09/02/5d7f6e12f0b1bdc8348c6631e3931b5b.jpg",
+        "https://catalog-plans.ru/files/2019/09/02/cc0a2c29b82e83d89aa0c86385edbb30.jpg",
+        "https://catalog-plans.ru/files/2019/09/02/6ef7338df6555bdf824650bf8dd9f1ef.jpg"
+      ],
+      "sha256": "529ef4bcca3a13fc4239799a3d2b91d1ba1c5cdc4aa736b33a0181150fce40be"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 441038,
+      "project": "52-91",
+      "plans": [
+        "https://catalog-plans.ru/files/2014/12/11/82c84392c5a16854925c1eb9eed71cb6.jpg",
+        "https://catalog-plans.ru/files/2014/12/11/c043416221f57c09086e9472c96d71bd.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2014/12/11/452aca17604ad5ab4433d802fa2dbbc4.jpg",
+        "https://catalog-plans.ru/files/2014/12/11/6a53557a2346f7015cb4b3561c9c0210.jpg",
+        "https://catalog-plans.ru/files/2014/12/11/0632f6968217a264889f058ccab550d0.jpg",
+        "https://catalog-plans.ru/files/2014/12/11/372f746f6250f2ce37204365f467f272.jpg"
+      ],
+      "sha256": "9d7eea9298c79ea5ab1209a4c3a303debb510e8ad3ef073ba25349ee115f7f8f"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 222542,
+      "project": "67-00",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/09/20/b46336a0bdada255d66fb13999180c99.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/09/20/a9a6faa6ba97f85d2ed00e73e61039b8.jpg",
+        "https://catalog-plans.ru/files/2023/09/20/6e3de26313b80d70532d24a25fd0dce4.jpg",
+        "https://catalog-plans.ru/files/2023/09/20/8c67ce5863e45adbf0eca074f8f3e767.jpg",
+        "https://catalog-plans.ru/files/2023/09/20/b35983d32abe657b2eefdd161e3179c8.jpg"
+      ],
+      "sha256": "73cbc6866f2f8015e4de2c291eadb7cad18e375279a0458c1161284e1a6ec4fa"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 263839,
+      "project": "62-67A",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/03/10/183268b1509cf94207a631dae3f0edaa.jpg",
+        "https://catalog-plans.ru/files/2020/03/10/aa8333495591c6d297ebcb74dd8adfa9.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2020/01/09/05c4b26633a8dd6dac573104ea6671a4.jpg",
+        "https://catalog-plans.ru/files/2020/01/09/afa0690c220caef1050b2b4a117a09ed.jpg",
+        "https://catalog-plans.ru/files/2020/01/09/21ef44395ddf5cc754c3fa394a9b9b38.jpg",
+        "https://catalog-plans.ru/files/2020/01/09/540f934cba16b03a92bdbba843d0d459.jpg"
+      ],
+      "sha256": "48d7fd75b903dffb42463f70f375c30a8f0ac4609e64c40bcc911c8daf6e22cf"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 272227,
+      "project": "48-24GF",
+      "plans": [
+        "https://catalog-plans.ru/files/2017/04/17/4e019aa4388508d6a4c707c9a27ae399.jpg",
+        "https://catalog-plans.ru/files/2017/04/17/133a1f348fa27daa3b795a4cfc83dadb.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2017/04/17/1ec25abf1ba14d743592e9c77ca66c0b.jpg",
+        "https://catalog-plans.ru/files/2017/04/17/5cca0255556a64b5b117caee4e8f4c81.jpg",
+        "https://catalog-plans.ru/files/2017/04/17/5bbfee427020262af029ba73c3cd2a2e.jpg",
+        "https://catalog-plans.ru/files/2017/04/17/c0b63e50b495e093ef8dc88ac93ceb3f.jpg"
+      ],
+      "sha256": "3343688d6c1832bf18c1e9a1afd07741be0dd243e994b0ebabe7316c2e6d085c"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 339217,
+      "project": "36-50",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/18/7740f31f2dae6547b93c6eb8ed20f0f3.jpg",
+        "https://catalog-plans.ru/files/2015/01/18/32fff82fe1cd11d6f0017252312b829e.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/18/95b222050849169aacfbb2c57401ab68.jpg",
+        "https://catalog-plans.ru/files/2015/01/18/4889a4079b11b764cd8846366f4788ef.jpg",
+        "https://catalog-plans.ru/files/2015/01/18/a1c019e581c51df794d815f24bd3e693.jpg",
+        "https://catalog-plans.ru/files/2015/01/18/be8b7557b7b0cd0c0ef39a9dbecd6c33.jpg"
+      ],
+      "sha256": "36299afa007760654b185a186b0b2bba516bd87bce0d1a876beb79ac7e578f03"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 279877,
+      "project": "58-70XA",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/09/29/8275896d712a55f6a37906f94a21cbc6.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/03/29/dc3fbd246c7852434e0c6ce85ac560a0.jpg",
+        "https://catalog-plans.ru/files/2023/03/29/4db0c10bf908ee368bc70d8b1d4a85e7.jpg",
+        "https://catalog-plans.ru/files/2023/03/29/3589ea8b34da869ca5c9cdd93b9aab83.jpg",
+        "https://catalog-plans.ru/files/2023/03/29/5f01ff8cac715e27f2f1599e168c46d7.jpg"
+      ],
+      "sha256": "e0f3490ef896c46a0813def94d6bbb39ba37cfd8d9475d9874c6c377dbf5995b"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 270643,
+      "project": "57-05CABAGL",
+      "plans": [
+        "https://catalog-plans.ru/files/2025/10/31/a90854934a9830284f928fac49736202.jpg",
+        "https://catalog-plans.ru/files/2025/10/31/ce1e631af4036ec6470887bfe8ac7140.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2025/12/11/dd9db60f792af939c31974b75ac2d2d9.jpg",
+        "https://catalog-plans.ru/files/2025/12/11/849585cbce0437c6624e4c246df5d49e.jpg",
+        "https://catalog-plans.ru/files/2025/12/11/a3e0033cbb90a2405bb484ae4d7a59a0.jpg",
+        "https://catalog-plans.ru/files/2025/12/11/2a4173f094bc208ac02fa6da52c12e4a.jpg"
+      ],
+      "sha256": "b7e5562f7bceee162204de6261a53a71015f62f266cd26f0f5087a7ea3a95c95"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 278178,
+      "project": "58-09TK1L",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/04/23/3a0db22a915ddd25fa12860d3c380c3a.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2021/09/22/3a7b34033318da64e6526b211fc8111e.jpg",
+        "https://catalog-plans.ru/files/2021/09/22/626bffaf3c0763eba808fabf56694903.jpg",
+        "https://catalog-plans.ru/files/2021/09/22/7a551b0dc5d26f08c2d8e58f28dead57.jpg",
+        "https://catalog-plans.ru/files/2021/09/22/0fb46c9b83a68ec4cfd71730102fc6bd.jpg"
+      ],
+      "sha256": "9dc2f0b678dfab88a3d13ff3e763c8d35fd453d35945664fbb4d8caf840c6ad0"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 281811,
+      "project": "62-38AHK1L",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/07/03/58840e7a048c57434aaa3d7e2c1d62d7.jpg",
+        "https://catalog-plans.ru/files/2024/07/03/70e346602ed9440a64f387b8a9dff9bd.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/07/03/0ff8a50d945f66807b3924fa9298053e.jpg",
+        "https://catalog-plans.ru/files/2024/07/03/5bba32b9639ac5bf2a5e996811427113.jpg",
+        "https://catalog-plans.ru/files/2024/07/03/37710397b076121842dbc0e656228aba.jpg",
+        "https://catalog-plans.ru/files/2024/07/03/52ef87b98e3d5f58a79e5e2d5713ea92.jpg"
+      ],
+      "sha256": "331bb4cd3f63a7a883800939d22c44fcc36b5972d9bfb330e4659dcf486ec073"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 291295,
+      "project": "46-06D",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/04/11/d3fbb8cb917b444ea5c206242f417e25.jpg",
+        "https://catalog-plans.ru/files/2022/04/11/0a64df51899d9b22e27f29eb8c92e19d.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/04/11/dc207afbc75e8a02c4152b3a10856501.jpg",
+        "https://catalog-plans.ru/files/2022/04/11/fb02438ec4bba5be747d33a19914a714.jpg",
+        "https://catalog-plans.ru/files/2022/04/11/fa26a9874c2a9d7bdd0d44c1d6dbf254.jpg",
+        "https://catalog-plans.ru/files/2022/04/11/e585ce65fb44d8bbe301ffdfdac716ba.jpg"
+      ],
+      "sha256": "896f1dabaafb7940769a548b9f2805da9bc35566ede9cacdb745164e67664133"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 282360,
+      "project": "40-24",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/27/80cf6be708f84b84c1039b0e755758a5.jpg",
+        "https://catalog-plans.ru/files/2015/01/27/2f928c9fffac50441c6470b38a8236cf.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/27/c5b4c01676298e4a5e8f9eccb708f0c9.jpg",
+        "https://catalog-plans.ru/files/2015/01/27/e9f5ec776ff40add5f6591fcbdbea28b.jpg",
+        "https://catalog-plans.ru/files/2015/01/27/9a221b4f99890cd417b4fa434dc88eeb.jpg",
+        "https://catalog-plans.ru/files/2015/01/27/053b2274e77e23635f53326bcaccb88a.jpg"
+      ],
+      "sha256": "5895c44d679545ef0affca27ddc92eba7f6e57a7c4a371a7c17059ef00e0393a"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 255739,
+      "project": "62-07ABD",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/09/09/6d4810490636a6bebf8269f58468ca81.jpg",
+        "https://catalog-plans.ru/files/2022/09/09/03abf8b716c5b1cbce9061660cf53922.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/09/09/884db4028c6e6d99f280fb858f7f8829.jpg",
+        "https://catalog-plans.ru/files/2022/09/09/35bfac1eb97b1e7a4ac51f57789ebe35.jpg",
+        "https://catalog-plans.ru/files/2022/09/09/348cc31f13e888200df05c23b03b1489.jpg",
+        "https://catalog-plans.ru/files/2022/09/09/4853e4b628fb09d3d64d3fd50d93e592.jpg"
+      ],
+      "sha256": "69e4cb1ee2333507783f212a42b6f5f326dac4ef4d3e10ab7db0b564c2d5275e"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 282226,
+      "project": "45-64ZAQGL",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/11/03/097aa736182109b35fb41437dd6d4e5b.jpg",
+        "https://catalog-plans.ru/files/2024/11/03/83cb7bd91345e01768fb088d70be15ee.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/11/03/df45f87c060799611d00b0934375fdf1.jpg",
+        "https://catalog-plans.ru/files/2024/11/03/450b0a5707f1251d9286db95f8d7e3b1.jpg",
+        "https://catalog-plans.ru/files/2024/11/03/a5b67d0a98ef4dfadb872267ee4f0091.jpg",
+        "https://catalog-plans.ru/files/2024/11/03/f0dec910f52d9f2be308177ece7643b4.jpg"
+      ],
+      "sha256": "a864ab6e3bafa2fd8a8b2d9a4b1cc64f669fd57c84336eda635c39e1714f0d21"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 343495,
+      "project": "59-41",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/08/6fa4aff77b99c2bc303000181a65df63.jpg",
+        "https://catalog-plans.ru/files/2015/01/08/5873e4f548875fdf7c1d1366395400fc.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/08/b25b59e2569350156e04f6ed5e4de26f.jpg",
+        "https://catalog-plans.ru/files/2015/01/08/d7e2e6bdd25b52f22d1552c865de63f0.jpg",
+        "https://catalog-plans.ru/files/2015/01/08/e01a28e78409b7a6c255440bdd46c9c9.jpg",
+        "https://catalog-plans.ru/files/2015/01/08/d8efe193570e216214ff5e9d0429ee5d.jpg"
+      ],
+      "sha256": "e08c506d3f966bfae0430a8b4c04f53c0ffd3ce22681f2733788910587bc37f8"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 293605,
+      "project": "57-25",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/09/7cc2122737ee2d0234eeab946fd70da1.jpg",
+        "https://catalog-plans.ru/files/2015/01/09/1f5ee6315a9f5b14d5e9b23700564a56.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/09/035805d7202dc35684cf1c23b8ad6cb3.jpg",
+        "https://catalog-plans.ru/files/2015/01/09/c18cb59b5046d2c3e54d2b6d4d6a1a47.jpg",
+        "https://catalog-plans.ru/files/2015/01/09/e97e8041e7a72acd6d6fd7e1af4a5f63.jpg",
+        "https://catalog-plans.ru/files/2015/01/09/ceb26443ae84454f09fc0c1f01d487a5.jpg"
+      ],
+      "sha256": "0a7d3e959851cd124cecc77da0f525db7aae1882d147f64109d00e5f3a7deded"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 321957,
+      "project": "57-12L",
+      "plans": [
+        "https://catalog-plans.ru/files/2014/12/19/7a999b62efe7f6c9aa84191e9479a5ba.jpg",
+        "https://catalog-plans.ru/files/2014/12/19/954e56ff363e608f9d36c2e6218f6936.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/11/24/9b2efa52d9607d4bc2174b7062f5808a.jpg",
+        "https://catalog-plans.ru/files/2015/11/24/24f7dead3f4bbcbf236b08b425c906f9.jpg",
+        "https://catalog-plans.ru/files/2015/11/24/7de3138193028490325e1e562195aaaf.jpg",
+        "https://catalog-plans.ru/files/2015/11/24/51cdd89156d82926f882b37ee12633c5.jpg"
+      ],
+      "sha256": "5efaa6ab22bd4e9709ac4e31c724d9512c87b9ecea422203daa5279b50aceb5f"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 258474,
+      "project": "63-09DA",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/03/29/aeee9565fc9715feb95bcb2ee2301c19.jpg",
+        "https://catalog-plans.ru/files/2022/03/29/a6cbb22323feb5c3fc4200ac2666dda4.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/03/29/bf40ad65bcd7dbd1c8d5b9121af03ff6.jpg",
+        "https://catalog-plans.ru/files/2022/03/29/a5f01a2d64807feb22d11f8f0c293c7d.jpg",
+        "https://catalog-plans.ru/files/2022/03/29/9fdcabd8dd350760c1b77605bc7b71b1.jpg",
+        "https://catalog-plans.ru/files/2022/03/29/fb19c76b17c4fdec92d3c679f6e0e8a8.jpg"
+      ],
+      "sha256": "61860921e18bd888c88f267055331c2cb7793f3c8c92344abf1a344287581908"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 280414,
+      "project": "58-16E",
+      "plans": [
+        "https://catalog-plans.ru/files/2026/01/27/712160b181e46de76b17f5e3b9a45c50.jpg",
+        "https://catalog-plans.ru/files/2026/01/27/9f7f0925c26c39c770ac55991f3985c7.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2026/01/27/15fc5320a57354382bbf0c7521862cb8.jpg",
+        "https://catalog-plans.ru/files/2026/01/27/bc1040eb2b4e4a0abdf0a7405295b369.jpg",
+        "https://catalog-plans.ru/files/2026/01/27/80a270aa1169e9e74bca43d013638781.jpg",
+        "https://catalog-plans.ru/files/2026/01/27/76ac87e6fb11d2b91e903c5ef906008d.jpg"
+      ],
+      "sha256": "0ca938c0d156ced6495645d5dbb64abb1d43bb020eb642347d1227c61da0597b"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 309480,
+      "project": "59-85",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/03/05/cd000d0cf93f7e67c4e10a733fa79ea0.jpg",
+        "https://catalog-plans.ru/files/2015/03/05/a5bcfdf2fd0cfb51862d575d0b488fae.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/31/ccd9b83858e84ccd8212159f41f565c5.jpg",
+        "https://catalog-plans.ru/files/2015/01/31/0d9ab28d9c3ce326e048052fe9e81b14.jpg",
+        "https://catalog-plans.ru/files/2015/01/31/ca7d713a3a615885436ae2f3970b2923.jpg",
+        "https://catalog-plans.ru/files/2015/01/31/34872fa9c771f4391adb500d563bf654.jpg"
+      ],
+      "sha256": "03c4b90f266aa5e82ecae2b25d64aef7555b04bd6feaa417cae28c14cf0fd429"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 313932,
+      "project": "59-86L",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/05/22/b47ad48a3b14d2b76c69e42348d6e20a.jpg",
+        "https://catalog-plans.ru/files/2015/05/22/0ae6f9e9b1ad3d26df47062c29e7f44a.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/05/22/7d7ed2b724f64c80b5cfb875164c86bb.jpg",
+        "https://catalog-plans.ru/files/2015/05/22/efddec6b3f1132b260176425ea6dd9ac.jpg",
+        "https://catalog-plans.ru/files/2015/05/22/0ea436fb01f8552ecb3c9ed69aa7b134.jpg",
+        "https://catalog-plans.ru/files/2015/05/22/60400d08e57c54c672199c0b815067d9.jpg"
+      ],
+      "sha256": "e4419bef6c97da29c033cc92d9d38502b3a37c62dff3d4a6b96e12af19d3b02c"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 281543,
+      "project": "58-49AL",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/01/30/abd9ac6e981a97cb89590b37ac0cec00.jpg",
+        "https://catalog-plans.ru/files/2024/01/30/6630790ba0cc76af30328c7077e4cbc1.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/01/30/949b8f1d71ba53ef9bfdde8192ad4e48.jpg",
+        "https://catalog-plans.ru/files/2024/01/30/2f984ee42a5a3cfd8e11bde63433b4fd.jpg",
+        "https://catalog-plans.ru/files/2024/01/30/92eca839ad89a84a617d6c7fbeaf9d4e.jpg",
+        "https://catalog-plans.ru/files/2024/01/30/b7388ddd076fa68450ec3c527236b45e.jpg"
+      ],
+      "sha256": "2de04e55419c312d0f4b41278a9fea20f1d3eb759d08a203828a5b9b57c53bae"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 327712,
+      "project": "35-13",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/03/25/c55e0d2bb01adbd44e5c997c49ecd840.jpg",
+        "https://catalog-plans.ru/files/2015/03/25/02ae60f0ca0b4ceb4e81b355275e5948.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/21/558d7346cff162567caee922a3f27228.jpg",
+        "https://catalog-plans.ru/files/2015/01/21/eca07116ad50c3b52346dec2a3cee8a8.jpg",
+        "https://catalog-plans.ru/files/2015/01/21/e73af0ea2d1bd9dea1f7fbf6f60e250a.jpg",
+        "https://catalog-plans.ru/files/2015/01/21/82fe159fc7755cfd11ffb8c5ec2452d1.jpg"
+      ],
+      "sha256": "f2d9380535f17483090711eb283a1603b8426534ca163b1f77d6ad84664563af"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 320056,
+      "project": "58-70KL",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/06/12/01a12cd7d949c7329b965f7e7a9038c5.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/10/27/6f4625926c332077ff210f25e71da9b0.jpg",
+        "https://catalog-plans.ru/files/2023/10/27/ea45dcb36911dda6c18c0fc7b2ef92d2.jpg",
+        "https://catalog-plans.ru/files/2023/10/27/5617c836a4adce9f3c3698484ffde698.jpg",
+        "https://catalog-plans.ru/files/2023/10/27/80d4bcc029f1261efd36900a8363a232.jpg"
+      ],
+      "sha256": "9e06c2f5467a0c662d5bf8e354b6046dd0a79d07f61d258510efae1ba3667808"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 278373,
+      "project": "48-29MGL",
+      "plans": [
+        "https://catalog-plans.ru/files/2017/05/05/a3566b790e9fc5cb582a7c29de8f3daf.jpg",
+        "https://catalog-plans.ru/files/2017/05/05/df70e43fded8da2d89e161aceda57fd1.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2017/05/05/307d9285d1e0f8bd09cbb440e83bbfd6.jpg",
+        "https://catalog-plans.ru/files/2017/05/05/852868f6effae1502fec0182098f65ca.jpg",
+        "https://catalog-plans.ru/files/2017/05/05/774d515be429e9f7433ef8107399d2ca.jpg",
+        "https://catalog-plans.ru/files/2017/05/05/7434e3a4bc2a8c0455093e21561dc8ca.jpg"
+      ],
+      "sha256": "0559c6320c542250f4da3a26e38e330538431d1b9c8b49dc0517daf90dca9bea"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 229179,
+      "project": "62-24AM",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/06/23/f6fc6775f16ddb0e4a09e016cee9aeb3.jpg",
+        "https://catalog-plans.ru/files/2022/06/23/405f17850b524353211f7afb5ac56fbf.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/06/23/c6b9e483edfbaa25bb48269a5b8956bf.jpg",
+        "https://catalog-plans.ru/files/2022/06/23/1394aa89a17a64d46dff3acd468f1fff.jpg",
+        "https://catalog-plans.ru/files/2022/06/23/94b723ac7b68be485f2bb0b386eccb29.jpg",
+        "https://catalog-plans.ru/files/2022/06/23/18c08e471931c88380c77096ae7629a5.jpg"
+      ],
+      "sha256": "d210dd483f0075dd347743b11df73bcf0ad9242795e91729d16fe52527d3b078"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 318420,
+      "project": "57-62ABKL",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/07/08/beebe0ceef82f38ac0341c272b7eb6bb.jpg",
+        "https://catalog-plans.ru/files/2024/07/08/6be1ad607278d7b49ff376fd10040ea6.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/06/12/f49bde21c62ee850079a899bad82690d.jpg",
+        "https://catalog-plans.ru/files/2024/06/12/05d8c17a5384eecb472948e1c7877a15.jpg",
+        "https://catalog-plans.ru/files/2024/06/12/644c0b563250acd679d72f493e81f0ff.jpg",
+        "https://catalog-plans.ru/files/2024/06/12/a8046d41ddb53a4df988c976cf8f0721.jpg"
+      ],
+      "sha256": "94d0e5945a4e21b5f5bdfa9ceb8add9215cf870972358988a4d371537d06fc9e"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 319031,
+      "project": "32-95",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/28/72965a6e470f7a302a6ec77c771278c0.jpg",
+        "https://catalog-plans.ru/files/2015/01/28/f2407d456b3ebbd3113b8c21b0404463.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/28/a585bc21783a48352b35eb1b95404510.jpg",
+        "https://catalog-plans.ru/files/2015/01/28/bd55a5e56b48185abc63058c4e12948e.jpg",
+        "https://catalog-plans.ru/files/2015/01/28/5d486dbc063a68f6fec2850d8e692b0e.jpg",
+        "https://catalog-plans.ru/files/2015/01/28/1e468c4a5f4cd0a14e67a2a1a026e08b.jpg"
+      ],
+      "sha256": "1491d8b63cbd5abc266dd6ae24bb4a0318d4260706c041855a705505e6dd98de"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 316834,
+      "project": "90-70",
+      "plans": [
+        "https://catalog-plans.ru/files/2018/09/17/203ae1ea1c95e0852686ce558cb5c261.jpg",
+        "https://catalog-plans.ru/files/2018/09/17/b645cc7289365b9fd4304cbf4ba6c03d.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2018/02/15/13eb320fb8c6316c3a15c91483f7ad93.jpg",
+        "https://catalog-plans.ru/files/2018/02/15/bb881fd0337379971fa441fa990a7c2d.jpg",
+        "https://catalog-plans.ru/files/2018/02/15/28995f2efebd416043e8ac3c9cbe92a7.jpg",
+        "https://catalog-plans.ru/files/2018/02/15/8d119b32645d2bded01e303791181681.jpg"
+      ],
+      "sha256": "f045ad996b25d48bd24a530f1abe4bb4f0ed38aae06a09f4546b6f7e9b70e0b1"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 290626,
+      "project": "46-22BK1L",
+      "plans": [
+        "https://catalog-plans.ru/files/2025/07/31/09d01aeb7608fd7fb383a27321512159.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2025/07/31/9e72bf808726386df9a4e6068b412e89.jpg",
+        "https://catalog-plans.ru/files/2025/07/31/160787faaa786cb7ce84670d4c28ef1a.jpg",
+        "https://catalog-plans.ru/files/2025/07/31/5c1ab2ba928e4538ee5ebd519a288569.jpg",
+        "https://catalog-plans.ru/files/2025/07/31/e8a726d6ad7e07b42f37a18de44610d1.jpg"
+      ],
+      "sha256": "06a5df7f75d2db0a93c82822265256eb1b93839a7169fb85a1a107eb928f9789"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 331591,
+      "project": "52-18",
+      "plans": [
+        "https://catalog-plans.ru/files/2014/12/10/92b2b0c5be475df02065aa115c64aa5e.jpg",
+        "https://catalog-plans.ru/files/2014/12/10/bdf29cafe35a4c2b3a18d1d92f9b8a20.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2014/12/10/6196d94f3f99be6775a1525a6710127b.jpg",
+        "https://catalog-plans.ru/files/2014/12/10/84758b31d485a2f223cb3ae6889e818e.jpg",
+        "https://catalog-plans.ru/files/2014/12/10/ac39d0df9902a12bd31a48d159fcf024.jpg",
+        "https://catalog-plans.ru/files/2014/12/10/64cc84bb7b9724d5b6e2bcc7bee36b31.jpg"
+      ],
+      "sha256": "8dda8cdc41cd4a0c1b80f432890b774d2a58e75ca20403f672fd1dcb69d6d9f2"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 274258,
+      "project": "65-26BX",
+      "plans": [
+        "https://catalog-plans.ru/files/2025/05/03/35cbf99884bba085c40c4587ea522daa.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2025/05/15/f6e8e1f60d3be8221f7bc0406690e092.jpg",
+        "https://catalog-plans.ru/files/2025/05/15/b1e584a918d76583d421a91e975fbe83.jpg",
+        "https://catalog-plans.ru/files/2025/05/15/46bccdfaba6b70ecc92b8fc06c088d97.jpg",
+        "https://catalog-plans.ru/files/2025/05/15/d283038920b718528a290a38e5cc9459.jpg"
+      ],
+      "sha256": "1d347f321351e388281f51d08ac19886cf019a5d3e6b22a90209a6ac4e73918d"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 332387,
+      "project": "62-21",
+      "plans": [
+        "https://catalog-plans.ru/files/2016/08/22/4b8c2404c8dea293533fdfc085e62f1c.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2016/08/22/df23c2241c11423cbe6d494c31868e73.jpg",
+        "https://catalog-plans.ru/files/2016/08/22/cad0324f3843ea07e9f9a707673131d3.jpg",
+        "https://catalog-plans.ru/files/2016/08/22/fa3edca6b3e915798b217a5d4aa8ebcc.jpg",
+        "https://catalog-plans.ru/files/2016/08/22/14827d3685a90592719efaf20027d18f.jpg"
+      ],
+      "sha256": "a3cf449c0b07fb1973b0a15b91f31db4cba78e4cb4031415f9485e4e898ec948"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 287022,
+      "project": "57-63FBL",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/10/02/b7bc15b59c97162d45bc8462faf71d0f.jpg",
+        "https://catalog-plans.ru/files/2024/10/02/7cce0f68d3c9afbd3d35bb8b01f8d9a8.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/09/18/c8b0327dd6550f29ec1ee9234c63a113.jpg",
+        "https://catalog-plans.ru/files/2024/09/18/b901cc3ab51b701c836d83403acdac4a.jpg",
+        "https://catalog-plans.ru/files/2024/09/18/2cd00a69e4d8563f3e92dcbc9b41688f.jpg",
+        "https://catalog-plans.ru/files/2024/09/18/00d84012fe39b2264354c22b0ad3e47c.jpg"
+      ],
+      "sha256": "7970de99b14882bcb9aaa4e29195208b3d18d63e82ce1f580d9dd0b730493ccd"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 255429,
+      "project": "34-72",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/22/f08164483e196f6f25b5c35ae7ab4c56.jpg",
+        "https://catalog-plans.ru/files/2015/01/22/93426712e49376e740b4fc80b7f43f61.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/22/d4db209b2f3f5ff21d43743bc2c78c9c.jpg",
+        "https://catalog-plans.ru/files/2015/01/22/b15e95f3bd477fb4378abe28d5ca20f1.jpg",
+        "https://catalog-plans.ru/files/2015/01/22/874f84523794ce253013d6e1afcfd872.jpg",
+        "https://catalog-plans.ru/files/2015/01/22/1c12cb7c26c2787b0bc341ffd71a2ff0.jpg"
+      ],
+      "sha256": "6d623a30465d71583f3b822279d1a134ff4134a395cd7a4ecf80f05c1db5d541"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 272046,
+      "project": "58-92BA",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/01/16/05eec14605b6ad1d30c151df3858cb6e.jpg",
+        "https://catalog-plans.ru/files/2020/01/16/b40e4909ddb87d4a1873f8e50f4b9792.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/05/04/3c98cbeb34ea6f64c23916021f19fc00.jpg",
+        "https://catalog-plans.ru/files/2022/05/04/651c0bec5ccc01ecf8b0961a95e61424.jpg",
+        "https://catalog-plans.ru/files/2022/05/04/bf589a02ac7fd41a661453673469c2a5.jpg",
+        "https://catalog-plans.ru/files/2022/05/04/c80c14a29eb537eb01b2ff541816278e.jpg"
+      ],
+      "sha256": "01357e7064a6cb22039677032390d457fea9743de234b0648d228242886159a7"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 245033,
+      "project": "46-50K1",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/11/29/365416bd34fc214e3e221833d6cee7fb.jpg",
+        "https://catalog-plans.ru/files/2021/11/29/61bbdfc46c20d3756cf6c21b87dde483.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2021/11/29/81fe61d5b91d07409c9f5bb06cf70876.jpg",
+        "https://catalog-plans.ru/files/2021/11/29/4f8ca787e05d43439f3f5e4bcf3409cb.jpg",
+        "https://catalog-plans.ru/files/2021/11/29/762c77de7e8dc35fbecf2b943db8bfc2.jpg",
+        "https://catalog-plans.ru/files/2021/11/29/203fca73e18d547b81883cd61d8afa51.jpg"
+      ],
+      "sha256": "10045bdd1bc3a09deae52c1bcbb7cc47cb234ef09baf4dce022b1045146f191a"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 292271,
+      "project": "62-70",
+      "plans": [
+        "https://catalog-plans.ru/files/2017/12/28/810e9968bf2867eece6273d32165eb7a.jpg",
+        "https://catalog-plans.ru/files/2017/12/28/0b0a03d2a760222c364c0e69312520d9.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2017/12/28/3b5e431bccaeec31a93e99eae61a1c9c.jpg",
+        "https://catalog-plans.ru/files/2017/12/28/20e218b97d71675dca22b73dd3efc793.jpg",
+        "https://catalog-plans.ru/files/2017/12/28/b13cfeb94ccb190e679486d207ebaa8a.jpg",
+        "https://catalog-plans.ru/files/2018/03/19/0a5e376fe45c4165adabcb597994c0e2.jpg"
+      ],
+      "sha256": "661eb55cbdfca4ee3355d61c457c4435d5964d97a5093073e0d603b861a58c59"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 322580,
+      "project": "65-52GL",
+      "plans": [
+        "https://catalog-plans.ru/files/2025/08/23/6372649f787912ce632e47d0eab7346a.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2025/08/23/afa52dd9ec7395b03aff46a61fad41db.jpg",
+        "https://catalog-plans.ru/files/2025/08/23/034cc0e21458a5f56b49ec43641163c2.jpg",
+        "https://catalog-plans.ru/files/2025/08/23/ff853fa85cfff5a9e5ec09e7c7f48e46.jpg",
+        "https://catalog-plans.ru/files/2025/08/23/c6c5275e49e98ced2d08323c1bcaa59a.jpg"
+      ],
+      "sha256": "5bb5ca63a2060d46562736a3f214ed9ca8c7c89d762e690211ef78b1a6f1c990"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 259518,
+      "project": "40-89FG",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/08/17/7a79f7d521e0cad13e07ce2bc9052a26.jpg",
+        "https://catalog-plans.ru/files/2023/08/17/e15a339c92b7698e2232b3a9e1aab278.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/08/17/9a692ab6cdc2f7e1f28fb28680003aa2.jpg",
+        "https://catalog-plans.ru/files/2023/08/17/0b83ed5abe5f94296022508759e04156.jpg",
+        "https://catalog-plans.ru/files/2023/08/17/07dcd28467be777dedc8b1ef231d35d1.jpg",
+        "https://catalog-plans.ru/files/2023/08/17/1859a72a47d5bcc3bbf8d2d804bd590b.jpg"
+      ],
+      "sha256": "b47587b09df9de8cab642ee88de4509b919095c5190a7f0ceeebd3ff3c800374"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 326506,
+      "project": "70-70",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/13/f9a44c5872a51de1ce84df48e9421276.jpg",
+        "https://catalog-plans.ru/files/2015/01/13/07aafee1dd520a00525383a748f71ba7.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/13/860d8be14fa76cf6a174fcf47928227f.jpg",
+        "https://catalog-plans.ru/files/2015/01/13/dcc1d117c12604d8fd7fc95834e29f85.jpg",
+        "https://catalog-plans.ru/files/2015/01/13/465aaba1ed35dd6c4575f77bee6293c7.jpg",
+        "https://catalog-plans.ru/files/2015/01/13/033bb0671f48da8e05c15c1b786a1209.jpg"
+      ],
+      "sha256": "57e919bbf21b80862b545206b4bb49d10a60dbbbadd1e42fe0a3e1c5fe08eea5"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 279425,
+      "project": "65-03L",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/08/25/91df3ba0f1e3c53ed92aa751265e645c.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/08/25/ee7a2d35bd055f20d2ace5791b63f2c1.jpg",
+        "https://catalog-plans.ru/files/2023/08/25/f76de61b88d8d1afbc26fd33fc42ad79.jpg",
+        "https://catalog-plans.ru/files/2023/08/25/2864aebbc3e8f412c0cbfc8680e29526.jpg",
+        "https://catalog-plans.ru/files/2023/08/25/2c5da9cdc7a3e541162ee256634f8ea4.jpg"
+      ],
+      "sha256": "95abb6c0310e8e779aeea9c273118aa40e4abf73146426882c17ae89d23af0c6"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 237735,
+      "project": "13-71",
+      "plans": [
+        "https://catalog-plans.ru/files/2016/01/18/8a0db9aee1f21500fe01490ca5f54e99.jpg",
+        "https://catalog-plans.ru/files/2016/01/18/014dd84c92916cb299492e611e99a78b.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2016/01/18/60804b868f9b1c3311bde2e196a63e16.jpg",
+        "https://catalog-plans.ru/files/2016/01/18/83ac1889bc4b3a8d88ad2ae986ea250e.jpg",
+        "https://catalog-plans.ru/files/2016/01/18/2bd930153e44d17a4fc3f1bef7834f1e.jpg",
+        "https://catalog-plans.ru/files/2016/01/18/d62ce4546ac7969e51dd67a9e5dcbce3.jpg"
+      ],
+      "sha256": "5450e830e1b1f4d07024c2e9e9cd00c6754488e39347a1194e743f3cdd20dba0"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 310260,
+      "project": "40-56DEK1L",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/05/20/85239f1ea9b9f355813881ade6ca8340.jpg",
+        "https://catalog-plans.ru/files/2021/05/20/348bd1950006aa77bb3f17ddd98bfeea.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/02/04/c4b88266f11edd6a0b11da26f339b79f.jpg",
+        "https://catalog-plans.ru/files/2022/02/04/5c0814cd5d4439b7e52d1cfd02d8690d.jpg",
+        "https://catalog-plans.ru/files/2022/02/04/69310aa267d77b3517b66c9c7b537f14.jpg",
+        "https://catalog-plans.ru/files/2022/02/04/2650db900a5093eba59c848baa556932.jpg"
+      ],
+      "sha256": "2ab40cd84d745075c8e9930d913a069208a65850d582888d2320e7b7923bb7ab"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 294906,
+      "project": "64-27",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/04/26/2398961e0957fc7a05c77dfcd745c45d.jpg",
+        "https://catalog-plans.ru/files/2022/04/26/ce2ccb816ea720da1115b73210d9d648.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/05/06/3c59740645e85566bdea69219a696585.jpg",
+        "https://catalog-plans.ru/files/2022/05/06/fbadf8cdc55ee7735bc15602723c9e1f.jpg",
+        "https://catalog-plans.ru/files/2022/05/06/a3fba280017375e871c341cb5abab645.jpg",
+        "https://catalog-plans.ru/files/2022/05/06/511754b276cfec8eacca121e2ee1470d.jpg"
+      ],
+      "sha256": "8dade2ef11f8df6e83840fa9f8092f1c697ae95f37bac0b972254441d71f5b9e"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 234886,
+      "project": "59-94BK",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/02/05/14471b4f5d41bed86bad9e98ec061cda.jpg",
+        "https://catalog-plans.ru/files/2021/02/05/6d458fed93c99458dbc97ca8cc4b3585.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2021/02/05/8025adfee21046b2325440fa3ee72e02.jpg",
+        "https://catalog-plans.ru/files/2021/02/05/c2e9e388c5c5b81db7409b3e966289ba.jpg",
+        "https://catalog-plans.ru/files/2021/02/05/2810e01299178f95f035042225612822.jpg",
+        "https://catalog-plans.ru/files/2021/02/05/db2161212a0908321fdd3689c713c9a9.jpg"
+      ],
+      "sha256": "84fb79ebaed79666be3d94d9a92ae6a205406a8d60859460204abf981f69ae7c"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 346717,
+      "project": "40-75ABGL",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/09/22/13a5722dc169c5a8c33777baa99541e8.jpg",
+        "https://catalog-plans.ru/files/2023/09/22/3b7aac6e00e2896ed2b23024426b2dc7.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/09/22/8f009633de22a13e98867f4487f0cff6.jpg",
+        "https://catalog-plans.ru/files/2023/09/22/1a2e3f29ae7cbdc4224add80817e61c1.jpg",
+        "https://catalog-plans.ru/files/2023/09/22/d5ce5c6b01db9a406ca2c028400d3c39.jpg",
+        "https://catalog-plans.ru/files/2023/09/22/fb0e745b1be98a518b5cc5866c6473e6.jpg"
+      ],
+      "sha256": "8857681633ca0035f8243949a667e171656bbcbaf29971be748f1d1270b98e63"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 274049,
+      "project": "57-05MAK2L",
+      "plans": [
+        "https://catalog-plans.ru/files/2018/08/27/26325df7b449714ccc30720c63d2386c.jpg",
+        "https://catalog-plans.ru/files/2018/08/27/46bbec06ea28b9717a915688d1ed0c8c.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2018/07/10/ff7b51e4f78f864b4d6525f9669e1b43.jpg",
+        "https://catalog-plans.ru/files/2018/07/10/04fe0b3a5dc59790627fa17a8ccb66d1.jpg",
+        "https://catalog-plans.ru/files/2018/07/10/561274e1d120e49b556ad332be78bf85.jpg",
+        "https://catalog-plans.ru/files/2018/07/10/7e3de5c182b8cf5f2fe1de23cfd372d0.jpg"
+      ],
+      "sha256": "866c7a7e15dda5498d00bf29b13f1a64e8c5122715ed5e7e991dcbd1eb35eb6a"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 256117,
+      "project": "40-73CGL",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/03/23/bca7a9769f2c08bbb737bc0479bbee50.jpg",
+        "https://catalog-plans.ru/files/2021/03/23/6dec50f75eae6e397723bd82277f9665.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2021/03/23/fde55045f959f013a31f6af653243f76.jpg",
+        "https://catalog-plans.ru/files/2021/03/23/3d92179008c67fe57fde97dd44391d33.jpg",
+        "https://catalog-plans.ru/files/2021/03/23/8c4f89a35cf4bd3dcdbeeec4ed20c928.jpg",
+        "https://catalog-plans.ru/files/2021/03/23/963c9b719d0646cbfd9aa08f2fa38767.jpg"
+      ],
+      "sha256": "d439f7340b947fce8eeedfceb3086dccc836f9fa8f51b1769c588dd1219fabed"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 277300,
+      "project": "62-69",
+      "plans": [
+        "https://catalog-plans.ru/files/2017/12/18/4e9dc922ecdafdba692baaa91e61ff65.jpg",
+        "https://catalog-plans.ru/files/2017/12/18/6c22b41aa86983d79503fb58e94eb9f9.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2017/12/18/03776cde816f436fed9aeb5890d4519f.jpg",
+        "https://catalog-plans.ru/files/2017/12/18/86dabe28b18bcf83c09a8648520f0be0.jpg",
+        "https://catalog-plans.ru/files/2017/12/18/a1015613ebb66f3d533009a80e9cc73b.jpg",
+        "https://catalog-plans.ru/files/2017/12/18/753394699d5d23b3865c3a3bd20f6e46.jpg"
+      ],
+      "sha256": "ac57a50771c1b13ffe15361b588dc722a79fe0ae0a5158007e77e132d4bf928c"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 294271,
+      "project": "59-78B",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/03/31/6de6cf6763cd0b3a12413dff9e9b2b35.jpg",
+        "https://catalog-plans.ru/files/2015/03/31/557db53add7db4bc76b20b456fd340d1.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/03/31/edba504e5c092a47ce769c93a372a527.jpg",
+        "https://catalog-plans.ru/files/2015/03/31/f8f4721554739fef9b23abb8bee138d6.jpg",
+        "https://catalog-plans.ru/files/2015/03/31/1342ac19e638e556be37c048da641ed2.jpg",
+        "https://catalog-plans.ru/files/2015/03/31/500c227a9bc637807ece6e4fa93f1319.jpg"
+      ],
+      "sha256": "afe77e5a1145935e9f8b46cc70a4413e6452ca06616a0052ce5b6791c099ba48"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 247763,
+      "project": "59-92E",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/08/24/a7619fdd54087b4180e7da2cc2bf786b.jpg",
+        "https://catalog-plans.ru/files/2020/08/24/361d5513935d986a4895b45cb099819b.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2020/12/14/692d967ae5ca4c9e4312ec4443541881.jpg",
+        "https://catalog-plans.ru/files/2020/12/14/dd21af5cd1e220abaf2ab2ce81a5fc8c.jpg",
+        "https://catalog-plans.ru/files/2020/12/14/a4badef5b0786ec81e2cb2f8cdc80937.jpg",
+        "https://catalog-plans.ru/files/2020/12/14/3c21e1cc358026643a35c4857149385d.jpg"
+      ],
+      "sha256": "00bfab4437b97fd30ffb158bb7738f00cb906a57ef5b93a5e485cdc4a24282e8"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 300465,
+      "project": "54-13",
+      "plans": [
+        "https://catalog-plans.ru/files/2014/12/12/dd8c54330c9cf3c121447a69ff8ce9d0.jpg",
+        "https://catalog-plans.ru/files/2014/12/12/e660149045f81fd12045d1c2a65fcecf.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2014/12/12/a3f702b1cc3500f5ac18431b22d89ade.jpg",
+        "https://catalog-plans.ru/files/2014/12/12/e1f70fd62c86d351f510e6dbc33c6dff.jpg",
+        "https://catalog-plans.ru/files/2014/12/12/28edf263b4d0e569a2e9befd9d8bc6be.jpg",
+        "https://catalog-plans.ru/files/2014/12/12/4a35d66ae87363744002b54703b87a1a.jpg"
+      ],
+      "sha256": "88035f690b010a37d7d20c512ec4318d4eb31b850494e067c02718ee4d69bc47"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 284313,
+      "project": "63-40EAK2L",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/09/02/1a4ba2f5e432f8586f6828bd6737bb16.jpg",
+        "https://catalog-plans.ru/files/2024/09/02/a408cd3caa03a96fe2ddf8ab214bfc43.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/09/02/0677d2cf413515c1cd9b1f757a3bcbea.jpg",
+        "https://catalog-plans.ru/files/2024/09/02/8dc080d044b14301380d51b12d2bf085.jpg",
+        "https://catalog-plans.ru/files/2024/09/02/d19d5e2a9852fbfc69b15d59e42c71bc.jpg",
+        "https://catalog-plans.ru/files/2024/09/02/2535ff6497f36ab0e7c2f9d8313f9f16.jpg"
+      ],
+      "sha256": "859da92b43c6519accb329c6864a32d18a8678317aee97745c5e0ecc0bd822ba"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 277300,
+      "project": "58-33K",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/02/06/9b02c2e4055ec85f266551ec9a6990e5.jpg",
+        "https://catalog-plans.ru/files/2015/02/06/211aaed4c2e1a25cc9e7b9ddafdf9d4c.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/02/06/7e806cea56573286e95cabc655d13f6b.jpg",
+        "https://catalog-plans.ru/files/2015/02/06/f5a3fbe1cc6974e65d5e6a6859980392.jpg",
+        "https://catalog-plans.ru/files/2015/02/06/37a0db88a7e09cbbfe61b41093e3938c.jpg",
+        "https://catalog-plans.ru/files/2015/02/06/89a76806ead38b284988d39dcfa40919.jpg"
+      ],
+      "sha256": "54932024102c6153e22436c8cc8d587dfe6e7e420e76709451cbaf026801f69b"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 336035,
+      "project": "62-69ABL",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/11/16/394cf8c31a5b3da700dc03bf10f088c5.jpg",
+        "https://catalog-plans.ru/files/2022/11/16/830a633e4842a62504fd963975a90fcc.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/11/16/a01619614b285a5e915de8a504f661d4.jpg",
+        "https://catalog-plans.ru/files/2022/11/16/b037cf5ee238845fbcb5c849f0f6b19b.jpg",
+        "https://catalog-plans.ru/files/2022/11/16/277ac0400b2a6eedceb5873f323b5b5c.jpg",
+        "https://catalog-plans.ru/files/2022/11/16/0ab622c62c1306564a35a2983f3c452c.jpg"
+      ],
+      "sha256": "9d9819665bdc9dd2f5eaad5a3f207b9d53edea4eda923ea0b9cbd4e68134630e"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 315335,
+      "project": "61-01L",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/12/15/7e7c4230e89e273b026e6f00c69f679b.jpg",
+        "https://catalog-plans.ru/files/2015/12/15/aa877c44f8978523c276818b38303c40.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/12/15/8abea304b6259470390c34a5c2c174b9.jpg",
+        "https://catalog-plans.ru/files/2015/12/15/99d446745b95b2f491c84379b9fe7f46.jpg",
+        "https://catalog-plans.ru/files/2015/12/15/6a5e61eb5d46405b5f047b1d67a58c07.jpg",
+        "https://catalog-plans.ru/files/2015/12/15/8ee7612b0ef751250c4c9a4e7a2a617c.jpg"
+      ],
+      "sha256": "54ce7fd3d7d23ae7db462f538f96a7291ad3d7d6e6a912b1316920de82fa6ba7"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 269063,
+      "project": "59-23BK",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/02/02/f90b5abbbd1afdbfaa661bb9bde66842.jpg",
+        "https://catalog-plans.ru/files/2015/02/02/f839b10c409ce086c0a525b19b2427b5.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/02/02/f608af1fb7841e756551262f07b48da1.jpg",
+        "https://catalog-plans.ru/files/2015/02/02/cc36457dfc0888f6a6435fd41f0ba89b.jpg",
+        "https://catalog-plans.ru/files/2015/02/02/7f7d83a6779909483280ef9a203cd78c.jpg",
+        "https://catalog-plans.ru/files/2015/02/02/a22ce554390c7df112c0f3ff8b8b0d81.jpg"
+      ],
+      "sha256": "6238520c9eb42c1341a067b1fd3fa6e57abf37c217ace7e3d778271bed61b520"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 364777,
+      "project": "59-45",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/08/c65cc17dd2dffe02b3233fcf60aca69a.jpg",
+        "https://catalog-plans.ru/files/2015/01/08/6844a6dccaa07256bcfa5a9ed4c7484d.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/08/f4d9e66252399ed3e9c186ff94bf3a78.jpg",
+        "https://catalog-plans.ru/files/2015/01/08/c479261528e64886569ae300e4a9aaf7.jpg",
+        "https://catalog-plans.ru/files/2015/01/08/07aaee87f9af74acfabb329d0341b80c.jpg",
+        "https://catalog-plans.ru/files/2015/01/08/c89b628a2a2f228be70da9ecb4532779.jpg"
+      ],
+      "sha256": "ee15ebb5c0358f54a537e7bae824ea8241cac5c539905ac2d731094a11881ceb"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 284748,
+      "project": "62-07ABK2",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/12/01/d6214c6a6ed450627572eb2821da8b85.jpg",
+        "https://catalog-plans.ru/files/2022/12/01/76b4c39afa54a163b202b1581cb19b75.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/12/01/a6f0facc9d95996d4db5ed13ab2d5d88.jpg",
+        "https://catalog-plans.ru/files/2022/12/01/ec9b416896cf1fb1d22104d1f69b009c.jpg",
+        "https://catalog-plans.ru/files/2022/12/01/819b06e38fe3eccb9c7555bfc58d471c.jpg",
+        "https://catalog-plans.ru/files/2022/12/01/acf0154dcbc8808a00feb27b9ce5f3d8.jpg"
+      ],
+      "sha256": "f6dde551a42676d19ed3b46e03bd752c2c10cbdc0433f0cfae1d1b124735e06e"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 332078,
+      "project": "57-07L",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/05/21/027e48b81cacf6eaedee9db275703344.jpg",
+        "https://catalog-plans.ru/files/2015/05/21/b3aed807b2d1bb0d490759b961c63bd2.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/05/21/8bd3e6995cd08d5cfd0a853907dfb9da.jpg",
+        "https://catalog-plans.ru/files/2015/05/21/4baff4973b97dba2da704afc591c6d47.jpg",
+        "https://catalog-plans.ru/files/2015/05/21/0178bbe2fece63454288af1cf4c77bee.jpg",
+        "https://catalog-plans.ru/files/2015/05/21/e14044f1df35a65988437955548c939c.jpg"
+      ],
+      "sha256": "b01cee6163880272e4f482c0a878fb95f8774e28ad3bc3a609c1d370eb934f1f"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 309475,
+      "project": "34-74",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/22/0473ee8142b2cec63d4b8117f99d12f1.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/22/7c320f37ff430f705659eb64db435df0.jpg",
+        "https://catalog-plans.ru/files/2015/01/22/e86ac75c1121898c4aea58d944575a0d.jpg",
+        "https://catalog-plans.ru/files/2015/01/22/3979376c2fc1ea2cb314e09e8d9349d8.jpg",
+        "https://catalog-plans.ru/files/2015/01/22/7b5c25eee907c08c8bc8efe1dd8f16df.jpg"
+      ],
+      "sha256": "77f70dedff6195e6696890cae35713cf3bad5fb771bf6a2ca368ebc1e8945038"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 274442,
+      "project": "62-71BTBL",
+      "plans": [
+        "https://catalog-plans.ru/files/2025/03/18/fd5b4287b28f000a481628355fd43293.jpg",
+        "https://catalog-plans.ru/files/2025/03/18/73414d668afc4da2598742c52600ad73.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2025/03/18/a9e1ded67813fc23b06fa11e2e6792a3.jpg",
+        "https://catalog-plans.ru/files/2025/03/18/1dcdb221e5936a3e6973feec6fbe4a0b.jpg",
+        "https://catalog-plans.ru/files/2025/03/18/c005249f49a5b0e0bcffb10df3b4a527.jpg",
+        "https://catalog-plans.ru/files/2025/03/18/68d736751cba340bf67b8bbf9911ce36.jpg"
+      ],
+      "sha256": "66c5a249f1e908d130b0ce92dc81ee7eaae93b7d3460d51b5579bd1aa59474da"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 310736,
+      "project": "53-46",
+      "plans": [
+        "https://catalog-plans.ru/files/2014/12/11/f6548dd1050639d6088c21fac19caf61.jpg",
+        "https://catalog-plans.ru/files/2014/12/11/f69a731a2502e8192f027a1f335fa531.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2014/12/11/892a50e43fa692408572c46dc3feb01d.jpg",
+        "https://catalog-plans.ru/files/2014/12/11/c01b747fc46d8d6f1cebdf73ec6e79db.jpg",
+        "https://catalog-plans.ru/files/2014/12/11/49173f2df156fb8c7ed9319ebf305e9b.jpg",
+        "https://catalog-plans.ru/files/2014/12/11/dd53652aabca6041a147e4e9c2421743.jpg"
+      ],
+      "sha256": "7d7b623fd1db8665956a9a6bf5b9d9cb0324b2772774e400e789376ea02a44cd"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 251267,
+      "project": "64-80",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/03/02/c2f7e1cbd5a18bb9da14feccac0590ab.jpg",
+        "https://catalog-plans.ru/files/2023/03/02/9c9b8e5d0f6c431b53d3a3726aba8537.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/03/02/c4951adf7e3fd6f051cc145af35ef7e8.jpg",
+        "https://catalog-plans.ru/files/2023/03/02/6317fcb11150763bac43e0db39171956.jpg",
+        "https://catalog-plans.ru/files/2023/03/02/db137e7f73e1a022ba8780a389168c71.jpg",
+        "https://catalog-plans.ru/files/2023/03/02/037242182e2327710797bc8fb87ff941.jpg"
+      ],
+      "sha256": "30ab05b5a8cc30d12b96a9a4cde061ff4aed1d705763429be0d7b5d6fd96437b"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 301363,
+      "project": "63-76",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/02/04/5d5c3bd48c820b68eeedfb473a3b554a.jpg",
+        "https://catalog-plans.ru/files/2021/02/04/843a3873e8f2f03e80cdf795adc0fa4e.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2021/06/09/467ba1f14df66da1e5ba8b93867fccb1.jpg",
+        "https://catalog-plans.ru/files/2021/06/09/91840f7210596c7130d52acb21f05a23.jpg",
+        "https://catalog-plans.ru/files/2021/06/09/40de5da3f411e1960e084e8342502cca.jpg",
+        "https://catalog-plans.ru/files/2021/06/09/b8eb00f301ddc895039806a6076addbd.jpg"
+      ],
+      "sha256": "d42807a602172af71e3e2ec7cdaca19fc068b909231523170f85402d78a20531"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 283888,
+      "project": "62-39",
+      "plans": [
+        "https://catalog-plans.ru/files/2017/06/16/7c48d67e0fa190959275b3743bb9e282.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2017/06/16/ce084488ce557ad7da156dcd96f9a2a6.jpg",
+        "https://catalog-plans.ru/files/2017/06/16/9c93edc9c13650507a2d9f6e097d9c13.jpg",
+        "https://catalog-plans.ru/files/2017/06/16/48063ad99a903371bd3655fab1030540.jpg",
+        "https://catalog-plans.ru/files/2017/06/16/8ca2e1bc15b5825eb341717ca556da02.jpg"
+      ],
+      "sha256": "73a81018db43d6a28c61e3199ab10a5c1dafbe51c6b07062ea39ee5976d7af5c"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 318708,
+      "project": "36-07",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/17/9b8bdc4aa671d20fc5b3cf7114019870.jpg",
+        "https://catalog-plans.ru/files/2015/01/17/0f3cb3f32472dc6535721d476876c034.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/17/7a6e71c94f0b6a2743395ec40f374678.jpg",
+        "https://catalog-plans.ru/files/2015/01/17/6df5da3b66d84d52ba72043818410694.jpg",
+        "https://catalog-plans.ru/files/2015/01/17/a535fe0b2ea85c476865f0f6d6647cf5.jpg",
+        "https://catalog-plans.ru/files/2015/01/17/a2e762fe7471bc67349af7e103f54509.jpg"
+      ],
+      "sha256": "e4d711022f5724496e23b3190b3605b0d5ebab6bba23a92cf18c06a34edd2b8c"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 272439,
+      "project": "57-33D",
+      "plans": [
+        "https://catalog-plans.ru/files/2019/09/09/c3f4e1017f6fe0e4717f086fee3b639f.jpg",
+        "https://catalog-plans.ru/files/2019/09/09/eaccad2f42b815cb0ff2eb376f1651c2.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/09/04/62fd43e3ed3d537c82a9b4d5d6b68c0b.jpg",
+        "https://catalog-plans.ru/files/2024/09/04/c0e9a74942919c0b719b77c46edaee3a.jpg",
+        "https://catalog-plans.ru/files/2024/09/04/1eedbb199ab3d6f5dbfbd2523dbc611d.jpg",
+        "https://catalog-plans.ru/files/2024/09/04/19aaf5bacf9f2c80f370ebf7b79b341d.jpg"
+      ],
+      "sha256": "c7be63d968ed9d88d246252f51e7f989e035518f5d378cdb3e1dcae3eafc256b"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 296824,
+      "project": "58-97A",
+      "plans": [
+        "https://catalog-plans.ru/files/2017/07/18/bc3371b6da133822e2b99b816cc932a4.jpg",
+        "https://catalog-plans.ru/files/2017/07/18/1659bf484e7ad52d84e8c2c13484d6e0.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2017/07/18/4552dc41d2d8cab6cc09beb94adc42ea.jpg",
+        "https://catalog-plans.ru/files/2017/07/18/5342132d3077b34cc8c2846e2d781062.jpg",
+        "https://catalog-plans.ru/files/2017/07/18/5b0bc1457fdc6508946984ba0859c30a.jpg",
+        "https://catalog-plans.ru/files/2017/08/16/ac773d2ea4bd022121d4a3934fda3688.jpg"
+      ],
+      "sha256": "60141ba77930821d00cbbeccd90541422a37ff12f45a57e19d424fabd5cdfb32"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 262105,
+      "project": "45-64ZDGL",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/05/21/c7d9fe5d43111785e2668eb015b77d75.jpg",
+        "https://catalog-plans.ru/files/2021/05/21/cc648ead779dfb0445c18e0abe60104d.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2021/05/24/e809b6f2844e8d3107767106b9625d26.jpg",
+        "https://catalog-plans.ru/files/2021/05/24/b2a1ff59e8c41c24fbc5ec26ea6ad1c2.jpg",
+        "https://catalog-plans.ru/files/2021/05/24/50fadb9d224c828edb6c77327842f095.jpg",
+        "https://catalog-plans.ru/files/2021/05/24/57fba7cfe38d0f0dbe9c496fa612a24b.jpg"
+      ],
+      "sha256": "5dc2e8a00b3535394b238693ba6524d7d5cb37d9302043926499c2bfb95b962f"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 286718,
+      "project": "64-64",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/06/30/c0b677ed678c5b598645a8d4297f44c1.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/09/15/52c3d76a570675253735410906620c2c.jpg",
+        "https://catalog-plans.ru/files/2022/09/15/7af89d8bcac667c3227de24cf9654854.jpg",
+        "https://catalog-plans.ru/files/2022/09/15/3c5efce0af140fdd39760c662644cd2d.jpg",
+        "https://catalog-plans.ru/files/2022/09/15/b632e1c1080666e6e414330e83116730.jpg"
+      ],
+      "sha256": "e5dbeb0c49544233e7734c4b3b6f521d8beaf938626ac846e09a7bac173c3983"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 299406,
+      "project": "46-02AGL",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/10/12/4a09fd9a2421aa64226fa1a24a616950.jpg",
+        "https://catalog-plans.ru/files/2020/10/12/ea9d48d4c0d906c565715e12570d2dfb.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2020/10/12/a91ec85697b395b114d09789d7ed70ae.jpg",
+        "https://catalog-plans.ru/files/2020/10/12/0b880d863e60259ea582f61edba59178.jpg",
+        "https://catalog-plans.ru/files/2020/10/12/4ff08096ed04a8da8120f73df7195ccc.jpg",
+        "https://catalog-plans.ru/files/2020/10/12/db1bcb64c159c58eadca85c968b5a943.jpg"
+      ],
+      "sha256": "eea0a115ba1c23ad07a80d83117a4e6fdec2975dab376752da876aeaa797b814"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 288340,
+      "project": "59-95DKL",
+      "plans": [
+        "https://catalog-plans.ru/files/2016/12/28/39f54057ec476d680897d0b4475c6147.jpg",
+        "https://catalog-plans.ru/files/2016/12/28/5c6ecb680f69365799e58f8562797655.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2016/12/28/664284bbf82b0ea09fe6082d8b58683c.jpg",
+        "https://catalog-plans.ru/files/2016/12/28/c93ccab36e3963994844135d826125c5.jpg",
+        "https://catalog-plans.ru/files/2016/12/28/47018a6fb4c1006116150ef30b14d32f.jpg",
+        "https://catalog-plans.ru/files/2016/12/28/5232fa81fd44c8f9be4027f9724444bb.jpg"
+      ],
+      "sha256": "1055456e3cc40b53a459c6fab5c8d503593d59946acf050e8f08535d26afac6f"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 261010,
+      "project": "64-48AG3",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/09/29/960a988731351ec471f12ca045785728.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/09/29/c6063c252aec14f76ca5ae8cc3d75629.jpg",
+        "https://catalog-plans.ru/files/2022/09/29/91bc4d1af40fd5e17f54dd2f88915009.jpg",
+        "https://catalog-plans.ru/files/2022/09/29/8b4f4a53c34b05924f3848a235af5c11.jpg",
+        "https://catalog-plans.ru/files/2022/09/29/5912069d93d099a0caed9df8f3263629.jpg"
+      ],
+      "sha256": "6d27535c90e52ff045609b3b5eda78e565748c0c440fc252ad15a595bd3e2dc9"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 280146,
+      "project": "51-71",
+      "plans": [
+        "https://catalog-plans.ru/files/2014/12/08/944d13018b3bf41bd11ec01cee8299d3.jpg",
+        "https://catalog-plans.ru/files/2014/12/08/0d93779b6fa7790452bab2b8ee524acc.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2014/12/08/191480705eff7fee8b98e865c51a9ca0.jpg",
+        "https://catalog-plans.ru/files/2014/12/08/39ecbf984d664cef5e42ea6bcbc811ed.jpg",
+        "https://catalog-plans.ru/files/2014/12/08/dd144013d28c1bf79a5d8d8fa41c3d54.jpg",
+        "https://catalog-plans.ru/files/2014/12/08/f09a65fe778f720057912930db0764de.jpg"
+      ],
+      "sha256": "64d14179d60af870d97b12f10d3fc83d5f6a047198143b6976e467c7204588b1"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 415059,
+      "project": "40-07BL",
+      "plans": [
+        "https://catalog-plans.ru/files/2019/08/28/c1d3a9b5dc7e4ecbdf3d3ece95be0f53.jpg",
+        "https://catalog-plans.ru/files/2019/08/28/27e6a7d796b6c9e9b9f2f04407067b93.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2019/08/28/178764e650ffa1ae99968a9c10372d28.jpg",
+        "https://catalog-plans.ru/files/2019/08/28/1b3ccb3fe9970d5e1115043103cf37d4.jpg",
+        "https://catalog-plans.ru/files/2019/08/28/db799c7daf1e5d13fbc697daa2524dfb.jpg",
+        "https://catalog-plans.ru/files/2019/08/28/30faeb0a31d43e9a49c9037daebd21d8.jpg"
+      ],
+      "sha256": "190220f2413a9bc02d4406a036ba790de3676afc7b19d2bfc592838130b336fa"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 392918,
+      "project": "32-87",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/03/25/3b30cfc6d50e2c9bf4681afc889c385a.jpg",
+        "https://catalog-plans.ru/files/2015/03/25/95621b760a0d2e5c4e0fe300c7c571e8.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/28/9d01f2fcfb33e025628c6bb771855986.jpg",
+        "https://catalog-plans.ru/files/2015/01/28/ce97e2bee3bce0074a35382a3485f2c2.jpg",
+        "https://catalog-plans.ru/files/2015/01/28/57c26f57e52990373d1c2fe46d2ff44c.jpg",
+        "https://catalog-plans.ru/files/2015/01/28/1ee001e32efa92abf7bbafc2630fe6ae.jpg"
+      ],
+      "sha256": "260ec7cb2bba0235cd4e8550c1225017f7b5a0e4e27120c5aa8a955fbc6a6c7d"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 296085,
+      "project": "58-76B",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/06/23/2d8e25602fb3b2ae12d4390523bf6d22.jpg",
+        "https://catalog-plans.ru/files/2020/06/23/faa5bfde624ddc11fc15837989e1bf28.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2020/06/23/84626e960ba12d2045cc9ff29a2bb484.jpg",
+        "https://catalog-plans.ru/files/2020/06/23/11aa820123d4939306924e1095bcba70.jpg",
+        "https://catalog-plans.ru/files/2020/06/23/c0a5ac5c8cff8108873adeacacefea07.jpg",
+        "https://catalog-plans.ru/files/2020/06/23/6fbbe6992c9d726ca47eaa36816e9640.jpg"
+      ],
+      "sha256": "13da79dacffe37e1c616db2308ad6776433b3a906af9abaaef4d5067d0e27fc1"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 300191,
+      "project": "35-28",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/21/b7873c8a23bdb7228ee8d5661401e04d.jpg",
+        "https://catalog-plans.ru/files/2015/01/21/141b0e9c14dcbb32f175df27f5a3ce4f.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/21/82ce93ddb14bb5ce1e3821b8986c07cd.jpg",
+        "https://catalog-plans.ru/files/2015/01/21/3d99d7c2730bc974f0b5810a3e30092d.jpg",
+        "https://catalog-plans.ru/files/2015/01/21/cb7ce87b3ee9275428b269eaf59ff41b.jpg",
+        "https://catalog-plans.ru/files/2015/01/21/0b45be5cd406a15a11367c15688d7b66.jpg"
+      ],
+      "sha256": "a34610ef6bd20e7dbdf93f6a952cfcf8fcb42511d12f640dad1b2e719d28be86"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 279998,
+      "project": "47-66",
+      "plans": [
+        "https://catalog-plans.ru/files/2016/01/26/b3ea4d3abfd75349cd4556e5b6ed45c3.jpg",
+        "https://catalog-plans.ru/files/2016/01/26/95774e726cb8bea1162cc519dbf3ac24.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2016/01/26/934aae0921ddab978867fc405758bb9a.jpg",
+        "https://catalog-plans.ru/files/2016/01/26/1b3c75224e30534ba3e27b228a88e02f.jpg",
+        "https://catalog-plans.ru/files/2016/01/26/f5961481f1556aa0e787fcb3489e81b9.jpg",
+        "https://catalog-plans.ru/files/2016/01/26/c0087dc3fa345d5f436bb6b0c14aa4c8.jpg"
+      ],
+      "sha256": "0915d88c366ee33c549391c42f3e334894561631a5ba86a5157cd176d88d7b5d"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 298663,
+      "project": "34-62",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/22/d6849b22b9713871af521945527accce.jpg",
+        "https://catalog-plans.ru/files/2015/03/12/37c4e44e19780ffab68b1fb8b16eab9b.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/22/8ba6dd273f8a187873af8738721b3074.jpg",
+        "https://catalog-plans.ru/files/2015/01/22/c2bb9b12589ad3f431afa613c896d8ea.jpg",
+        "https://catalog-plans.ru/files/2015/01/22/d10c5066ae58d852bf418458096b2ee2.jpg",
+        "https://catalog-plans.ru/files/2015/01/22/00d8a11f004c9f089b373d048f2ebe80.jpg"
+      ],
+      "sha256": "e980dfbb40ea0947f693211c12c47877be4f5c223dc06a28f9bf794dd17c509c"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 265395,
+      "project": "62-71BN",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/02/04/42834c31ce97f2b3308990e32aca6555.jpg",
+        "https://catalog-plans.ru/files/2021/02/04/b5c94b0f53acc1ca1d1b904fdab789e1.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2021/04/21/a79c9d5c2b33eab374339141372767b6.jpg",
+        "https://catalog-plans.ru/files/2021/04/21/3c2f3b0b9ccffe3db3ef9db22475de15.jpg",
+        "https://catalog-plans.ru/files/2021/04/21/2d9e83a652f88c1d1fbb140eae28a2df.jpg",
+        "https://catalog-plans.ru/files/2021/04/21/4c205498114cbe434fd30fb226c8d679.jpg"
+      ],
+      "sha256": "6b7e09c24378f00b0dad629f01ac552736ce3a08d51397eeddebd5653da72f81"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 291263,
+      "project": "62-31",
+      "plans": [
+        "https://catalog-plans.ru/files/2016/12/29/222993ba385da2263ff8b6408eaa34f4.jpg",
+        "https://catalog-plans.ru/files/2016/12/29/11e67000c6b2373ee81101a8eb096361.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2016/12/29/a231cf0e43bf2198da4e66056c29b74a.jpg",
+        "https://catalog-plans.ru/files/2016/12/29/f83eaaf645fc403927129f77cbc25445.jpg",
+        "https://catalog-plans.ru/files/2016/12/29/bb77710335fc6d4e7679f0497f472ac7.jpg",
+        "https://catalog-plans.ru/files/2016/12/29/6ddbd2af7c0a31437f4f78b7e225f1dc.jpg"
+      ],
+      "sha256": "1c1e83a381101d80ca1c4c5159387b8149f6b7296e803dea93a409ae7f6cf654"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 418870,
+      "project": "40-49D1L",
+      "plans": [
+        "https://catalog-plans.ru/files/2019/10/01/79dc6e879b6770a488b31ac7a5167713.jpg",
+        "https://catalog-plans.ru/files/2019/10/01/2454570f5ebcd18b40a016e40c2f5be1.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2019/10/01/5e9b53dfc293436566520cb0ce028ca9.jpg",
+        "https://catalog-plans.ru/files/2019/10/01/17a21ea899daeaaa3b342b3d942fdd10.jpg",
+        "https://catalog-plans.ru/files/2019/10/01/836e8a6d866a582331a786367abb53ab.jpg",
+        "https://catalog-plans.ru/files/2019/10/01/ae6a370847fdf37840ea48228fb5e6e3.jpg"
+      ],
+      "sha256": "4764f639e0fd6fd8cfb7e3e04a87f19793ec3464507c031f100af49d4644b743"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 312916,
+      "project": "58-41BL",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/01/28/9d1971584e4568fb63063c435916b99d.jpg",
+        "https://catalog-plans.ru/files/2020/01/28/3a5cff3efd587a579645b170988919e8.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/02/21/520bcc0e6365aa92a00cb43aee9f52da.jpg",
+        "https://catalog-plans.ru/files/2022/02/21/218f59ddfba7a4bfbee10c8f845c5eed.jpg",
+        "https://catalog-plans.ru/files/2022/02/21/0435dc2c4f31372fc2270c80c85b49e0.jpg",
+        "https://catalog-plans.ru/files/2022/02/21/a2f1d6029640c9fc402c2e874e218a44.jpg"
+      ],
+      "sha256": "0915dbd7e96b6accbd1cbe2909b53b602bc8918fe2a0aebfbdee423e567cb097"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 374641,
+      "project": "62-80A",
+      "plans": [
+        "https://catalog-plans.ru/files/2019/11/13/b9e7ad19a6696d8e0aea6efaa257e7b2.jpg",
+        "https://catalog-plans.ru/files/2019/11/13/bd9548b0a99dff7489098131087a0564.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2019/11/13/436d43930a5541e486831e35dcc4a04d.jpg",
+        "https://catalog-plans.ru/files/2019/11/13/87757900c99309a239226e2846fa8827.jpg",
+        "https://catalog-plans.ru/files/2019/11/13/6cbc4d419c8b4f9f5a2668ff50814815.jpg",
+        "https://catalog-plans.ru/files/2019/11/13/1a2958aca05af857f9a76a4e7aa7abb9.jpg"
+      ],
+      "sha256": "647ee7fa6bc42c81ecbc5c1fccffeb8e62cec55b5daa46e7c0a82c9d97fba8c4"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 255740,
+      "project": "65-93",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/07/29/3c0f2308a73b1e00479ff81043c53926.jpg",
+        "https://catalog-plans.ru/files/2024/07/29/b0aa2734564323d16822a7e20c82402c.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/07/29/0a4403cc0c69fc331a90b56d193067e7.jpg",
+        "https://catalog-plans.ru/files/2024/07/29/abaf2dd7593fc4663d56504949575faa.jpg",
+        "https://catalog-plans.ru/files/2024/07/29/9c034f7589569ac45c7604db6d4907e6.jpg",
+        "https://catalog-plans.ru/files/2024/07/29/d7d976089f7dd559b3ed2a10169ab2d4.jpg"
+      ],
+      "sha256": "fc466385854990fcf54d248211f0a44dd9c6b2544fe304045ec31ede5856fedd"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 243430,
+      "project": "62-24AE",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/10/14/ab4c51aa896943967d8fe9b2299a1f44.jpg",
+        "https://catalog-plans.ru/files/2020/10/14/af24ee777b1de9061f384e39c7f900bc.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2020/10/14/4a4a3844245aa5e99aac41ab8a86cc9f.jpg",
+        "https://catalog-plans.ru/files/2020/10/14/5d9992c4a7deb0dfb46961e6d9506a9a.jpg",
+        "https://catalog-plans.ru/files/2020/10/14/c641bc700f2b6fd4c4ed65799734f6e2.jpg",
+        "https://catalog-plans.ru/files/2020/10/14/3767bec73e8382390e6a145a28fd288d.jpg"
+      ],
+      "sha256": "9463ca579fd0d21a96a210fbcf1aa71db42a08efa87ef6a779c6aeb02692668d"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 262878,
+      "project": "62-38K1L",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/09/24/185befe9f345826d804bb63e759fb3a5.jpg",
+        "https://catalog-plans.ru/files/2024/09/24/bbe8972c637ce595d8e027d590789e3f.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/09/24/1b29e1b1c14d426bb48738e42a33416f.jpg",
+        "https://catalog-plans.ru/files/2024/09/24/9746bcaffd6a8d227b974e6e21015e9d.jpg",
+        "https://catalog-plans.ru/files/2024/09/24/d3823d68cb20377e16986f19e0b9b417.jpg",
+        "https://catalog-plans.ru/files/2024/09/24/17151f5f5146b3eddb0714286e5de75d.jpg"
+      ],
+      "sha256": "363d347657eaa7bac2c2ece0ce13b7fe6012b9d9eb31ad4a06bb6a9550a54d88"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 210847,
+      "project": "66-03",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/05/26/0d7201c03a159a9bf69799723a62f9ad.jpg",
+        "https://catalog-plans.ru/files/2020/05/26/a75fade2811b1bb0b922108a81f2526d.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2020/05/26/c0184aaeb23f6e1dd9548ff1996058cd.jpg",
+        "https://catalog-plans.ru/files/2020/05/26/9e1bc721667f1818780e2db4206e140e.jpg",
+        "https://catalog-plans.ru/files/2020/05/26/228c2499cc007736b19a7d05935c5553.jpg",
+        "https://catalog-plans.ru/files/2020/05/26/e87ef13a364a626c3a5fc54f7962ea35.jpg"
+      ],
+      "sha256": "157c6551c7906cc1de4a6fc900c0bdad8158462413af0e826abfc7700b501247"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 297222,
+      "project": "57-38",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/10/3d331abeda10fd6f02319b20dfe25274.jpg",
+        "https://catalog-plans.ru/files/2015/01/10/77de15e5cb4648bf2f015da6d3c9ecbb.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/10/7b7cac4ff24bbf8581078bdd330c4c50.jpg",
+        "https://catalog-plans.ru/files/2015/01/10/ba7c3fae3bb533c7520827e3622cc61e.jpg",
+        "https://catalog-plans.ru/files/2015/01/10/029875a68117e8822b32d2d2a1bd4d12.jpg",
+        "https://catalog-plans.ru/files/2015/01/10/0e825dc474ff0316936a7786db0c696a.jpg"
+      ],
+      "sha256": "70a0e47c09f73d3722be5e21a6a9a4454b60f87d66744398652f8802e7cce1e0"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 299619,
+      "project": "63-88AK1L",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/06/10/f3303758893dda1edbab5ba95d5810d5.jpg",
+        "https://catalog-plans.ru/files/2023/06/10/fcc5b49a68d76aa8e5cc85c6110043f6.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/06/10/21990aa9ac1d75d4abae99f1869a7bdb.jpg",
+        "https://catalog-plans.ru/files/2023/06/10/90340181660c6c99910f876e398b2b3a.jpg",
+        "https://catalog-plans.ru/files/2023/06/10/2dda23eaed52cb5d1225ae258732a49c.jpg",
+        "https://catalog-plans.ru/files/2023/06/10/fd0323704f31aa85c92cf1b6285b5684.jpg"
+      ],
+      "sha256": "c1efb0cc5f9bafe75049b22914746a6b7227cb81193213a92e89eaecece51c99"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 363427,
+      "project": "30-65",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/03/25/d63b74a005b05d9051e4ca81d40b3b03.jpg",
+        "https://catalog-plans.ru/files/2015/03/25/f29e0a0aae3f50236575b7ed3276b09b.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/24/ed49e0b0b5f4fb713a1ae678e594aeea.jpg",
+        "https://catalog-plans.ru/files/2015/01/24/3219d97e786822334a725ed20eb61c06.jpg",
+        "https://catalog-plans.ru/files/2015/01/24/cc4fb6e8dacee131b8b835b2b92b4597.jpg",
+        "https://catalog-plans.ru/files/2015/01/24/9342d26ebfdbd9db2a752e435a4473de.jpg"
+      ],
+      "sha256": "b04162ddfaca6d07586471a18067df13f1468272148c0002a80a53cce28503b0"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 287807,
+      "project": "58-41K",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/03/10/551f44da3fbc28078466944deb83cf6a.jpg",
+        "https://catalog-plans.ru/files/2015/03/10/c198685bd633600ded708b193d4226b9.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/03/10/53cb3c016f939394e27a819d50f29032.jpg",
+        "https://catalog-plans.ru/files/2015/03/10/8ef29a0a140518529ebc745c2f36c845.jpg",
+        "https://catalog-plans.ru/files/2015/03/10/40fc3147e948ee8e9d310981a3747cf1.jpg",
+        "https://catalog-plans.ru/files/2015/03/10/17778c61d38a2e92942ad1b9f9b08503.jpg"
+      ],
+      "sha256": "736793f92f367d6cb3683e39abfc302f26871739a47b1952f766ab92fa85da42"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 290579,
+      "project": "40-75FL",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/03/22/63dff3fd52602bf658c1e9bf825a20d8.jpg",
+        "https://catalog-plans.ru/files/2021/03/22/3af4967ce49359a97142fb88d846ff15.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2021/03/22/7f091bdde5f8e6c92c8ac39d56c6d547.jpg",
+        "https://catalog-plans.ru/files/2021/03/22/ce92833895840b8db30415a2d40d5e5e.jpg",
+        "https://catalog-plans.ru/files/2021/03/22/4b212e0a3de71fafe0ea5c7ebee23b74.jpg",
+        "https://catalog-plans.ru/files/2021/03/22/52ead0b2dffea6c682dbae8ad66836c0.jpg"
+      ],
+      "sha256": "6791c005fd1729a9df007a4a42b7885ff4ca2f16e4720d162999975f95dc4625"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 272110,
+      "project": "64-75AG3",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/12/19/5173977d27561d155b7149f462041220.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/12/19/2363464fb0f8e7172ec13577acadf236.jpg",
+        "https://catalog-plans.ru/files/2022/12/19/7021b5d4b0aa737e86dc2868128525e2.jpg",
+        "https://catalog-plans.ru/files/2022/12/19/1d6e68dc5e4125d795cf0454f7a6a3fc.jpg",
+        "https://catalog-plans.ru/files/2022/12/19/003e1d9aae28011024038d7eb6e0525a.jpg"
+      ],
+      "sha256": "9ccaf5aa6c25387333f25f6727c5867c7a1f0c1720fa3e4d6304276aabce431b"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 344132,
+      "project": "57-26BK2L",
+      "plans": [
+        "https://catalog-plans.ru/files/2019/08/08/97d800a0b00e7ae2049e975c2dfb01da.jpg",
+        "https://catalog-plans.ru/files/2019/08/08/7d7812cef406085958e60c4035825e61.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2019/08/08/ba09c486684a1c53691cec55ebc728dc.jpg",
+        "https://catalog-plans.ru/files/2019/08/08/07cfe5f369e7af3e0b2f9dbd9d3c8e01.jpg",
+        "https://catalog-plans.ru/files/2019/08/08/ea3a70e94540e8d0b53ee265bc02b3d3.jpg",
+        "https://catalog-plans.ru/files/2019/08/08/b9bb8b4cb05b6c0a62ce3e6618e30258.jpg"
+      ],
+      "sha256": "b4058e5680eeb61bde3edb340c7ec611da3d5449e95a8cb2ddcef722c82f9324"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 312629,
+      "project": "62-67C",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/08/06/490459141d838f0fca5699ba6cdc2aad.jpg",
+        "https://catalog-plans.ru/files/2024/08/06/6bdf628aad4cf4da20ce0883521018d5.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/08/06/c315d4130bec156500d95cc40c94ba35.jpg",
+        "https://catalog-plans.ru/files/2024/08/06/a072d9216acf47c3df1d788f234a5a42.jpg",
+        "https://catalog-plans.ru/files/2024/08/06/dc5fbd76e70807adb836ffb6bc746ff2.jpg",
+        "https://catalog-plans.ru/files/2024/08/06/672a2a60122bfb5b4f0a4da4fcc858b6.jpg"
+      ],
+      "sha256": "151d22d836d163e42020704499f4a663a62c4c31eb0e330efd3a303c981cdee2"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 311594,
+      "project": "59-95A",
+      "plans": [
+        "https://catalog-plans.ru/files/2016/01/27/a84a4faf9ff5021faa7bad4471e78a75.jpg",
+        "https://catalog-plans.ru/files/2016/01/27/9e70a7a2f33c0e5feb89a4ea47655fe6.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2016/03/22/d92a6f9adc661b75d459f7d77510ffaf.jpg",
+        "https://catalog-plans.ru/files/2016/03/22/915c97abbc3ca93d688c31cb30301d44.jpg",
+        "https://catalog-plans.ru/files/2016/03/22/e624939f0dcfb0147d7129526f5464aa.jpg",
+        "https://catalog-plans.ru/files/2016/03/22/c654461d5688c404c8133ce8928e3520.jpg"
+      ],
+      "sha256": "ae81b28cbe5ede2b02e1fb2f93e7617f6f84fe3ee34c893d092d963108eb60c7"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 281146,
+      "project": "58-79ADBK2L",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/04/04/75a500165b34de098bc2b83e1adf0889.jpg",
+        "https://catalog-plans.ru/files/2023/04/04/6fb77a3744591377ce04ba6aadf07f63.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/04/18/18750e3d9305ea4ceb760d39910bee9d.jpg",
+        "https://catalog-plans.ru/files/2023/04/18/c65034574540c83ba6a98e54594c2edb.jpg",
+        "https://catalog-plans.ru/files/2023/04/18/efda35732f4d4ba93cc802c9372e550e.jpg",
+        "https://catalog-plans.ru/files/2023/04/18/25696b54f8ab3e90ecd717791ae347f7.jpg"
+      ],
+      "sha256": "7c0c8a12e601aa28a5e2be3080d419f0160b880f3c7cf3a7aeb67c3a77397c4c"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 272138,
+      "project": "64-39",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/04/11/1fac307ea24f9cc157384bfaf487f272.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/04/11/0e5f8001a65b6f6d531e6377213cee17.jpg",
+        "https://catalog-plans.ru/files/2022/04/11/fe561370f5dafa6692506a51511ed6d1.jpg",
+        "https://catalog-plans.ru/files/2022/04/11/e4c83f4cca5426f70dc7acb2f51d8f09.jpg",
+        "https://catalog-plans.ru/files/2022/04/11/85293e58d23d00acdd236adf456e31ab.jpg"
+      ],
+      "sha256": "cb28f6cf6f9df40b45dd4e342ac49926992bf875c38306e7b5af6eab0d0bd6bb"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 269458,
+      "project": "46-98KB",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/06/28/347ca8d884dd338cf643217fb709981a.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/06/28/4b522ee553f9e94e10a9557bd955cf0d.jpg",
+        "https://catalog-plans.ru/files/2024/06/28/0ece14063153913d22fda22a2d1bf77a.jpg",
+        "https://catalog-plans.ru/files/2024/06/28/8bc3166bd229a926f0dd8685d7a56913.jpg",
+        "https://catalog-plans.ru/files/2024/06/28/cdfbcae22db6bd864a317709ccec5c5a.jpg"
+      ],
+      "sha256": "11fb654666bcc934796da00ccda4c8626bced26c6f71343e197dbd9493620308"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 248015,
+      "project": "57-15HAL",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/08/26/5cafbde6364c32e5eb36fb58a4671f2a.jpg",
+        "https://catalog-plans.ru/files/2021/08/26/46cb1de6824573e9b2e72e1a94ece848.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2021/08/26/2aab6925536dd51e4ef90965ff9a8f9e.jpg",
+        "https://catalog-plans.ru/files/2021/08/26/1683d2563cf24c84469ae161df151640.jpg",
+        "https://catalog-plans.ru/files/2021/08/26/405999f69426e31674eed31ed25700b3.jpg",
+        "https://catalog-plans.ru/files/2021/08/26/1e43684e884fb128f8b7de51faba1755.jpg"
+      ],
+      "sha256": "4c55ee8768b78c3097bc9b3215b2763767e367c7dbfe4894d92a879a9c4dcffc"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 296455,
+      "project": "59-86",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/01/09/b9f24bcee897f93f01075840e4186043.jpg",
+        "https://catalog-plans.ru/files/2024/01/09/7373e96a484bc9a8d2ba36df27049516.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/25/9585889165597076ed8fcb6e581819a3.jpg",
+        "https://catalog-plans.ru/files/2015/01/25/bfd4f6eecba46ea33f4a4945284602c3.jpg",
+        "https://catalog-plans.ru/files/2015/01/25/27915527f5f5ed1f85192ee1c00ce57e.jpg",
+        "https://catalog-plans.ru/files/2015/01/25/e5c1186f0e3a25a5aac45eadb06d10af.jpg"
+      ],
+      "sha256": "6ed27aaf26f615160115b1a4bf209e4ff7236c76ea4f49626d413fc4855282c0"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 331120,
+      "project": "35-19",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/03/26/b2f1c1fbcda402a9cd0add1d528d15ab.jpg",
+        "https://catalog-plans.ru/files/2015/03/26/87049bd3f25744ee16eaa734a2b64701.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/21/d58d600c14053ddf99aa95ff4716d72c.jpg",
+        "https://catalog-plans.ru/files/2015/01/21/cd5033303a07b9d2eb33b4e7f5c8bee4.jpg",
+        "https://catalog-plans.ru/files/2015/01/21/4bbe864d5328f2272ba0fff7f8d9f401.jpg",
+        "https://catalog-plans.ru/files/2015/01/21/86597701562ab10d62c502a9e84efcb0.jpg"
+      ],
+      "sha256": "30bd395269f3997b6c50007e88d859456fcf07e82389e3518309b01d8acab363"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 290468,
+      "project": "65-90L",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/07/29/5f5b4bb6902407bf33b6263a41be6134.jpg",
+        "https://catalog-plans.ru/files/2024/07/29/59e1f8ae16b9953109b45cb83a344587.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/07/29/18c30746c28f2da0b6f2527b2f9a821e.jpg",
+        "https://catalog-plans.ru/files/2024/07/29/6e6542378a7a3518b68a7edaf4498432.jpg",
+        "https://catalog-plans.ru/files/2024/07/29/b0e095de0a9f000d922c5c8077846438.jpg",
+        "https://catalog-plans.ru/files/2024/07/29/028b49af2a361385f1682ba18b554dc7.jpg"
+      ],
+      "sha256": "bcf3c98ac7c6754774789f6dd693f8a9a43878aba8a65ff71888a41979b81cb6"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 292339,
+      "project": "63-79AL",
+      "plans": [
+        "https://catalog-plans.ru/files/2021/12/09/fd47e32deff79e4c2c8c47ea9bfc0a34.jpg",
+        "https://catalog-plans.ru/files/2021/12/09/60a0e22a9b39168c6fbcfe73137b7c80.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2021/12/09/6c4e8a8e1ba2e19671d0a992f9e4834c.jpg",
+        "https://catalog-plans.ru/files/2021/12/09/e1c70ab07810f1d5e73ad76fb450512c.jpg",
+        "https://catalog-plans.ru/files/2021/12/09/21bbef6c9404e2b06c67fb903cc98db8.jpg",
+        "https://catalog-plans.ru/files/2021/12/09/3d551c7ced9d1e99d3bd26854dbd985b.jpg"
+      ],
+      "sha256": "4798fc962e41963860182aa3f6b853d2b52dff46a4f634d70d2c084a895f041b"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 324021,
+      "project": "45-75L",
+      "plans": [
+        "https://catalog-plans.ru/files/2019/10/14/b1f01ed03176e2f0e3024b068ef346e8.jpg",
+        "https://catalog-plans.ru/files/2019/10/14/de4cdada4f99b59a4db9b0a513ce246a.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2019/10/14/ea8a2a9c76a57b66d9556dae9603d69b.jpg",
+        "https://catalog-plans.ru/files/2019/10/14/300d6b6300cb4f9a1724ec0ef652fb83.jpg",
+        "https://catalog-plans.ru/files/2019/10/14/82141c5f3559970ecb48ded3eedf28c1.jpg",
+        "https://catalog-plans.ru/files/2019/10/14/46bca4b640c79a3664c26ddcac1b29df.jpg"
+      ],
+      "sha256": "ac0896644822dbe3eb4efdcb665013c7301cbec3b987cea75075baae09b22eea"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 388436,
+      "project": "40-11HC2L",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/04/16/4b4c5a189a66bdba5fc95862015cba34.jpg",
+        "https://catalog-plans.ru/files/2020/04/16/8dbffebaa8774e244b6b363ce4e1c60e.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2019/10/01/c79e7d6850f657d095eebaf3caeac570.jpg",
+        "https://catalog-plans.ru/files/2019/10/01/af1b03c00f44689a0a0dff072454ad2a.jpg",
+        "https://catalog-plans.ru/files/2019/10/01/0ba2431a2c907b1682f54025b06d057f.jpg",
+        "https://catalog-plans.ru/files/2019/10/01/2c6b80c7c03c3eed73cfe11555b4e04e.jpg"
+      ],
+      "sha256": "d6d686d657548ef546b6e6ebeaff85af0daa8cb06befa2c210436dd7a8e9c3b0"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 343428,
+      "project": "59-95ML",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/04/07/03123573ce4c1d104daedf73d0e8cd70.jpg",
+        "https://catalog-plans.ru/files/2020/04/07/e955b2212151df56695f8ddf1e50ca83.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2020/04/07/731d9f97493e37cd18f73ab1bc7a5b3f.jpg",
+        "https://catalog-plans.ru/files/2020/04/07/b23d26214fd52e662f803207ea820612.jpg",
+        "https://catalog-plans.ru/files/2020/04/07/e9996f1b3d4b5d08128863f715908c34.jpg",
+        "https://catalog-plans.ru/files/2020/04/07/3a01208188435466b685d421c86b6187.jpg"
+      ],
+      "sha256": "2df7202d13a0276235407e82f055758c88616842bdf21069cd09b7e137559b20"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 302057,
+      "project": "57-09K",
+      "plans": [
+        "https://catalog-plans.ru/files/2014/12/19/30a42be16cdc7bc84212e0ef124f6c5f.jpg",
+        "https://catalog-plans.ru/files/2014/12/19/9eeb0b585ade99337ac37e1f77c98771.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2014/12/19/d5d301391b55c6c8e0bd49d4ab1925cc.jpg",
+        "https://catalog-plans.ru/files/2014/12/19/e727256f11020762cf28769076302985.jpg",
+        "https://catalog-plans.ru/files/2014/12/19/4ccf70bdbaa953e7e16d863a2d51aed6.jpg",
+        "https://catalog-plans.ru/files/2014/12/19/eba08f79e1512c0ad626a00fd194ebda.jpg"
+      ],
+      "sha256": "4a608a7e96bd1068062565e698b97b0ea3e3df63cec3a66a0fc63c3a0dce3a6c"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 292946,
+      "project": "45-31",
+      "plans": [
+        "https://catalog-plans.ru/files/2017/05/16/078988eb377de9ce502cde88f7de907a.jpg",
+        "https://catalog-plans.ru/files/2017/05/16/cbacd8f09a9dd3f2724fa8d1624d769b.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2017/05/16/ff293678611465b80f86627829c31c27.jpg",
+        "https://catalog-plans.ru/files/2017/05/16/3eeedf1d973f13fd9d5dcac38c0ac9f7.jpg",
+        "https://catalog-plans.ru/files/2017/05/16/866b5796f9d5224e35352c3765c97ad5.jpg",
+        "https://catalog-plans.ru/files/2017/05/16/2da06b349e55c65ca2f737542f0f1665.jpg"
+      ],
+      "sha256": "7678b846589955a595376a4ddfe822f2a012720f1941aeb64414e9a141fa3cf1"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 249708,
+      "project": "57-63WA",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/07/13/b6638351fefe4f02a36867b72764730a.jpg",
+        "https://catalog-plans.ru/files/2022/07/13/1781c9fcd6d8b4b7d368505a34905ba5.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2026/06/16/961f8393e2f62ca660f4b284007f18ed.jpg",
+        "https://catalog-plans.ru/files/2026/06/16/31d5432c1c05ea97b6d6f43d60ed8120.jpg",
+        "https://catalog-plans.ru/files/2026/06/16/29bea4efbe22f9503b83cb28558638ec.jpg",
+        "https://catalog-plans.ru/files/2026/06/16/7eee18943944292755f1e1285b90d4f8.jpg"
+      ],
+      "sha256": "91e3b3f9e4d2ae335ad8f2640db907cd3ec8da83f21a525714e0d10d91c018a0"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 268427,
+      "project": "58-15",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/02/05/1eba5d1c0cd1cae02565a7b274e8a393.jpg",
+        "https://catalog-plans.ru/files/2015/02/05/3fb4d5e02e31e4e614eacd36bed3155b.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/02/05/c1b72ffae029c88b79a3c37ddd1296ad.jpg",
+        "https://catalog-plans.ru/files/2015/02/05/29508c5c4e4c9c6150ad44886ac98153.jpg",
+        "https://catalog-plans.ru/files/2015/02/05/6f2c48bd33a4636ee94fb12adf774dd7.jpg",
+        "https://catalog-plans.ru/files/2015/02/05/963f6e4b4ce5f10589be39815759ed83.jpg"
+      ],
+      "sha256": "7dc93232bdf3f1a273aa987560370262b04071ca02c5cf2489bc605adfc1b7ca"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 275804,
+      "project": "61-22B",
+      "plans": [
+        "https://catalog-plans.ru/files/2017/05/10/0cc491f9f53216c06a18fc0006c58f42.jpg",
+        "https://catalog-plans.ru/files/2017/05/10/fce36633c2368a420ce5b239c946a350.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2017/05/10/c2c1c37abf110756ccfe7a948df2693b.jpg",
+        "https://catalog-plans.ru/files/2017/05/10/7bbfcd9f3326eee4b8415a90347f13fa.jpg",
+        "https://catalog-plans.ru/files/2017/05/10/a9837d603eade951628b08091098d0d5.jpg",
+        "https://catalog-plans.ru/files/2017/05/10/c356e9e66fad92a443da8b9f6407ab1e.jpg"
+      ],
+      "sha256": "21bd6707d97e58eb02b7a4da312d5c4b730867764c69295c271709fbfbb9ad6d"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 274090,
+      "project": "60-88",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/04/22/940e04b27935d76be9f5928437a6ed1f.jpg",
+        "https://catalog-plans.ru/files/2015/04/22/c5d49d59adad9fa3628a701c94740f39.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/04/22/a57f6fd336a023637d54ff19d9223afc.jpg",
+        "https://catalog-plans.ru/files/2015/04/22/be6cb31c89480534af1da634b06ce900.jpg",
+        "https://catalog-plans.ru/files/2015/04/22/67bce6a68060bca1f62c7fdd010d11c3.jpg",
+        "https://catalog-plans.ru/files/2015/04/22/24b0f64c10ad46fd57383fddc6f8e291.jpg"
+      ],
+      "sha256": "e1c8152dddc4043774e226d43e95d92facac8196548df3cfec47e7723d17761b"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 338679,
+      "project": "80-03",
+      "plans": [
+        "https://catalog-plans.ru/files/2014/12/25/df24250b342eee0a4e96ef12ccb6e82b.jpg",
+        "https://catalog-plans.ru/files/2014/12/25/6cbb632d6d2a30b860e66eb393755e02.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2014/12/25/b295456fa573298c1c79fbf9290ecd99.jpg",
+        "https://catalog-plans.ru/files/2014/12/25/51e1cd8a8006f6daefb02c9cf5815992.jpg",
+        "https://catalog-plans.ru/files/2014/12/25/0459ae80699ec619fbd20adca51d139b.jpg",
+        "https://catalog-plans.ru/files/2014/12/25/9bba138b0f40b892defdd07f7730cc93.jpg"
+      ],
+      "sha256": "e1afbb9686b544275e8c6bef1cf180b5032faaa25b1b3a6024adc37c2de28327"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 226339,
+      "project": "40-04NA",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/11/13/b8cfcca6932a21852244706db74d77b7.jpg",
+        "https://catalog-plans.ru/files/2023/11/13/73bc24b9e680c5e9acef4e6c46b042f6.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/12/27/d9c192aaafa2fea08192bfa4b96330d8.jpg",
+        "https://catalog-plans.ru/files/2023/12/27/7ee7c24c37fe18b005c3d1a9835b821b.jpg",
+        "https://catalog-plans.ru/files/2023/12/27/36e4640647573b81585bd542824f05d1.jpg",
+        "https://catalog-plans.ru/files/2023/12/27/77e960d2e33e8670b43cc1a6bc11da4c.jpg"
+      ],
+      "sha256": "efe7389d2c1d70ebc917d26e4ee11b55e8879812e59ee50e3b4d5b46034e28c3"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 228750,
+      "project": "57-05N",
+      "plans": [
+        "https://catalog-plans.ru/files/2019/09/02/72bf92427ab0ac92c413b9c116a2b4de.jpg",
+        "https://catalog-plans.ru/files/2019/09/02/9af5e28c88a73ddb7dec0c695d3ad2cd.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/10/17/4afa70021d2731296d963fb0501c3c2d.jpg",
+        "https://catalog-plans.ru/files/2024/10/17/603237d233ec84dc1ebb46cca67faf41.jpg",
+        "https://catalog-plans.ru/files/2024/10/17/2902d35a5d91135af12bd8a2d66e9409.jpg",
+        "https://catalog-plans.ru/files/2024/10/17/a080d978fcd06ebd7da8e8737a231e0f.jpg"
+      ],
+      "sha256": "bc3f14b1620437782a017590ae875c91b2532cd4084a9f9b979dd65c367a6e41"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 279221,
+      "project": "50-06",
+      "plans": [
+        "https://catalog-plans.ru/files/2014/12/05/428b220450c0316d625e119dde541c69.jpg",
+        "https://catalog-plans.ru/files/2014/12/05/71d31e8aa2778e049605df7e841eb10e.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2014/12/05/b24e32b1ebb023b655e2a0bf71ed4c63.jpg",
+        "https://catalog-plans.ru/files/2014/12/05/bc48b2eeb03378b9cc9dbe1c9cabb9fd.jpg",
+        "https://catalog-plans.ru/files/2014/12/05/ea85eabb296e4bcd8fd7277b91ca8f3e.jpg",
+        "https://catalog-plans.ru/files/2014/12/05/e8f43de386b43ad51a05103b051a404c.jpg"
+      ],
+      "sha256": "1e75b66b57f0aa154f35fe85e5fd1d6ff99f1b1afc6163321b27ac38abcff19c"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 247463,
+      "project": "62-22B",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/03/10/fd46c2deffe1c44d8734f74283bb075d.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2019/12/30/1deb9732a97aa4af8ef22a270d08e186.jpg",
+        "https://catalog-plans.ru/files/2019/12/30/ca8416e667949a5b5299285a4e22544e.jpg",
+        "https://catalog-plans.ru/files/2019/12/30/6b7bc8de73bbe13ef38130a120d32c8b.jpg",
+        "https://catalog-plans.ru/files/2019/12/30/e0cee70c6922747237d03d95f6e2fe49.jpg"
+      ],
+      "sha256": "7c5b06d73cb2aab2c801f8560d5578c990c613b26d46b5d1eb7ba57ddca69cb7"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 280114,
+      "project": "68-19ML",
+      "plans": [
+        "https://catalog-plans.ru/files/2024/11/20/dd1442364a85fd9960ad44d7b61e3e92.jpg",
+        "https://catalog-plans.ru/files/2024/11/20/ac80ed5631befb0bd3dbd9275de3f593.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2024/11/20/e3491f75b8bbd056c8b4bb769b822972.jpg",
+        "https://catalog-plans.ru/files/2024/11/20/91b643bef5a51a27b435ec9d2089fe5b.jpg",
+        "https://catalog-plans.ru/files/2024/11/20/53df04c3b9800c68a90630fdcd178637.jpg",
+        "https://catalog-plans.ru/files/2024/11/20/5ba73ee729466c811baec2d7485d0986.jpg"
+      ],
+      "sha256": "d3cf1489273e4cb1529f075aae650c58a8cc856d0d2fbb42db7c04653849b182"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 292907,
+      "project": "57-63FDL",
+      "plans": [
+        "https://catalog-plans.ru/files/2020/03/31/11e9a13958eafd7729e2e8aecf869bb9.jpg",
+        "https://catalog-plans.ru/files/2020/03/31/974889dd82f11990c18fbc3c71e6df11.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2020/03/31/8d5db3513fe22f20c845a3951edc8f7b.jpg",
+        "https://catalog-plans.ru/files/2020/03/31/7054f5dcb2d21491aa70bf215d9955bc.jpg",
+        "https://catalog-plans.ru/files/2020/03/31/52586b9742383bfe36cfb459094364a0.jpg",
+        "https://catalog-plans.ru/files/2020/03/31/451dedbb4f485275d3ddba04bceeee53.jpg"
+      ],
+      "sha256": "e1b36abdc4d568b18ea7221e411d53b0952bc16dcb9efee3e28a5120b3aa92fb"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 396446,
+      "project": "30-46",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/24/756c498f8bf15c9d7b138504a32d744a.jpg",
+        "https://catalog-plans.ru/files/2015/01/24/4eb6f591274e910741105461f2675b95.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/24/34a6fd2bcb5f84d8f344ac3e2cb77802.jpg",
+        "https://catalog-plans.ru/files/2015/01/24/1e592a77d3b0f753a7fb436eecc1bd65.jpg",
+        "https://catalog-plans.ru/files/2015/01/24/8c070944297dbd76ee93594b6fa651cd.jpg",
+        "https://catalog-plans.ru/files/2015/01/24/8aad078fe5e0c326acfe5bbae5c0e3aa.jpg"
+      ],
+      "sha256": "7bb6c061dead5aa796f082d0e8d637c82cbc3b174daa6a4e34ef80de3644b811"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 318272,
+      "project": "32-81",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/28/5114109d91b8a268998eb4c0b3d58ad1.jpg",
+        "https://catalog-plans.ru/files/2015/01/28/a6c2fc8973b772dd066a296bff5d985f.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/28/283b826955cb96af908f9c3e5a598c99.jpg",
+        "https://catalog-plans.ru/files/2015/01/28/cf2647365f8dbecadda5c1400c463327.jpg",
+        "https://catalog-plans.ru/files/2015/01/28/7f6bf09ae4e3d283dbd297f9fd36f698.jpg",
+        "https://catalog-plans.ru/files/2015/01/28/73568220d9005c742b7e65837471b1ab.jpg"
+      ],
+      "sha256": "63290548bbbd9095e478942406ab91e13c6d30d73c9409dca42574c11715af94"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 315532,
+      "project": "37-06",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/01/12/2bc7d83f3401fc4373b78d7de1d35b37.jpg",
+        "https://catalog-plans.ru/files/2015/01/12/0aefae08a40464fa6ef35e47c755eba2.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/01/12/503f10e9dc90882795774594e0e1e5bd.jpg",
+        "https://catalog-plans.ru/files/2015/01/12/602556bc664b5e756137140c065f1a94.jpg",
+        "https://catalog-plans.ru/files/2015/01/12/45ca66d661932635723c710d0dbebeca.jpg",
+        "https://catalog-plans.ru/files/2015/01/12/63482a2f56c666230639fb4111e57e4b.jpg"
+      ],
+      "sha256": "3ef96b20a5fba5ee5e5c94c2bf9fed6aa27d152fee6a4fa2aee732962223ae84"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 259388,
+      "project": "62-07A",
+      "plans": [
+        "https://catalog-plans.ru/files/2018/06/28/35ae0f026f7dde5dd8c75805df4bfaad.jpg",
+        "https://catalog-plans.ru/files/2018/06/28/4733864cb203be6d078e1b2b02f0beb7.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2018/06/28/718ad29e184250b28522c135d3485add.jpg",
+        "https://catalog-plans.ru/files/2018/06/28/da27d6bc089c9c72ed94a94a77b06eae.jpg",
+        "https://catalog-plans.ru/files/2018/06/28/22b4fa23a1955926acfbaa753474ff3e.jpg",
+        "https://catalog-plans.ru/files/2018/06/28/fe89a49db21e9792b0ed331c9290492c.jpg"
+      ],
+      "sha256": "7c3cdc0715e900de2cdb975775945d567ba2a297ef57ce78c8d6e7018b1f73e6"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 245789,
+      "project": "62-52L",
+      "plans": [
+        "https://catalog-plans.ru/files/2017/10/23/6c9bf99ad145131d0cdf151803174bd5.jpg",
+        "https://catalog-plans.ru/files/2017/10/23/0e89590cbb407ae9b945398178de5896.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2017/10/23/436a1b4a35b14b8e98a061e79ce11b80.jpg",
+        "https://catalog-plans.ru/files/2017/10/23/1a09d9e8285a720068fa4148878e9981.jpg",
+        "https://catalog-plans.ru/files/2017/10/23/8c8778594d82e8a759b325380d92af58.jpg",
+        "https://catalog-plans.ru/files/2017/10/23/b9a3eb7fb6e4c324f0e7c86be9242218.jpg"
+      ],
+      "sha256": "7a1042081cc4f4ba64f700d0acddca645af9c862e1e997b44b59e4174b69852d"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 299492,
+      "project": "65-02",
+      "plans": [
+        "https://catalog-plans.ru/files/2023/07/28/f4ef86085f90ef3a36b327a9041da8fb.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2023/07/28/6e043cb08d025b6ae3fe93ff6b5d1b00.jpg",
+        "https://catalog-plans.ru/files/2023/07/28/0fbbda14782eb47328ea22ddc5a1c08f.jpg",
+        "https://catalog-plans.ru/files/2023/07/28/0af9c4ce1a29db32ce6daa2d49ffc202.jpg",
+        "https://catalog-plans.ru/files/2023/07/28/373e954945f17bccc3fc325f22c2b085.jpg"
+      ],
+      "sha256": "00e7e1ff27123407f05c7f61844e03442dc99f242a94057ece74ee452dd29077"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 301876,
+      "project": "68-31M",
+      "plans": [
+        "https://catalog-plans.ru/files/2025/03/12/2f017b06720340d83ed0cbbb0109664b.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2025/03/12/7f505aafa44335e2baaf6a0457500bcb.jpg",
+        "https://catalog-plans.ru/files/2025/03/12/56f290c278251473ce68a8f95abdd08b.jpg",
+        "https://catalog-plans.ru/files/2025/03/12/5700b5e9f9fb86d09be44f262de9d8f3.jpg",
+        "https://catalog-plans.ru/files/2025/03/12/2e44e8ffcdcc491bc2cc5ced43de8292.jpg"
+      ],
+      "sha256": "0e3465e86d36a082a392b93185a0741a24f67e27d7c21e91ac549b73daa6c4e8"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 277532,
+      "project": "58-64CK1L",
+      "plans": [
+        "https://catalog-plans.ru/files/2025/09/23/bbfeb8da525ae2981cbfc8ea8a7e1d43.jpg",
+        "https://catalog-plans.ru/files/2025/09/23/fa6b3d6c9927559e1597fea9c5402f98.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2025/09/23/883687cf64dc7b33d36a76ddcbe561b2.jpg",
+        "https://catalog-plans.ru/files/2025/09/23/c0f18aee391c5bc4e5351c815eab5188.jpg",
+        "https://catalog-plans.ru/files/2025/09/23/028ee0b8bcd15412957fa9853d76d727.jpg",
+        "https://catalog-plans.ru/files/2025/09/23/95f8e1b9287048e5660d8eff72e6beb6.jpg"
+      ],
+      "sha256": "59a89386df75c75e67b48d83dea324247f76fcdb80b2df023c5b630c08569f61"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 281631,
+      "project": "46-40AK2L",
+      "plans": [
+        "https://catalog-plans.ru/files/2022/07/07/f0b0ad42ab093ff3b77af52bfad79f63.jpg",
+        "https://catalog-plans.ru/files/2022/07/07/347424efa8cbb904b5088175add507ed.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2022/07/11/abfc8baa6750c89535e42a08ddd0ad75.jpg",
+        "https://catalog-plans.ru/files/2022/07/11/5da5c1448f09e804cc3e5b18b7c46b3a.jpg",
+        "https://catalog-plans.ru/files/2022/07/11/1f8032999ee0e04ad9254e7dc5d67370.jpg",
+        "https://catalog-plans.ru/files/2022/07/11/5fe3b52ad0867d68434a3328423f15af.jpg"
+      ],
+      "sha256": "51576d742018ab88664b4fc9b7cf62686a3a354c0d46ad66b4a6965ac8baebd7"
+    },
+    {
+      "codec": "h264",
+      "width": 720,
+      "height": 1080,
+      "pix_fmt": "yuv420p",
+      "duration": 7.4,
+      "size": 296758,
+      "project": "57-19L",
+      "plans": [
+        "https://catalog-plans.ru/files/2015/02/04/1ac57e25d9d0e29eabffd4dc7de25ba1.jpg",
+        "https://catalog-plans.ru/files/2015/02/04/29bb16dc3b780b3c6c4ca5b17463cf74.jpg"
+      ],
+      "facades": [
+        "https://catalog-plans.ru/files/2015/02/04/3e2a439e2fbe8f0ad2244ec07f2af9ba.jpg",
+        "https://catalog-plans.ru/files/2015/02/04/544bab81ba8d9dda0c8921a08bb453ec.jpg",
+        "https://catalog-plans.ru/files/2015/02/04/3f048d0c1004509d9f236902767630ac.jpg",
+        "https://catalog-plans.ru/files/2015/02/04/2fcfbc60c27d662ea8a6b5fd33c676d8.jpg"
+      ],
+      "sha256": "3fd591b38ffc91dfe4bc94d170f8f3bd040613565b1c20912a5df411e3ed4120"
+    }
+  ]
+}

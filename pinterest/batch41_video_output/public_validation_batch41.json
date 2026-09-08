@@ -1,0 +1,1208 @@
+{
+  "total": 200,
+  "verified": 200,
+  "all_public_urls_http_200": true,
+  "all_sha256_match": true,
+  "files": [
+    {
+      "project": "13-71",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/13-71.mp4",
+      "sha256": "5450e830e1b1f4d07024c2e9e9cd00c6754488e39347a1194e743f3cdd20dba0",
+      "bytes": 237735
+    },
+    {
+      "project": "30-46",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/30-46.mp4",
+      "sha256": "7bb6c061dead5aa796f082d0e8d637c82cbc3b174daa6a4e34ef80de3644b811",
+      "bytes": 396446
+    },
+    {
+      "project": "30-65",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/30-65.mp4",
+      "sha256": "b04162ddfaca6d07586471a18067df13f1468272148c0002a80a53cce28503b0",
+      "bytes": 363427
+    },
+    {
+      "project": "32-81",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/32-81.mp4",
+      "sha256": "63290548bbbd9095e478942406ab91e13c6d30d73c9409dca42574c11715af94",
+      "bytes": 318272
+    },
+    {
+      "project": "32-87",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/32-87.mp4",
+      "sha256": "260ec7cb2bba0235cd4e8550c1225017f7b5a0e4e27120c5aa8a955fbc6a6c7d",
+      "bytes": 392918
+    },
+    {
+      "project": "32-95",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/32-95.mp4",
+      "sha256": "1491d8b63cbd5abc266dd6ae24bb4a0318d4260706c041855a705505e6dd98de",
+      "bytes": 319031
+    },
+    {
+      "project": "33-00",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/33-00.mp4",
+      "sha256": "45c0da4c957e3937accdbf356e0f039e9799280257ac6c53c0f3edebcdc3b073",
+      "bytes": 289770
+    },
+    {
+      "project": "34-62",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/34-62.mp4",
+      "sha256": "e980dfbb40ea0947f693211c12c47877be4f5c223dc06a28f9bf794dd17c509c",
+      "bytes": 298663
+    },
+    {
+      "project": "34-72",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/34-72.mp4",
+      "sha256": "6d623a30465d71583f3b822279d1a134ff4134a395cd7a4ecf80f05c1db5d541",
+      "bytes": 255429
+    },
+    {
+      "project": "34-74",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/34-74.mp4",
+      "sha256": "77f70dedff6195e6696890cae35713cf3bad5fb771bf6a2ca368ebc1e8945038",
+      "bytes": 309475
+    },
+    {
+      "project": "35-13",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/35-13.mp4",
+      "sha256": "f2d9380535f17483090711eb283a1603b8426534ca163b1f77d6ad84664563af",
+      "bytes": 327712
+    },
+    {
+      "project": "35-19",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/35-19.mp4",
+      "sha256": "30bd395269f3997b6c50007e88d859456fcf07e82389e3518309b01d8acab363",
+      "bytes": 331120
+    },
+    {
+      "project": "35-28",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/35-28.mp4",
+      "sha256": "a34610ef6bd20e7dbdf93f6a952cfcf8fcb42511d12f640dad1b2e719d28be86",
+      "bytes": 300191
+    },
+    {
+      "project": "35-83",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/35-83.mp4",
+      "sha256": "429268a6f288eab2ca191c9f0c0e326a0aeff2b0c1e33e264f6af59eb6d724f2",
+      "bytes": 382197
+    },
+    {
+      "project": "36-07",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/36-07.mp4",
+      "sha256": "e4d711022f5724496e23b3190b3605b0d5ebab6bba23a92cf18c06a34edd2b8c",
+      "bytes": 318708
+    },
+    {
+      "project": "36-50",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/36-50.mp4",
+      "sha256": "36299afa007760654b185a186b0b2bba516bd87bce0d1a876beb79ac7e578f03",
+      "bytes": 339217
+    },
+    {
+      "project": "37-06",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/37-06.mp4",
+      "sha256": "3ef96b20a5fba5ee5e5c94c2bf9fed6aa27d152fee6a4fa2aee732962223ae84",
+      "bytes": 315532
+    },
+    {
+      "project": "40-04BF",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-04BF.mp4",
+      "sha256": "0b56b82746210fafa9dfcbe4ccf52924d52228c2a38aa1feffb1631c57b0ea78",
+      "bytes": 287025
+    },
+    {
+      "project": "40-04NA",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-04NA.mp4",
+      "sha256": "efe7389d2c1d70ebc917d26e4ee11b55e8879812e59ee50e3b4d5b46034e28c3",
+      "bytes": 226339
+    },
+    {
+      "project": "40-07BL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-07BL.mp4",
+      "sha256": "190220f2413a9bc02d4406a036ba790de3676afc7b19d2bfc592838130b336fa",
+      "bytes": 415059
+    },
+    {
+      "project": "40-11CVL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-11CVL.mp4",
+      "sha256": "6d08cd3d186b669e6ed9f1129eacb4000fef6006853ac97128f1b757479ff021",
+      "bytes": 445848
+    },
+    {
+      "project": "40-11HC2L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-11HC2L.mp4",
+      "sha256": "d6d686d657548ef546b6e6ebeaff85af0daa8cb06befa2c210436dd7a8e9c3b0",
+      "bytes": 388436
+    },
+    {
+      "project": "40-24",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-24.mp4",
+      "sha256": "5895c44d679545ef0affca27ddc92eba7f6e57a7c4a371a7c17059ef00e0393a",
+      "bytes": 282360
+    },
+    {
+      "project": "40-32",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-32.mp4",
+      "sha256": "890f18956a6cef0602da46576ad9fb7bbc42639b4be11f50b5b5816aa421cd68",
+      "bytes": 282335
+    },
+    {
+      "project": "40-49AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-49AL.mp4",
+      "sha256": "dbd484ce7a307e769547fc37c13fcb9545cba5867f7aa10f41c69245aa6c98eb",
+      "bytes": 308781
+    },
+    {
+      "project": "40-49D1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-49D1L.mp4",
+      "sha256": "4764f639e0fd6fd8cfb7e3e04a87f19793ec3464507c031f100af49d4644b743",
+      "bytes": 418870
+    },
+    {
+      "project": "40-56DEK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-56DEK1L.mp4",
+      "sha256": "2ab40cd84d745075c8e9930d913a069208a65850d582888d2320e7b7923bb7ab",
+      "bytes": 310260
+    },
+    {
+      "project": "40-59G",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-59G.mp4",
+      "sha256": "094fed51f18391b31143ec6243524880bd34addf6e310408484a2252b32fcfc4",
+      "bytes": 256690
+    },
+    {
+      "project": "40-62GL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-62GL.mp4",
+      "sha256": "c1f5bf5de8da7a1562c9643e26137e1445880838d85da328c83f52b323ff92b0",
+      "bytes": 342188
+    },
+    {
+      "project": "40-73CGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-73CGL.mp4",
+      "sha256": "d439f7340b947fce8eeedfceb3086dccc836f9fa8f51b1769c588dd1219fabed",
+      "bytes": 256117
+    },
+    {
+      "project": "40-75ABGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-75ABGL.mp4",
+      "sha256": "8857681633ca0035f8243949a667e171656bbcbaf29971be748f1d1270b98e63",
+      "bytes": 346717
+    },
+    {
+      "project": "40-75FL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-75FL.mp4",
+      "sha256": "6791c005fd1729a9df007a4a42b7885ff4ca2f16e4720d162999975f95dc4625",
+      "bytes": 290579
+    },
+    {
+      "project": "40-84DAG",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-84DAG.mp4",
+      "sha256": "a60d38f35b1f99f309076ad54e739d0c66c5d2edf9fb7ed41fb923f4f84c1326",
+      "bytes": 247403
+    },
+    {
+      "project": "40-89FG",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/40-89FG.mp4",
+      "sha256": "b47587b09df9de8cab642ee88de4509b919095c5190a7f0ceeebd3ff3c800374",
+      "bytes": 259518
+    },
+    {
+      "project": "45-08D",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/45-08D.mp4",
+      "sha256": "3d711e9eb0c63e5ad57c791a01c6311380a6bcd3978d25b5bcfbfe8997deb4fa",
+      "bytes": 303141
+    },
+    {
+      "project": "45-08TABG",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/45-08TABG.mp4",
+      "sha256": "277775d07e62a3245111e856c9dd2ab89b596fed662fef53e5916418183a0ef0",
+      "bytes": 240630
+    },
+    {
+      "project": "45-31",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/45-31.mp4",
+      "sha256": "7678b846589955a595376a4ddfe822f2a012720f1941aeb64414e9a141fa3cf1",
+      "bytes": 292946
+    },
+    {
+      "project": "45-64NTGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/45-64NTGL.mp4",
+      "sha256": "a006857de57eaa02d534b2fd010ffa0fda2de893bcba32fc64a6c4208eda7c6a",
+      "bytes": 298858
+    },
+    {
+      "project": "45-64ZAFGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/45-64ZAFGL.mp4",
+      "sha256": "89dc43bf98c2e54be0ae5ec9d5f005adbbbdafec1659972660feab870d73d5d5",
+      "bytes": 264820
+    },
+    {
+      "project": "45-64ZAQGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/45-64ZAQGL.mp4",
+      "sha256": "a864ab6e3bafa2fd8a8b2d9a4b1cc64f669fd57c84336eda635c39e1714f0d21",
+      "bytes": 282226
+    },
+    {
+      "project": "45-64ZAWG",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/45-64ZAWG.mp4",
+      "sha256": "72881aa009a6ee2ce6c43a0dfce22a3090a84fdb7e472721f55441fff5e6992e",
+      "bytes": 263682
+    },
+    {
+      "project": "45-64ZDGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/45-64ZDGL.mp4",
+      "sha256": "5dc2e8a00b3535394b238693ba6524d7d5cb37d9302043926499c2bfb95b962f",
+      "bytes": 262105
+    },
+    {
+      "project": "45-75L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/45-75L.mp4",
+      "sha256": "ac0896644822dbe3eb4efdcb665013c7301cbec3b987cea75075baae09b22eea",
+      "bytes": 324021
+    },
+    {
+      "project": "46-02AGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/46-02AGL.mp4",
+      "sha256": "eea0a115ba1c23ad07a80d83117a4e6fdec2975dab376752da876aeaa797b814",
+      "bytes": 299406
+    },
+    {
+      "project": "46-06D",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/46-06D.mp4",
+      "sha256": "896f1dabaafb7940769a548b9f2805da9bc35566ede9cacdb745164e67664133",
+      "bytes": 291295
+    },
+    {
+      "project": "46-22BK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/46-22BK1L.mp4",
+      "sha256": "06a5df7f75d2db0a93c82822265256eb1b93839a7169fb85a1a107eb928f9789",
+      "bytes": 290626
+    },
+    {
+      "project": "46-22L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/46-22L.mp4",
+      "sha256": "ca582d2ad540975a9edb2eec93e8dad08c403b6be383897cd0485536fccfce99",
+      "bytes": 309573
+    },
+    {
+      "project": "46-40AK2L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/46-40AK2L.mp4",
+      "sha256": "51576d742018ab88664b4fc9b7cf62686a3a354c0d46ad66b4a6965ac8baebd7",
+      "bytes": 281631
+    },
+    {
+      "project": "46-50K1",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/46-50K1.mp4",
+      "sha256": "10045bdd1bc3a09deae52c1bcbb7cc47cb234ef09baf4dce022b1045146f191a",
+      "bytes": 245033
+    },
+    {
+      "project": "46-98KB",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/46-98KB.mp4",
+      "sha256": "11fb654666bcc934796da00ccda4c8626bced26c6f71343e197dbd9493620308",
+      "bytes": 269458
+    },
+    {
+      "project": "47-66",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/47-66.mp4",
+      "sha256": "0915d88c366ee33c549391c42f3e334894561631a5ba86a5157cd176d88d7b5d",
+      "bytes": 279998
+    },
+    {
+      "project": "47-95",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/47-95.mp4",
+      "sha256": "8f6c9ab9c2d329cad7da5cc15625140a179039356ef527f5c78f0d9c71240a12",
+      "bytes": 244718
+    },
+    {
+      "project": "48-20G",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/48-20G.mp4",
+      "sha256": "94398e84427911206c355057d0743c632cd784179f9e5ef45d098c646e51fcc1",
+      "bytes": 333061
+    },
+    {
+      "project": "48-24G",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/48-24G.mp4",
+      "sha256": "529ef4bcca3a13fc4239799a3d2b91d1ba1c5cdc4aa736b33a0181150fce40be",
+      "bytes": 277972
+    },
+    {
+      "project": "48-24GF",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/48-24GF.mp4",
+      "sha256": "3343688d6c1832bf18c1e9a1afd07741be0dd243e994b0ebabe7316c2e6d085c",
+      "bytes": 272227
+    },
+    {
+      "project": "48-29MGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/48-29MGL.mp4",
+      "sha256": "0559c6320c542250f4da3a26e38e330538431d1b9c8b49dc0517daf90dca9bea",
+      "bytes": 278373
+    },
+    {
+      "project": "48-29QL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/48-29QL.mp4",
+      "sha256": "6c663f8d3c0c5108515030a2ae9deadf305320c3bc3a5ed2fddfcece6e712890",
+      "bytes": 280022
+    },
+    {
+      "project": "49-09",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/49-09.mp4",
+      "sha256": "f3fda46560a46e3a43768e7ed9dfdfa4b2253498672d6958b4eaa3ce965becdb",
+      "bytes": 280735
+    },
+    {
+      "project": "50-06",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/50-06.mp4",
+      "sha256": "1e75b66b57f0aa154f35fe85e5fd1d6ff99f1b1afc6163321b27ac38abcff19c",
+      "bytes": 279221
+    },
+    {
+      "project": "50-86",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/50-86.mp4",
+      "sha256": "b658d48d4cafd64da2fc9b03811bd3c395eb0ccee1845ef308e7b46ab5f39bea",
+      "bytes": 298667
+    },
+    {
+      "project": "51-71",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/51-71.mp4",
+      "sha256": "64d14179d60af870d97b12f10d3fc83d5f6a047198143b6976e467c7204588b1",
+      "bytes": 280146
+    },
+    {
+      "project": "52-18",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/52-18.mp4",
+      "sha256": "8dda8cdc41cd4a0c1b80f432890b774d2a58e75ca20403f672fd1dcb69d6d9f2",
+      "bytes": 331591
+    },
+    {
+      "project": "52-91",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/52-91.mp4",
+      "sha256": "9d7eea9298c79ea5ab1209a4c3a303debb510e8ad3ef073ba25349ee115f7f8f",
+      "bytes": 441038
+    },
+    {
+      "project": "53-20",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/53-20.mp4",
+      "sha256": "e5a1a46576b2a91f687d96de4e745882c8d144c43ef60f454dd42cf46fcba811",
+      "bytes": 340421
+    },
+    {
+      "project": "53-46",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/53-46.mp4",
+      "sha256": "7d7b623fd1db8665956a9a6bf5b9d9cb0324b2772774e400e789376ea02a44cd",
+      "bytes": 310736
+    },
+    {
+      "project": "54-13",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/54-13.mp4",
+      "sha256": "88035f690b010a37d7d20c512ec4318d4eb31b850494e067c02718ee4d69bc47",
+      "bytes": 300465
+    },
+    {
+      "project": "55-00",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/55-00.mp4",
+      "sha256": "b294ad2dce3152511a1c685de98fd6a9d26dfe207d8bdeafc41cfa1b98b6f95d",
+      "bytes": 312191
+    },
+    {
+      "project": "57-00D",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-00D.mp4",
+      "sha256": "c923b4eeb0a1300ef3bc2e265ce37be9d4a931230fd7afc9e4233d51b451610d",
+      "bytes": 338526
+    },
+    {
+      "project": "57-04A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-04A.mp4",
+      "sha256": "4453aaff56d8e4aeb16323c54525cd46978f1f47db472c5d002d84ff777d079e",
+      "bytes": 343822
+    },
+    {
+      "project": "57-05CABAGL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-05CABAGL.mp4",
+      "sha256": "b7e5562f7bceee162204de6261a53a71015f62f266cd26f0f5087a7ea3a95c95",
+      "bytes": 270643
+    },
+    {
+      "project": "57-05MAK2L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-05MAK2L.mp4",
+      "sha256": "866c7a7e15dda5498d00bf29b13f1a64e8c5122715ed5e7e991dcbd1eb35eb6a",
+      "bytes": 274049
+    },
+    {
+      "project": "57-05N",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-05N.mp4",
+      "sha256": "bc3f14b1620437782a017590ae875c91b2532cd4084a9f9b979dd65c367a6e41",
+      "bytes": 228750
+    },
+    {
+      "project": "57-07L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-07L.mp4",
+      "sha256": "b01cee6163880272e4f482c0a878fb95f8774e28ad3bc3a609c1d370eb934f1f",
+      "bytes": 332078
+    },
+    {
+      "project": "57-09K",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-09K.mp4",
+      "sha256": "4a608a7e96bd1068062565e698b97b0ea3e3df63cec3a66a0fc63c3a0dce3a6c",
+      "bytes": 302057
+    },
+    {
+      "project": "57-12EL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-12EL.mp4",
+      "sha256": "d3a9cd68215d8167cda5beb303dbe5e01afc6eedbd4ce6122cf0690474167e5f",
+      "bytes": 365249
+    },
+    {
+      "project": "57-12L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-12L.mp4",
+      "sha256": "5efaa6ab22bd4e9709ac4e31c724d9512c87b9ecea422203daa5279b50aceb5f",
+      "bytes": 321957
+    },
+    {
+      "project": "57-14",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-14.mp4",
+      "sha256": "1b4236b0787dcae406e7a25350304205dc870d2f689e0401f5d2c60cc4b729b4",
+      "bytes": 326295
+    },
+    {
+      "project": "57-15ABBK",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-15ABBK.mp4",
+      "sha256": "76567aabe3d8e24d74b3344b7ac117cd7e4126645d76f554460390d67386325c",
+      "bytes": 351349
+    },
+    {
+      "project": "57-15HAL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-15HAL.mp4",
+      "sha256": "4c55ee8768b78c3097bc9b3215b2763767e367c7dbfe4894d92a879a9c4dcffc",
+      "bytes": 248015
+    },
+    {
+      "project": "57-18K",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-18K.mp4",
+      "sha256": "ab7815996e7028a6904b7818c445efd3b92722228cce4b63ffed47a0902b51e6",
+      "bytes": 314812
+    },
+    {
+      "project": "57-19L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-19L.mp4",
+      "sha256": "3fd591b38ffc91dfe4bc94d170f8f3bd040613565b1c20912a5df411e3ed4120",
+      "bytes": 296758
+    },
+    {
+      "project": "57-21KL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-21KL.mp4",
+      "sha256": "8309a166e26ff5ae91762020cfa7439e4e655de70669cf56b080f54bbabe7f5c",
+      "bytes": 298542
+    },
+    {
+      "project": "57-24A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-24A.mp4",
+      "sha256": "81d5a2eed6824834937e6cd86986f1b562c6aeb6a8090add392538957b54847d",
+      "bytes": 286828
+    },
+    {
+      "project": "57-25",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-25.mp4",
+      "sha256": "0a7d3e959851cd124cecc77da0f525db7aae1882d147f64109d00e5f3a7deded",
+      "bytes": 293605
+    },
+    {
+      "project": "57-26BK2L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-26BK2L.mp4",
+      "sha256": "b4058e5680eeb61bde3edb340c7ec611da3d5449e95a8cb2ddcef722c82f9324",
+      "bytes": 344132
+    },
+    {
+      "project": "57-33D",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-33D.mp4",
+      "sha256": "c7be63d968ed9d88d246252f51e7f989e035518f5d378cdb3e1dcae3eafc256b",
+      "bytes": 272439
+    },
+    {
+      "project": "57-38",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-38.mp4",
+      "sha256": "70a0e47c09f73d3722be5e21a6a9a4454b60f87d66744398652f8802e7cce1e0",
+      "bytes": 297222
+    },
+    {
+      "project": "57-39Q",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-39Q.mp4",
+      "sha256": "56a9e19cec0ba301f9261c27647534a6c5ae996fd2bd43bc32bdf7dc17acef22",
+      "bytes": 328240
+    },
+    {
+      "project": "57-62ABKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-62ABKL.mp4",
+      "sha256": "94d0e5945a4e21b5f5bdfa9ceb8add9215cf870972358988a4d371537d06fc9e",
+      "bytes": 318420
+    },
+    {
+      "project": "57-63",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-63.mp4",
+      "sha256": "1562aed20c795419b0b1dc987f56c0edfece9c77976496bdf859fad6a569290e",
+      "bytes": 273289
+    },
+    {
+      "project": "57-63FBL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-63FBL.mp4",
+      "sha256": "7970de99b14882bcb9aaa4e29195208b3d18d63e82ce1f580d9dd0b730493ccd",
+      "bytes": 287022
+    },
+    {
+      "project": "57-63FDL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-63FDL.mp4",
+      "sha256": "e1b36abdc4d568b18ea7221e411d53b0952bc16dcb9efee3e28a5120b3aa92fb",
+      "bytes": 292907
+    },
+    {
+      "project": "57-63WA",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-63WA.mp4",
+      "sha256": "91e3b3f9e4d2ae335ad8f2640db907cd3ec8da83f21a525714e0d10d91c018a0",
+      "bytes": 249708
+    },
+    {
+      "project": "57-80",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-80.mp4",
+      "sha256": "b44913445108f2df51e7eb9c50e242dd99c39ad683c204ce3d762e31d07b875d",
+      "bytes": 277978
+    },
+    {
+      "project": "57-85KL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-85KL.mp4",
+      "sha256": "3d088218574538f5883bc88e3947bf845a47330236ab7220b1284fd13247e5b9",
+      "bytes": 333330
+    },
+    {
+      "project": "57-87AK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-87AK1L.mp4",
+      "sha256": "f3b62f755e7c67d88da566239255b7a6e18e420d2739465a2237b71f8758c748",
+      "bytes": 279113
+    },
+    {
+      "project": "57-94",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-94.mp4",
+      "sha256": "89ff37c675afa3a4375bca2026f31ed51427cf2638663df755ff28384fccf9b3",
+      "bytes": 260303
+    },
+    {
+      "project": "57-95L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/57-95L.mp4",
+      "sha256": "56b49667dd0e38e5c9a38b248049eec7f55a38caa951766a9381b55481d1146e",
+      "bytes": 314717
+    },
+    {
+      "project": "58-06",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-06.mp4",
+      "sha256": "5c8daa48714b6aea04c54c3acdba183fdedb935e1813e41fa420d82950d81354",
+      "bytes": 285977
+    },
+    {
+      "project": "58-09TK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-09TK1L.mp4",
+      "sha256": "9dc2f0b678dfab88a3d13ff3e763c8d35fd453d35945664fbb4d8caf840c6ad0",
+      "bytes": 278178
+    },
+    {
+      "project": "58-15",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-15.mp4",
+      "sha256": "7dc93232bdf3f1a273aa987560370262b04071ca02c5cf2489bc605adfc1b7ca",
+      "bytes": 268427
+    },
+    {
+      "project": "58-16E",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-16E.mp4",
+      "sha256": "0ca938c0d156ced6495645d5dbb64abb1d43bb020eb642347d1227c61da0597b",
+      "bytes": 280414
+    },
+    {
+      "project": "58-29K",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-29K.mp4",
+      "sha256": "04fcaa20c806cda8440dbbbc1cb6350e4e3a115288a25ccf317fbf9b3c99562d",
+      "bytes": 272594
+    },
+    {
+      "project": "58-33K",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-33K.mp4",
+      "sha256": "54932024102c6153e22436c8cc8d587dfe6e7e420e76709451cbaf026801f69b",
+      "bytes": 277300
+    },
+    {
+      "project": "58-41BL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-41BL.mp4",
+      "sha256": "0915dbd7e96b6accbd1cbe2909b53b602bc8918fe2a0aebfbdee423e567cb097",
+      "bytes": 312916
+    },
+    {
+      "project": "58-41K",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-41K.mp4",
+      "sha256": "736793f92f367d6cb3683e39abfc302f26871739a47b1952f766ab92fa85da42",
+      "bytes": 287807
+    },
+    {
+      "project": "58-49AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-49AL.mp4",
+      "sha256": "2de04e55419c312d0f4b41278a9fea20f1d3eb759d08a203828a5b9b57c53bae",
+      "bytes": 281543
+    },
+    {
+      "project": "58-64CK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-64CK1L.mp4",
+      "sha256": "59a89386df75c75e67b48d83dea324247f76fcdb80b2df023c5b630c08569f61",
+      "bytes": 277532
+    },
+    {
+      "project": "58-70HB",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-70HB.mp4",
+      "sha256": "6462fdfc8f04dfc1af2c343112d72a692d62a4374aac9729c77188ee575df9e2",
+      "bytes": 276203
+    },
+    {
+      "project": "58-70KL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-70KL.mp4",
+      "sha256": "9e06c2f5467a0c662d5bf8e354b6046dd0a79d07f61d258510efae1ba3667808",
+      "bytes": 320056
+    },
+    {
+      "project": "58-70XA",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-70XA.mp4",
+      "sha256": "e0f3490ef896c46a0813def94d6bbb39ba37cfd8d9475d9874c6c377dbf5995b",
+      "bytes": 279877
+    },
+    {
+      "project": "58-76B",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-76B.mp4",
+      "sha256": "13da79dacffe37e1c616db2308ad6776433b3a906af9abaaef4d5067d0e27fc1",
+      "bytes": 296085
+    },
+    {
+      "project": "58-79ADBK2L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-79ADBK2L.mp4",
+      "sha256": "7c0c8a12e601aa28a5e2be3080d419f0160b880f3c7cf3a7aeb67c3a77397c4c",
+      "bytes": 281146
+    },
+    {
+      "project": "58-87WL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-87WL.mp4",
+      "sha256": "4d84a6ba4e6d29d50822c095d6c5c72ff8516d0d5747c758528f925342fefb1b",
+      "bytes": 255341
+    },
+    {
+      "project": "58-92BA",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-92BA.mp4",
+      "sha256": "01357e7064a6cb22039677032390d457fea9743de234b0648d228242886159a7",
+      "bytes": 272046
+    },
+    {
+      "project": "58-92DL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-92DL.mp4",
+      "sha256": "44d2a85fd1f3917a952e0bdddae62553c2a0abf896bb3fc50b17d9433d5b50cf",
+      "bytes": 272310
+    },
+    {
+      "project": "58-97A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/58-97A.mp4",
+      "sha256": "60141ba77930821d00cbbeccd90541422a37ff12f45a57e19d424fabd5cdfb32",
+      "bytes": 296824
+    },
+    {
+      "project": "59-23BK",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/59-23BK.mp4",
+      "sha256": "6238520c9eb42c1341a067b1fd3fa6e57abf37c217ace7e3d778271bed61b520",
+      "bytes": 269063
+    },
+    {
+      "project": "59-41",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/59-41.mp4",
+      "sha256": "e08c506d3f966bfae0430a8b4c04f53c0ffd3ce22681f2733788910587bc37f8",
+      "bytes": 343495
+    },
+    {
+      "project": "59-45",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/59-45.mp4",
+      "sha256": "ee15ebb5c0358f54a537e7bae824ea8241cac5c539905ac2d731094a11881ceb",
+      "bytes": 364777
+    },
+    {
+      "project": "59-78B",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/59-78B.mp4",
+      "sha256": "afe77e5a1145935e9f8b46cc70a4413e6452ca06616a0052ce5b6791c099ba48",
+      "bytes": 294271
+    },
+    {
+      "project": "59-85",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/59-85.mp4",
+      "sha256": "03c4b90f266aa5e82ecae2b25d64aef7555b04bd6feaa417cae28c14cf0fd429",
+      "bytes": 309480
+    },
+    {
+      "project": "59-85K",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/59-85K.mp4",
+      "sha256": "30cc91d2d492bc00756a227a20435e14f80194d6e0dc7927f6fa03694d6a1f3a",
+      "bytes": 310670
+    },
+    {
+      "project": "59-86",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/59-86.mp4",
+      "sha256": "6ed27aaf26f615160115b1a4bf209e4ff7236c76ea4f49626d413fc4855282c0",
+      "bytes": 296455
+    },
+    {
+      "project": "59-86L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/59-86L.mp4",
+      "sha256": "e4419bef6c97da29c033cc92d9d38502b3a37c62dff3d4a6b96e12af19d3b02c",
+      "bytes": 313932
+    },
+    {
+      "project": "59-92E",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/59-92E.mp4",
+      "sha256": "00bfab4437b97fd30ffb158bb7738f00cb906a57ef5b93a5e485cdc4a24282e8",
+      "bytes": 247763
+    },
+    {
+      "project": "59-92Z",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/59-92Z.mp4",
+      "sha256": "779d19267e49f57309d998329edae08f06d0bee079ff947ebb0c1090e43e4823",
+      "bytes": 241150
+    },
+    {
+      "project": "59-93K",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/59-93K.mp4",
+      "sha256": "aaa0decffa0a25d96f0428f431595a0c7056c8a8b701eb430e7a280fa5002471",
+      "bytes": 335394
+    },
+    {
+      "project": "59-94BK",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/59-94BK.mp4",
+      "sha256": "84fb79ebaed79666be3d94d9a92ae6a205406a8d60859460204abf981f69ae7c",
+      "bytes": 234886
+    },
+    {
+      "project": "59-95A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/59-95A.mp4",
+      "sha256": "ae81b28cbe5ede2b02e1fb2f93e7617f6f84fe3ee34c893d092d963108eb60c7",
+      "bytes": 311594
+    },
+    {
+      "project": "59-95DKL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/59-95DKL.mp4",
+      "sha256": "1055456e3cc40b53a459c6fab5c8d503593d59946acf050e8f08535d26afac6f",
+      "bytes": 288340
+    },
+    {
+      "project": "59-95ML",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/59-95ML.mp4",
+      "sha256": "2df7202d13a0276235407e82f055758c88616842bdf21069cd09b7e137559b20",
+      "bytes": 343428
+    },
+    {
+      "project": "60-88",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/60-88.mp4",
+      "sha256": "e1c8152dddc4043774e226d43e95d92facac8196548df3cfec47e7723d17761b",
+      "bytes": 274090
+    },
+    {
+      "project": "61-01L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/61-01L.mp4",
+      "sha256": "54ce7fd3d7d23ae7db462f538f96a7291ad3d7d6e6a912b1316920de82fa6ba7",
+      "bytes": 315335
+    },
+    {
+      "project": "61-22B",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/61-22B.mp4",
+      "sha256": "21bd6707d97e58eb02b7a4da312d5c4b730867764c69295c271709fbfbb9ad6d",
+      "bytes": 275804
+    },
+    {
+      "project": "61-49",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/61-49.mp4",
+      "sha256": "555f09370869dab264fe939f90fd29f2b810ce508cbc96511eeee9dfe5e1a896",
+      "bytes": 264851
+    },
+    {
+      "project": "62-07A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-07A.mp4",
+      "sha256": "7c3cdc0715e900de2cdb975775945d567ba2a297ef57ce78c8d6e7018b1f73e6",
+      "bytes": 259388
+    },
+    {
+      "project": "62-07ABD",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-07ABD.mp4",
+      "sha256": "69e4cb1ee2333507783f212a42b6f5f326dac4ef4d3e10ab7db0b564c2d5275e",
+      "bytes": 255739
+    },
+    {
+      "project": "62-07ABK2",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-07ABK2.mp4",
+      "sha256": "f6dde551a42676d19ed3b46e03bd752c2c10cbdc0433f0cfae1d1b124735e06e",
+      "bytes": 284748
+    },
+    {
+      "project": "62-11BMK",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-11BMK.mp4",
+      "sha256": "12119be5e91ff46e555c28da30cf08ad8ec98d6d75bbffa6def43916f883c2b1",
+      "bytes": 267144
+    },
+    {
+      "project": "62-20BAB",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-20BAB.mp4",
+      "sha256": "1253a288bbe78dff375615673e4e3b707ba51ef0c722c44858b430dc38c46cb3",
+      "bytes": 260578
+    },
+    {
+      "project": "62-21",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-21.mp4",
+      "sha256": "a3cf449c0b07fb1973b0a15b91f31db4cba78e4cb4031415f9485e4e898ec948",
+      "bytes": 332387
+    },
+    {
+      "project": "62-22B",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-22B.mp4",
+      "sha256": "7c5b06d73cb2aab2c801f8560d5578c990c613b26d46b5d1eb7ba57ddca69cb7",
+      "bytes": 247463
+    },
+    {
+      "project": "62-22NADAG2",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-22NADAG2.mp4",
+      "sha256": "4209762ad02ff7c20fb52e945d1ecfe51823e02d07433ddfa033998ab80ca658",
+      "bytes": 323730
+    },
+    {
+      "project": "62-24AE",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-24AE.mp4",
+      "sha256": "9463ca579fd0d21a96a210fbcf1aa71db42a08efa87ef6a779c6aeb02692668d",
+      "bytes": 243430
+    },
+    {
+      "project": "62-24AM",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-24AM.mp4",
+      "sha256": "d210dd483f0075dd347743b11df73bcf0ad9242795e91729d16fe52527d3b078",
+      "bytes": 229179
+    },
+    {
+      "project": "62-24RAI",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-24RAI.mp4",
+      "sha256": "4faad3b5052ec893e7858e0eb93fa546eef6b2630fb6d8c52eb5d5c1e6a037e3",
+      "bytes": 241942
+    },
+    {
+      "project": "62-31",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-31.mp4",
+      "sha256": "1c1e83a381101d80ca1c4c5159387b8149f6b7296e803dea93a409ae7f6cf654",
+      "bytes": 291263
+    },
+    {
+      "project": "62-38AHK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-38AHK1L.mp4",
+      "sha256": "331bb4cd3f63a7a883800939d22c44fcc36b5972d9bfb330e4659dcf486ec073",
+      "bytes": 281811
+    },
+    {
+      "project": "62-38K1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-38K1L.mp4",
+      "sha256": "363d347657eaa7bac2c2ece0ce13b7fe6012b9d9eb31ad4a06bb6a9550a54d88",
+      "bytes": 262878
+    },
+    {
+      "project": "62-39",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-39.mp4",
+      "sha256": "73a81018db43d6a28c61e3199ab10a5c1dafbe51c6b07062ea39ee5976d7af5c",
+      "bytes": 283888
+    },
+    {
+      "project": "62-52L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-52L.mp4",
+      "sha256": "7a1042081cc4f4ba64f700d0acddca645af9c862e1e997b44b59e4174b69852d",
+      "bytes": 245789
+    },
+    {
+      "project": "62-63A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-63A.mp4",
+      "sha256": "887f0786a4baea6edce326065a307d44a333f8a04d31325efca628374f217b55",
+      "bytes": 227970
+    },
+    {
+      "project": "62-67A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-67A.mp4",
+      "sha256": "48d7fd75b903dffb42463f70f375c30a8f0ac4609e64c40bcc911c8daf6e22cf",
+      "bytes": 263839
+    },
+    {
+      "project": "62-67C",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-67C.mp4",
+      "sha256": "151d22d836d163e42020704499f4a663a62c4c31eb0e330efd3a303c981cdee2",
+      "bytes": 312629
+    },
+    {
+      "project": "62-69",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-69.mp4",
+      "sha256": "ac57a50771c1b13ffe15361b588dc722a79fe0ae0a5158007e77e132d4bf928c",
+      "bytes": 277300
+    },
+    {
+      "project": "62-69ABL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-69ABL.mp4",
+      "sha256": "9d9819665bdc9dd2f5eaad5a3f207b9d53edea4eda923ea0b9cbd4e68134630e",
+      "bytes": 336035
+    },
+    {
+      "project": "62-70",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-70.mp4",
+      "sha256": "661eb55cbdfca4ee3355d61c457c4435d5964d97a5093073e0d603b861a58c59",
+      "bytes": 292271
+    },
+    {
+      "project": "62-71BADL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-71BADL.mp4",
+      "sha256": "fbfdb41dfdcdd7e0f0120f0772979f6494008da7d452b6dc88c16715cc844556",
+      "bytes": 256867
+    },
+    {
+      "project": "62-71BN",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-71BN.mp4",
+      "sha256": "6b7e09c24378f00b0dad629f01ac552736ce3a08d51397eeddebd5653da72f81",
+      "bytes": 265395
+    },
+    {
+      "project": "62-71BSAMK1",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-71BSAMK1.mp4",
+      "sha256": "ef9f43e8a1b662d035b51c45ae2ce8ea6c5500692ea4af16d7877ee11434919f",
+      "bytes": 284329
+    },
+    {
+      "project": "62-71BTBL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-71BTBL.mp4",
+      "sha256": "66c5a249f1e908d130b0ce92dc81ee7eaae93b7d3460d51b5579bd1aa59474da",
+      "bytes": 274442
+    },
+    {
+      "project": "62-71D",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-71D.mp4",
+      "sha256": "71ac8883f1ebf20c7596bd379e43fac2fc448288222a8c4ef568a7c8bd9e6933",
+      "bytes": 245233
+    },
+    {
+      "project": "62-80A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/62-80A.mp4",
+      "sha256": "647ee7fa6bc42c81ecbc5c1fccffeb8e62cec55b5daa46e7c0a82c9d97fba8c4",
+      "bytes": 374641
+    },
+    {
+      "project": "63-04",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/63-04.mp4",
+      "sha256": "195e16d902c130adad26c76c7a7041d8403bdeb329ac87e2ccae5b90a1923ef0",
+      "bytes": 283328
+    },
+    {
+      "project": "63-09DA",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/63-09DA.mp4",
+      "sha256": "61860921e18bd888c88f267055331c2cb7793f3c8c92344abf1a344287581908",
+      "bytes": 258474
+    },
+    {
+      "project": "63-31",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/63-31.mp4",
+      "sha256": "da2177b107c7d410c25a608a4f36e7a64ccecd10f324a275caafa13b5d5739c5",
+      "bytes": 277736
+    },
+    {
+      "project": "63-40EAK2L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/63-40EAK2L.mp4",
+      "sha256": "859da92b43c6519accb329c6864a32d18a8678317aee97745c5e0ecc0bd822ba",
+      "bytes": 284313
+    },
+    {
+      "project": "63-70A",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/63-70A.mp4",
+      "sha256": "4048af5b011c821418bbff8e94041d5fb47e12ab33627bf773d851158e8f2b64",
+      "bytes": 241674
+    },
+    {
+      "project": "63-76",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/63-76.mp4",
+      "sha256": "d42807a602172af71e3e2ec7cdaca19fc068b909231523170f85402d78a20531",
+      "bytes": 301363
+    },
+    {
+      "project": "63-79AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/63-79AL.mp4",
+      "sha256": "4798fc962e41963860182aa3f6b853d2b52dff46a4f634d70d2c084a895f041b",
+      "bytes": 292339
+    },
+    {
+      "project": "63-88AK1L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/63-88AK1L.mp4",
+      "sha256": "c1efb0cc5f9bafe75049b22914746a6b7227cb81193213a92e89eaecece51c99",
+      "bytes": 299619
+    },
+    {
+      "project": "64-10",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/64-10.mp4",
+      "sha256": "21121d8629be64aeb6c152cd6aaf382ca2de0b7630463cb3c4afa99befb51b23",
+      "bytes": 287243
+    },
+    {
+      "project": "64-27",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/64-27.mp4",
+      "sha256": "8dade2ef11f8df6e83840fa9f8092f1c697ae95f37bac0b972254441d71f5b9e",
+      "bytes": 294906
+    },
+    {
+      "project": "64-39",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/64-39.mp4",
+      "sha256": "cb28f6cf6f9df40b45dd4e342ac49926992bf875c38306e7b5af6eab0d0bd6bb",
+      "bytes": 272138
+    },
+    {
+      "project": "64-44AL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/64-44AL.mp4",
+      "sha256": "8f0b471bc6d2fbb98515a658170a1dde65785299909cd893c94e3a403b847dc2",
+      "bytes": 322468
+    },
+    {
+      "project": "64-48AG3",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/64-48AG3.mp4",
+      "sha256": "6d27535c90e52ff045609b3b5eda78e565748c0c440fc252ad15a595bd3e2dc9",
+      "bytes": 261010
+    },
+    {
+      "project": "64-59ML",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/64-59ML.mp4",
+      "sha256": "9ba623289838cc3a083a9fa9e239f6bb710f74e1f214c624166dd6c5744796d1",
+      "bytes": 302189
+    },
+    {
+      "project": "64-64",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/64-64.mp4",
+      "sha256": "e5dbeb0c49544233e7734c4b3b6f521d8beaf938626ac846e09a7bac173c3983",
+      "bytes": 286718
+    },
+    {
+      "project": "64-75AG3",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/64-75AG3.mp4",
+      "sha256": "9ccaf5aa6c25387333f25f6727c5867c7a1f0c1720fa3e4d6304276aabce431b",
+      "bytes": 272110
+    },
+    {
+      "project": "64-80",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/64-80.mp4",
+      "sha256": "30ab05b5a8cc30d12b96a9a4cde061ff4aed1d705763429be0d7b5d6fd96437b",
+      "bytes": 251267
+    },
+    {
+      "project": "65-02",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/65-02.mp4",
+      "sha256": "00e7e1ff27123407f05c7f61844e03442dc99f242a94057ece74ee452dd29077",
+      "bytes": 299492
+    },
+    {
+      "project": "65-03L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/65-03L.mp4",
+      "sha256": "95abb6c0310e8e779aeea9c273118aa40e4abf73146426882c17ae89d23af0c6",
+      "bytes": 279425
+    },
+    {
+      "project": "65-21",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/65-21.mp4",
+      "sha256": "3833b7770523f4706c8adf725524c97ed5957be912600ae74457cb549207e590",
+      "bytes": 255769
+    },
+    {
+      "project": "65-26BX",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/65-26BX.mp4",
+      "sha256": "1d347f321351e388281f51d08ac19886cf019a5d3e6b22a90209a6ac4e73918d",
+      "bytes": 274258
+    },
+    {
+      "project": "65-52GL",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/65-52GL.mp4",
+      "sha256": "5bb5ca63a2060d46562736a3f214ed9ca8c7c89d762e690211ef78b1a6f1c990",
+      "bytes": 322580
+    },
+    {
+      "project": "65-66",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/65-66.mp4",
+      "sha256": "eb792223a81e758c8e80dbb6702b59352ec57035eaa12cf23528228241f81213",
+      "bytes": 256081
+    },
+    {
+      "project": "65-84",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/65-84.mp4",
+      "sha256": "947ce42d233b79ac64b5f702bee4acfbd08882f4ac345b5eae414c788c7bbc73",
+      "bytes": 276842
+    },
+    {
+      "project": "65-90L",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/65-90L.mp4",
+      "sha256": "bcf3c98ac7c6754774789f6dd693f8a9a43878aba8a65ff71888a41979b81cb6",
+      "bytes": 290468
+    },
+    {
+      "project": "65-93",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/65-93.mp4",
+      "sha256": "fc466385854990fcf54d248211f0a44dd9c6b2544fe304045ec31ede5856fedd",
+      "bytes": 255740
+    },
+    {
+      "project": "66-03",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/66-03.mp4",
+      "sha256": "157c6551c7906cc1de4a6fc900c0bdad8158462413af0e826abfc7700b501247",
+      "bytes": 210847
+    },
+    {
+      "project": "67-00",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/67-00.mp4",
+      "sha256": "73cbc6866f2f8015e4de2c291eadb7cad18e375279a0458c1161284e1a6ec4fa",
+      "bytes": 222542
+    },
+    {
+      "project": "68-04",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/68-04.mp4",
+      "sha256": "fd01a96b72f2be38317463749c5194f36bd19f9bb180be4ea3dc13dca88f8f03",
+      "bytes": 250042
+    },
+    {
+      "project": "68-19ML",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/68-19ML.mp4",
+      "sha256": "d3cf1489273e4cb1529f075aae650c58a8cc856d0d2fbb42db7c04653849b182",
+      "bytes": 280114
+    },
+    {
+      "project": "68-31M",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/68-31M.mp4",
+      "sha256": "0e3465e86d36a082a392b93185a0741a24f67e27d7c21e91ac549b73daa6c4e8",
+      "bytes": 301876
+    },
+    {
+      "project": "68-85",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/68-85.mp4",
+      "sha256": "7a6a7f034d99a3e4fec54811996bd694600fb57fdf178a3d131f94b1d167edd9",
+      "bytes": 306851
+    },
+    {
+      "project": "70-70",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/70-70.mp4",
+      "sha256": "57e919bbf21b80862b545206b4bb49d10a60dbbbadd1e42fe0a3e1c5fe08eea5",
+      "bytes": 326506
+    },
+    {
+      "project": "70-83",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/70-83.mp4",
+      "sha256": "01923bfcc39b5a35941098dad467bb8d84d8aa30e7104a4db4f766119c60883d",
+      "bytes": 316306
+    },
+    {
+      "project": "80-03",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/80-03.mp4",
+      "sha256": "e1afbb9686b544275e8c6bef1cf180b5032faaa25b1b3a6024adc37c2de28327",
+      "bytes": 338679
+    },
+    {
+      "project": "90-70",
+      "url": "https://raw.githubusercontent.com/nemchenik/test/c6e88857064094979749c700fb2677da844e9e99/pinterest/generated_batch_41_clean_editorial_video/90-70.mp4",
+      "sha256": "f045ad996b25d48bd24a530f1abe4bb4f0ed38aae06a09f4546b6f7e9b70e0b1",
+      "bytes": 316834
+    }
+  ]
+}

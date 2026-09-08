@@ -1,0 +1,20 @@
+name: Catalog batch 51 chromatic random static cards
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: catalog-plans-pinterest-cards
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow requests beautifulsoup4
+      - name: Generate 200 colorful static cards
+        env:
+          ASSET_BRANCH: catalog-plans-pinterest-assets
+        run: python pinterest/batch51_chromatic_random_static.py

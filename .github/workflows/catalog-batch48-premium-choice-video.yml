@@ -1,0 +1,16 @@
+name: Catalog Plans batch 48 premium choice videos
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow requests beautifulsoup4
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: python pinterest/batch48_premium_choice_video.py

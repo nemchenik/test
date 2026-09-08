@@ -1,0 +1,13 @@
+name: Catalog batch 60 original floor plans tech cards
+on: {workflow_dispatch: {}}
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: catalog-plans-pinterest-cards}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install pillow requests beautifulsoup4
+      - run: python pinterest/batch60_floor_plans_tech_static.py
+        env: {ASSET_BRANCH: catalog-plans-pinterest-assets}

@@ -1,0 +1,76 @@
+name: Catalog Plans batch 35 video pins
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - "pinterest/batch35_video_generate.py"
+      - "pinterest/batch35_video_generate_v2.py"
+      - "pinterest/batch35_video_trigger.txt"
+      - ".github/workflows/catalog-batch35-video.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+    steps:
+      - name: Checkout generator branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+
+      - name: Checkout public asset branch
+        uses: actions/checkout@v4
+        with:
+          ref: catalog-plans-pinterest-assets
+          path: asset_repo
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade requests beautifulsoup4 pillow
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          ffmpeg -version | head -1
+
+      - name: Generate and validate 200 MP4 files
+        env:
+          ASSET_CHECKOUT: ${{ github.workspace }}/asset_repo
+          ASSET_BRANCH: catalog-plans-pinterest-assets
+        run: python pinterest/batch35_video_generate_v2.py
+
+      - name: Publish MP4 files to asset branch
+        working-directory: asset_repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pinterest/generated_batch_35_video
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish Catalog Plans batch 35 video pins"
+            git fetch origin catalog-plans-pinterest-assets
+            git rebase origin/catalog-plans-pinterest-assets
+            git push origin HEAD:catalog-plans-pinterest-assets
+          fi
+
+      - name: Verify all 200 public MP4 URLs
+        env:
+          ASSET_CHECKOUT: ${{ github.workspace }}/asset_repo
+          ASSET_BRANCH: catalog-plans-pinterest-assets
+        run: python pinterest/batch35_video_generate_v2.py --verify-public
+
+      - name: Upload verified CSV only
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalog-plans-batch35-video-pins-verified
+          path: pinterest/batch35_video_output/catalog_plans_pinterest_house_videos_batch_35_200.csv
+          if-no-files-found: error
+          retention-days: 7
